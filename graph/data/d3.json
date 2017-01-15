@@ -1,0 +1,799 @@
+{
+    "edges": [
+        {
+            "size": "1",
+            "id": "53",
+            "target": "Business administration",
+            "source": "Hotel school",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "52",
+            "target": "Electronics",
+            "source": "Safety and security",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "51",
+            "target": "Teacher",
+            "source": "Hotel school",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "50",
+            "target": "Commercial degree",
+            "source": "Hotel school",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "49",
+            "target": "Electrician apprenticeship",
+            "source": "Safety and security",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "48",
+            "target": "Electrician apprenticeship",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "47",
+            "target": "Electrician apprenticeship",
+            "source": "Joiner",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "46",
+            "target": "Electronics",
+            "source": "Computer science",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "44",
+            "target": "Economics degree",
+            "source": "Teacher",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "43",
+            "target": "Teacher",
+            "source": "Restoration apprenticeship",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "42",
+            "target": "Teaching degree",
+            "source": "Teacher",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "41",
+            "target": "Nutritionist",
+            "source": "Cook",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "40",
+            "target": "Safety and security",
+            "source": "Teacher",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "39",
+            "target": "Economics degree",
+            "source": "Medical assistant",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "38",
+            "target": "Commercial degree",
+            "source": "Restoration apprenticeship",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "37",
+            "target": "Joiner",
+            "source": "Painter",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "36",
+            "target": "Electrician apprenticeship",
+            "source": "Apprenticeship in mechatronics",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "35",
+            "target": "Teacher",
+            "source": "Confectioner",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "34",
+            "target": "Commercial apprenticeship",
+            "source": "Tourism",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "33",
+            "target": "Medical assistant",
+            "source": "Confectioner",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "32",
+            "target": "Joiner",
+            "source": "Safety and security",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "31",
+            "target": "Safety and security",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "30",
+            "target": "Pharmaceutical education",
+            "source": "Cook",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "29",
+            "target": "Economics degree",
+            "source": "Child and youth services",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "28",
+            "target": "Painter",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "27",
+            "target": "Economics degree",
+            "source": "Nurse",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "26",
+            "target": "Economics degree",
+            "source": "Surgeon",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "1",
+            "id": "25",
+            "target": "Joiner",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "1",
+            "id": "24",
+            "target": "Electrician apprenticeship",
+            "source": "Painter",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "1",
+            "id": "23",
+            "target": "Painter",
+            "source": "Safety and security",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "1",
+            "id": "22",
+            "target": "Cook",
+            "source": "Pediatrician",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "1",
+            "id": "21",
+            "target": "Teacher",
+            "source": "Cook",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "1",
+            "id": "20",
+            "target": "Food technologist apprenticeship",
+            "source": "Electronics",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "1",
+            "id": "19",
+            "target": "Food technologist apprenticeship",
+            "source": "Stylist",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "18",
+            "target": "Food technologist apprenticeship",
+            "source": "Pharmaceutical education",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "17",
+            "target": "Cook",
+            "source": "Psychiatry",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "16",
+            "target": "Economics degree",
+            "source": "Confectioner",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "2",
+            "id": "15",
+            "target": "Nurse",
+            "source": "Safety and security",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "2",
+            "id": "14",
+            "target": "Safety and security",
+            "source": "Pharmaceutical education",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "3",
+            "id": "13",
+            "target": "Nurse",
+            "source": "Cook",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "3",
+            "id": "12",
+            "target": "Hotel school",
+            "source": "Restoration apprenticeship",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "3",
+            "id": "11",
+            "target": "Food technologist apprenticeship",
+            "source": "Safety and security",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "3",
+            "id": "10",
+            "target": "Cook",
+            "source": "Hotel school",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "3",
+            "id": "9",
+            "target": "Child and youth services",
+            "source": "Cook",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "3",
+            "id": "8",
+            "target": "Electronics",
+            "source": "Cook",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "3",
+            "id": "7",
+            "target": "Safety and security",
+            "source": "Barista",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "3",
+            "id": "6",
+            "target": "Commercial degree",
+            "source": "Tourism",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "3",
+            "id": "5",
+            "target": "Child and youth services",
+            "source": "Pediatrician",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "4",
+            "id": "4",
+            "target": "Food technologist apprenticeship",
+            "source": "Confectioner",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "4",
+            "id": "3",
+            "target": "Cook",
+            "source": "Confectioner",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "5",
+            "id": "2",
+            "target": "Business administration",
+            "source": "Tourism",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "7",
+            "id": "1",
+            "target": "Food technologist apprenticeship",
+            "source": "Cook",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "11",
+            "id": "0",
+            "target": "Safety and security",
+            "source": "Cook",
+            "color": "rgba(70, 136, 241)"
+        }
+    ],
+    "nodes": [
+        {
+            "size": "1",
+            "id": "Stylist",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Stylist"
+        },
+        {
+            "size": "2",
+            "id": "Psychiatry",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Psychiatry"
+        },
+        {
+            "size": "3",
+            "id": "Pharmaceutical education",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Pharmaceutical education"
+        },
+        {
+            "size": "1",
+            "id": "Joiner",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Joiner"
+        },
+        {
+            "size": "1",
+            "id": "Apprenticeship in mechatronics",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Apprenticeship in mechatronics"
+        },
+        {
+            "size": "10",
+            "id": "Economics degree",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Economics degree"
+        },
+        {
+            "size": "29",
+            "id": "Hotel school",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Hotel school"
+        },
+        {
+            "size": "186",
+            "id": "Cook",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Cook"
+        },
+        {
+            "size": "1",
+            "id": "Commercial apprenticeship",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Commercial apprenticeship"
+        },
+        {
+            "size": "4",
+            "id": "Barista",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Barista"
+        },
+        {
+            "size": "7",
+            "id": "Nurse",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Nurse"
+        },
+        {
+            "size": "22",
+            "id": "Safety and security",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Safety and security"
+        },
+        {
+            "size": "1",
+            "id": "Medical assistant",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Medical assistant"
+        },
+        {
+            "size": "2",
+            "id": "Electrician apprenticeship",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Electrician apprenticeship"
+        },
+        {
+            "size": "3",
+            "id": "Mechanic apprenticeship",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Mechanic apprenticeship"
+        },
+        {
+            "size": "1",
+            "id": "Painter",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Painter"
+        },
+        {
+            "size": "1",
+            "id": "Surgeon",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Surgeon"
+        },
+        {
+            "size": "17",
+            "id": "Tourism",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Tourism"
+        },
+        {
+            "size": "13",
+            "id": "Commercial degree",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Commercial degree"
+        },
+        {
+            "size": "7",
+            "id": "Business administration",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Business administration"
+        },
+        {
+            "size": "29",
+            "id": "Restoration apprenticeship",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Restoration apprenticeship"
+        },
+        {
+            "size": "3",
+            "id": "Pediatrician",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Pediatrician"
+        },
+        {
+            "size": "1",
+            "id": "Teaching degree",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Teaching degree"
+        },
+        {
+            "size": "6",
+            "id": "Electronics",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Electronics"
+        },
+        {
+            "size": "11",
+            "id": "Teacher",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Teacher"
+        },
+        {
+            "size": "37",
+            "id": "Food technologist apprenticeship",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Food technologist apprenticeship"
+        },
+        {
+            "size": "23",
+            "id": "Confectioner",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Confectioner"
+        },
+        {
+            "size": "2",
+            "id": "Nutritionist",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Nutritionist"
+        },
+        {
+            "size": "4",
+            "id": "Computer science",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Computer science"
+        },
+        {
+            "size": "7",
+            "id": "Child and youth services",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Child and youth services"
+        }
+    ],
+    "histogram": [
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Stylist"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Psychiatry"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Pharmaceutical education"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Joiner"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Apprenticeship in mechatronics"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Business degree"
+        },
+        {
+            "size": "10",
+            "histogram_color": 3,
+            "label": "Economics degree"
+        },
+        {
+            "size": "29",
+            "histogram_color": 3,
+            "label": "Hotel school"
+        },
+        {
+            "size": "186",
+            "histogram_color": 3,
+            "label": "Cook"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Commercial apprenticeship"
+        },
+        {
+            "size": "4",
+            "histogram_color": 3,
+            "label": "Barista"
+        },
+        {
+            "size": "8",
+            "histogram_color": 3,
+            "label": "Kitchen helper"
+        },
+        {
+            "size": "7",
+            "histogram_color": 3,
+            "label": "Nurse"
+        },
+        {
+            "size": "22",
+            "histogram_color": 3,
+            "label": "Safety and security"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Medical assistant"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Electrician apprenticeship"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Mechanic apprenticeship"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Painter"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Surgeon"
+        },
+        {
+            "size": "17",
+            "histogram_color": 3,
+            "label": "Tourism"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Psychology"
+        },
+        {
+            "size": "13",
+            "histogram_color": 3,
+            "label": "Commercial degree"
+        },
+        {
+            "size": "7",
+            "histogram_color": 3,
+            "label": "Business administration"
+        },
+        {
+            "size": "29",
+            "histogram_color": 3,
+            "label": "Restoration apprenticeship"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Pediatrician"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Teaching degree"
+        },
+        {
+            "size": "6",
+            "histogram_color": 3,
+            "label": "Electronics"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Biology"
+        },
+        {
+            "size": "11",
+            "histogram_color": 3,
+            "label": "Teacher"
+        },
+        {
+            "size": "37",
+            "histogram_color": 3,
+            "label": "Food technologist apprenticeship"
+        },
+        {
+            "size": "23",
+            "histogram_color": 3,
+            "label": "Confectioner"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Nutritionist"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Beautician"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Mathematics"
+        },
+        {
+            "size": "4",
+            "histogram_color": 3,
+            "label": "Computer science"
+        },
+        {
+            "size": "7",
+            "histogram_color": 3,
+            "label": "Child and youth services"
+        }
+    ]
+}

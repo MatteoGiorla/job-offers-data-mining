@@ -1,0 +1,509 @@
+{
+    "edges": [
+        {
+            "size": "1",
+            "id": "28",
+            "target": "Technical education degree",
+            "source": "Polygraf",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "27",
+            "target": "Electrical engineering",
+            "source": "Screen printer",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "26",
+            "target": "Electrician apprenticeship",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "25",
+            "target": "Typographic designer",
+            "source": "Media designer",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "24",
+            "target": "Teacher",
+            "source": "Graphic designer",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "23",
+            "target": "Screen printer",
+            "source": "Printing technologist",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "22",
+            "target": "Safety and security",
+            "source": "Printing technologist",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "21",
+            "target": "Electrical engineering",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "20",
+            "target": "Electrician apprenticeship",
+            "source": "Architecture",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "19",
+            "target": "Screen printer",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "18",
+            "target": "Stylist",
+            "source": "Graphic designer",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "17",
+            "target": "Carpenter",
+            "source": "Polydesigner 3D",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "16",
+            "target": "Visual design/communication",
+            "source": "Polygraf",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "15",
+            "target": "Draftsman",
+            "source": "Architecture",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "14",
+            "target": "Electrical engineering",
+            "source": "Electrician apprenticeship",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "1",
+            "id": "13",
+            "target": "Draftsman",
+            "source": "Electrician apprenticeship",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "1",
+            "id": "12",
+            "target": "Photographer",
+            "source": "Graphic designer",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "1",
+            "id": "11",
+            "target": "Electrician apprenticeship",
+            "source": "Screen printer",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "1",
+            "id": "10",
+            "target": "Teacher",
+            "source": "Polydesigner 3D",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "1",
+            "id": "9",
+            "target": "Carrossier",
+            "source": "Graphic designer",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "1",
+            "id": "8",
+            "target": "Typographic designer",
+            "source": "Safety and security",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "1",
+            "id": "7",
+            "target": "Safety and security",
+            "source": "Polygraf",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "1",
+            "id": "6",
+            "target": "Typographic designer",
+            "source": "Visual design/communication",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "2",
+            "id": "5",
+            "target": "Visual design/communication",
+            "source": "Graphic designer",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "2",
+            "id": "4",
+            "target": "Typographic designer",
+            "source": "Polygraf",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "2",
+            "id": "3",
+            "target": "Graphic designer",
+            "source": "Media designer",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "3",
+            "id": "2",
+            "target": "Polydesigner 3D",
+            "source": "Visual merchandiser",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "4",
+            "id": "1",
+            "target": "Polygraf",
+            "source": "Graphic designer",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "5",
+            "id": "0",
+            "target": "Typographic designer",
+            "source": "Graphic designer",
+            "color": "rgba(70, 136, 241)"
+        }
+    ],
+    "nodes": [
+        {
+            "size": "20",
+            "id": "Graphic designer",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Graphic designer"
+        },
+        {
+            "size": "1",
+            "id": "Stylist",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Stylist"
+        },
+        {
+            "size": "1",
+            "id": "Carpenter",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Carpenter"
+        },
+        {
+            "size": "6",
+            "id": "Typographic designer",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Typographic designer"
+        },
+        {
+            "size": "1",
+            "id": "Technical education degree",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Technical education degree"
+        },
+        {
+            "size": "1",
+            "id": "Electrical engineering",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Electrical engineering"
+        },
+        {
+            "size": "2",
+            "id": "Media designer",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Media designer"
+        },
+        {
+            "size": "3",
+            "id": "Safety and security",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Safety and security"
+        },
+        {
+            "size": "2",
+            "id": "Electrician apprenticeship",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Electrician apprenticeship"
+        },
+        {
+            "size": "1",
+            "id": "Mechanic apprenticeship",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Mechanic apprenticeship"
+        },
+        {
+            "size": "11",
+            "id": "Polygraf",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Polygraf"
+        },
+        {
+            "size": "7",
+            "id": "Polydesigner 3D",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Polydesigner 3D"
+        },
+        {
+            "size": "1",
+            "id": "Architecture",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Architecture"
+        },
+        {
+            "size": "1",
+            "id": "Carrossier",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Carrossier"
+        },
+        {
+            "size": "1",
+            "id": "Draftsman",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Draftsman"
+        },
+        {
+            "size": "4",
+            "id": "Screen printer",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Screen printer"
+        },
+        {
+            "size": "3",
+            "id": "Visual design/communication",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Visual design/communication"
+        },
+        {
+            "size": "3",
+            "id": "Printing technologist",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Printing technologist"
+        },
+        {
+            "size": "3",
+            "id": "Visual merchandiser",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Visual merchandiser"
+        },
+        {
+            "size": "2",
+            "id": "Teacher",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Teacher"
+        },
+        {
+            "size": "1",
+            "id": "Photographer",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Photographer"
+        }
+    ],
+    "histogram": [
+        {
+            "size": "20",
+            "histogram_color": 3,
+            "label": "Graphic designer"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Stylist"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Carpenter"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Pharmaceutical education"
+        },
+        {
+            "size": "6",
+            "histogram_color": 3,
+            "label": "Typographic designer"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Technical education degree"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Electrical engineering"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Media designer"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Safety and security"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Electrician apprenticeship"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Mechanic apprenticeship"
+        },
+        {
+            "size": "11",
+            "histogram_color": 3,
+            "label": "Polygraf"
+        },
+        {
+            "size": "7",
+            "histogram_color": 3,
+            "label": "Polydesigner 3D"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Architecture"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Carrossier"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Motion design"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Painter"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Draftsman"
+        },
+        {
+            "size": "4",
+            "histogram_color": 3,
+            "label": "Screen printer"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Visual design/communication"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Printing technologist"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Visual merchandiser"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Product designer"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Teacher"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Animation design"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Photographer"
+        }
+    ]
+}

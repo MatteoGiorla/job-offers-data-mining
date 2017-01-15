@@ -1,0 +1,1425 @@
+{
+    "edges": [
+        {
+            "size": "1",
+            "id": "104",
+            "target": "Technical education degree",
+            "source": "Social work degree",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "103",
+            "target": "Commercial degree",
+            "source": "Computer science",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "102",
+            "target": "Electronics",
+            "source": "Business degree",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "101",
+            "target": "Commercial degree",
+            "source": "Safety and security",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "100",
+            "target": "Electronics",
+            "source": "Commercial degree",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "99",
+            "target": "Stylist",
+            "source": "Mathematics",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "98",
+            "target": "Economics degree",
+            "source": "Teacher",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "97",
+            "target": "Nurse",
+            "source": "Pharmaceutical education",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "96",
+            "target": "Commercial degree",
+            "source": "Polygraf",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "95",
+            "target": "Commercial degree",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "93",
+            "target": "Economics degree",
+            "source": "Plasterer",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "92",
+            "target": "Social work degree",
+            "source": "Business administration",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "91",
+            "target": "Nurse",
+            "source": "Cardiologist",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "90",
+            "target": "Social sciences",
+            "source": "Technical education degree",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "89",
+            "target": "Business administration",
+            "source": "Traffic engineering",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "88",
+            "target": "Electronics",
+            "source": "Chemistry",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "87",
+            "target": "Economics degree",
+            "source": "Stylist",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "86",
+            "target": "Visual design/communication",
+            "source": "Animation design",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "85",
+            "target": "Telecommunications",
+            "source": "Computer scientist apprenticeship",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "84",
+            "target": "Commercial degree",
+            "source": "Tourism",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "83",
+            "target": "Motion design",
+            "source": "Animation design",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "82",
+            "target": "Medical assistant",
+            "source": "Cardiologist",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "81",
+            "target": "Electronics",
+            "source": "Teacher",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "80",
+            "target": "Economics degree",
+            "source": "Tourism",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "79",
+            "target": "Electronics",
+            "source": "Polygraf",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "78",
+            "target": "Electronics",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "77",
+            "target": "Business administration",
+            "source": "Political science",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "76",
+            "target": "Telecommunications",
+            "source": "Safety and security",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "75",
+            "target": "Business administration",
+            "source": "Mathematics",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "74",
+            "target": "Business degree",
+            "source": "Computer science",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "73",
+            "target": "Technical education degree",
+            "source": "Commercial degree",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "72",
+            "target": "Economics degree",
+            "source": "Medicine",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "71",
+            "target": "Pharmaceutical education",
+            "source": "Polygraf",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "70",
+            "target": "Technical education degree",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "69",
+            "target": "Electronics",
+            "source": "Computer science",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "68",
+            "target": "Economics degree",
+            "source": "Pharmaceutical education",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "67",
+            "target": "Electrical engineering",
+            "source": "Polygraf",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "66",
+            "target": "Business degree",
+            "source": "Surgeon",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "65",
+            "target": "Photographer",
+            "source": "Commercial degree",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "64",
+            "target": "Economics degree",
+            "source": "Safety and security",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "63",
+            "target": "Beautician",
+            "source": "Media designer",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "62",
+            "target": "Business administration",
+            "source": "Tourism",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "61",
+            "target": "Economics degree",
+            "source": "Commercial degree",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "60",
+            "target": "Business degree",
+            "source": "Polygraf",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "59",
+            "target": "Business degree",
+            "source": "Graphic designer",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "58",
+            "target": "Electrical engineering",
+            "source": "Technical education degree",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "57",
+            "target": "Pharmaceutical education",
+            "source": "Graphic designer",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "56",
+            "target": "Technical education degree",
+            "source": "Polygraf",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "55",
+            "target": "Social sciences",
+            "source": "Business administration",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "54",
+            "target": "Nurse",
+            "source": "Medicine",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "53",
+            "target": "Commercial degree",
+            "source": "Confectioner",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "52",
+            "target": "Photographer",
+            "source": "Tourism",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "1",
+            "id": "51",
+            "target": "Safety and security",
+            "source": "Business degree",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "1",
+            "id": "50",
+            "target": "Plasterer",
+            "source": "Stylist",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "1",
+            "id": "49",
+            "target": "Electrical engineering",
+            "source": "Electronics",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "1",
+            "id": "48",
+            "target": "Electrical engineering",
+            "source": "Civil engineering",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "1",
+            "id": "47",
+            "target": "Nurse",
+            "source": "Medical assistant",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "1",
+            "id": "46",
+            "target": "Beautician",
+            "source": "Stylist",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "1",
+            "id": "45",
+            "target": "Electrical engineering",
+            "source": "Commercial degree",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "1",
+            "id": "44",
+            "target": "Commercial apprenticeship",
+            "source": "Computer science",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "1",
+            "id": "43",
+            "target": "Commercial degree",
+            "source": "Cook",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "1",
+            "id": "42",
+            "target": "Safety and security",
+            "source": "Computer science",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "1",
+            "id": "41",
+            "target": "Economics degree",
+            "source": "Political science",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "1",
+            "id": "40",
+            "target": "Data manager",
+            "source": "Business administration",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "1",
+            "id": "39",
+            "target": "Business degree",
+            "source": "Banking apprenticeship",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "38",
+            "target": "Technical direction degree",
+            "source": "Business administration",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "37",
+            "target": "Business administration",
+            "source": "Business degree",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "36",
+            "target": "Business degree",
+            "source": "Stylist",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "35",
+            "target": "Beautician",
+            "source": "Computer science",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "34",
+            "target": "Visual design/communication",
+            "source": "Business degree",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "33",
+            "target": "Economics degree",
+            "source": "Photographer",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "32",
+            "target": "Visual design/communication",
+            "source": "Commercial degree",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "31",
+            "target": "Business administration",
+            "source": "Information systems",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "2",
+            "id": "30",
+            "target": "Business administration",
+            "source": "Commercial degree",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "2",
+            "id": "29",
+            "target": "Electronics",
+            "source": "Stylist",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "2",
+            "id": "28",
+            "target": "Electrical engineering",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "2",
+            "id": "27",
+            "target": "Polygraf",
+            "source": "Graphic designer",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "2",
+            "id": "26",
+            "target": "Painter",
+            "source": "Plasterer",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "2",
+            "id": "25",
+            "target": "Electronics",
+            "source": "Tourism",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "2",
+            "id": "24",
+            "target": "Urologist",
+            "source": "Pharmaceutical education",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "2",
+            "id": "23",
+            "target": "Safety and security",
+            "source": "Mechanical engineering",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "3",
+            "id": "22",
+            "target": "Commercial degree",
+            "source": "Stylist",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "3",
+            "id": "21",
+            "target": "Beautician",
+            "source": "Pharmaceutical education",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "3",
+            "id": "20",
+            "target": "Electrical engineering",
+            "source": "Computer science",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "3",
+            "id": "19",
+            "target": "Economics degree",
+            "source": "Beautician",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "3",
+            "id": "18",
+            "target": "Electrical engineering",
+            "source": "Safety and security",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "3",
+            "id": "17",
+            "target": "Beautician",
+            "source": "Medicine",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "3",
+            "id": "16",
+            "target": "Pharmaceutical education",
+            "source": "Dermatologist",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "3",
+            "id": "15",
+            "target": "Social sciences",
+            "source": "Social work degree",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "3",
+            "id": "14",
+            "target": "Medicine",
+            "source": "Business degree",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "4",
+            "id": "13",
+            "target": "Economics degree",
+            "source": "Computer science",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "4",
+            "id": "12",
+            "target": "Beautician",
+            "source": "Business degree",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "4",
+            "id": "11",
+            "target": "Technical education degree",
+            "source": "Business administration",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "4",
+            "id": "10",
+            "target": "Economics degree",
+            "source": "Business administration",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "4",
+            "id": "9",
+            "target": "Electronics",
+            "source": "Business administration",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "4",
+            "id": "8",
+            "target": "Commercial degree",
+            "source": "Business degree",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "4",
+            "id": "7",
+            "target": "Business administration",
+            "source": "Stylist",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "5",
+            "id": "6",
+            "target": "Business administration",
+            "source": "Medicine",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "5",
+            "id": "5",
+            "target": "Beautician",
+            "source": "Business administration",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "5",
+            "id": "4",
+            "target": "Electrical engineering",
+            "source": "Mechanical engineering",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "7",
+            "id": "3",
+            "target": "Business administration",
+            "source": "Computer science",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "8",
+            "id": "2",
+            "target": "Pharmaceutical education",
+            "source": "Business degree",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "9",
+            "id": "1",
+            "target": "Business administration",
+            "source": "Pharmaceutical education",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "14",
+            "id": "0",
+            "target": "Pharmaceutical education",
+            "source": "Medicine",
+            "color": "rgba(70, 136, 241)"
+        }
+    ],
+    "nodes": [
+        {
+            "size": "25",
+            "id": "Stylist",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Stylist"
+        },
+        {
+            "size": "38",
+            "id": "Pharmaceutical education",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Pharmaceutical education"
+        },
+        {
+            "size": "2",
+            "id": "Urologist",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Urologist"
+        },
+        {
+            "size": "18",
+            "id": "Computer science",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Computer science"
+        },
+        {
+            "size": "2",
+            "id": "Cook",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Cook"
+        },
+        {
+            "size": "19",
+            "id": "Electrical engineering",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Electrical engineering"
+        },
+        {
+            "size": "1",
+            "id": "Media designer",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Media designer"
+        },
+        {
+            "size": "3",
+            "id": "Chemistry",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Chemistry"
+        },
+        {
+            "size": "1",
+            "id": "Cardiologist",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Cardiologist"
+        },
+        {
+            "size": "5",
+            "id": "Mechanic apprenticeship",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Mechanic apprenticeship"
+        },
+        {
+            "size": "2",
+            "id": "Civil engineering",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Civil engineering"
+        },
+        {
+            "size": "4",
+            "id": "Data manager",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Data manager"
+        },
+        {
+            "size": "65",
+            "id": "Commercial degree",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Commercial degree"
+        },
+        {
+            "size": "2",
+            "id": "Technical direction degree",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Technical direction degree"
+        },
+        {
+            "size": "7",
+            "id": "Visual design/communication",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Visual design/communication"
+        },
+        {
+            "size": "1",
+            "id": "Medical assistant",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Medical assistant"
+        },
+        {
+            "size": "18",
+            "id": "Medicine",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Medicine"
+        },
+        {
+            "size": "3",
+            "id": "Information systems",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Information systems"
+        },
+        {
+            "size": "24",
+            "id": "Economics degree",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Economics degree"
+        },
+        {
+            "size": "2",
+            "id": "Confectioner",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Confectioner"
+        },
+        {
+            "size": "3",
+            "id": "Political science",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Political science"
+        },
+        {
+            "size": "3",
+            "id": "Plasterer",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Plasterer"
+        },
+        {
+            "size": "1",
+            "id": "Banking apprenticeship",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Banking apprenticeship"
+        },
+        {
+            "size": "16",
+            "id": "Beautician",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Beautician"
+        },
+        {
+            "size": "6",
+            "id": "Graphic designer",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Graphic designer"
+        },
+        {
+            "size": "3",
+            "id": "Animation design",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Animation design"
+        },
+        {
+            "size": "3",
+            "id": "Dermatologist",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Dermatologist"
+        },
+        {
+            "size": "5",
+            "id": "Commercial apprenticeship",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Commercial apprenticeship"
+        },
+        {
+            "size": "110",
+            "id": "Business administration",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Business administration"
+        },
+        {
+            "size": "63",
+            "id": "Business degree",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Business degree"
+        },
+        {
+            "size": "28",
+            "id": "Technical education degree",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Technical education degree"
+        },
+        {
+            "size": "2",
+            "id": "Mathematics",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Mathematics"
+        },
+        {
+            "size": "2",
+            "id": "Nurse",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Nurse"
+        },
+        {
+            "size": "12",
+            "id": "Safety and security",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Safety and security"
+        },
+        {
+            "size": "7",
+            "id": "Polygraf",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Polygraf"
+        },
+        {
+            "size": "2",
+            "id": "Painter",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Painter"
+        },
+        {
+            "size": "1",
+            "id": "Surgeon",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Surgeon"
+        },
+        {
+            "size": "11",
+            "id": "Tourism",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Tourism"
+        },
+        {
+            "size": "3",
+            "id": "Traffic engineering",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Traffic engineering"
+        },
+        {
+            "size": "1",
+            "id": "Motion design",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Motion design"
+        },
+        {
+            "size": "3",
+            "id": "Social sciences",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Social sciences"
+        },
+        {
+            "size": "1",
+            "id": "Computer scientist apprenticeship",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Computer scientist apprenticeship"
+        },
+        {
+            "size": "20",
+            "id": "Electronics",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Electronics"
+        },
+        {
+            "size": "4",
+            "id": "Telecommunications",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Telecommunications"
+        },
+        {
+            "size": "7",
+            "id": "Teacher",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Teacher"
+        },
+        {
+            "size": "3",
+            "id": "Social work degree",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Social work degree"
+        },
+        {
+            "size": "9",
+            "id": "Mechanical engineering",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Mechanical engineering"
+        },
+        {
+            "size": "5",
+            "id": "Photographer",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Photographer"
+        }
+    ],
+    "histogram": [
+        {
+            "size": "25",
+            "histogram_color": 3,
+            "label": "Stylist"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Hotel school"
+        },
+        {
+            "size": "38",
+            "histogram_color": 3,
+            "label": "Pharmaceutical education"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Urologist"
+        },
+        {
+            "size": "18",
+            "histogram_color": 3,
+            "label": "Computer science"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Cook"
+        },
+        {
+            "size": "19",
+            "histogram_color": 3,
+            "label": "Electrical engineering"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Media designer"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Chemistry"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Cardiologist"
+        },
+        {
+            "size": "5",
+            "histogram_color": 3,
+            "label": "Mechanic apprenticeship"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Civil engineering"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Polydesigner 3D"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Optician"
+        },
+        {
+            "size": "4",
+            "histogram_color": 3,
+            "label": "Data manager"
+        },
+        {
+            "size": "65",
+            "histogram_color": 3,
+            "label": "Commercial degree"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Technical direction degree"
+        },
+        {
+            "size": "7",
+            "histogram_color": 3,
+            "label": "Visual design/communication"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Medical assistant"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Engineering degree"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Visual merchandiser"
+        },
+        {
+            "size": "18",
+            "histogram_color": 3,
+            "label": "Medicine"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Information systems"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Technical communication"
+        },
+        {
+            "size": "24",
+            "histogram_color": 3,
+            "label": "Economics degree"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Confectioner"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Political science"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Plasterer"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Banking apprenticeship"
+        },
+        {
+            "size": "16",
+            "histogram_color": 3,
+            "label": "Beautician"
+        },
+        {
+            "size": "6",
+            "histogram_color": 3,
+            "label": "Graphic designer"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Masseur"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Animation design"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Health degree"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Dermatologist"
+        },
+        {
+            "size": "5",
+            "histogram_color": 3,
+            "label": "Commercial apprenticeship"
+        },
+        {
+            "size": "110",
+            "histogram_color": 3,
+            "label": "Business administration"
+        },
+        {
+            "size": "63",
+            "histogram_color": 3,
+            "label": "Business degree"
+        },
+        {
+            "size": "28",
+            "histogram_color": 3,
+            "label": "Technical education degree"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Orthopedist"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Mathematics"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Nurse"
+        },
+        {
+            "size": "12",
+            "histogram_color": 3,
+            "label": "Safety and security"
+        },
+        {
+            "size": "7",
+            "histogram_color": 3,
+            "label": "Polygraf"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Food technologist apprenticeship"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Painter"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Surgeon"
+        },
+        {
+            "size": "11",
+            "histogram_color": 3,
+            "label": "Tourism"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Traffic engineering"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Psychology"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Motion design"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Social sciences"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Computer scientist apprenticeship"
+        },
+        {
+            "size": "20",
+            "histogram_color": 3,
+            "label": "Electronics"
+        },
+        {
+            "size": "4",
+            "histogram_color": 3,
+            "label": "Telecommunications"
+        },
+        {
+            "size": "7",
+            "histogram_color": 3,
+            "label": "Teacher"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Social work degree"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Plumber apprenticeship"
+        },
+        {
+            "size": "9",
+            "histogram_color": 3,
+            "label": "Mechanical engineering"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Child and youth services"
+        },
+        {
+            "size": "5",
+            "histogram_color": 3,
+            "label": "Photographer"
+        }
+    ]
+}

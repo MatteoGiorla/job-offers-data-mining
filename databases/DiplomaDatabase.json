@@ -1,0 +1,468 @@
+{
+    "Computer science": [
+        "computer science",
+        "education in software engineering"
+    ],
+    "Mechanical engineering": [
+        "mechanical engineering"
+    ],
+    "Electrical engineering": [
+        "electrical"
+    ],
+    "Traffic engineering": [
+        "traffic"
+    ],
+    "Business administration": [
+        "business administration",
+        "mba",
+        "business direction",
+        "business education",
+        "administration degree",
+        "training in administration",
+        "business computer science"
+    ],
+    "Business degree": [
+        "business degree",
+        "business studies",
+        "business school",
+        "business training",
+        "business background",
+        "business engineering",
+        "business-related field"
+    ],
+    "Economics degree": [
+        "economics",
+        "economical",
+        "economic education"
+    ],
+    "Law degree": [
+        "law degree",
+        "law studies",
+        "law master",
+        "lawyer",
+        "attorney",
+        "degree in law"
+    ],
+    "Juridical degree": [
+        "juridical"
+    ],
+    "Medical assistant": [
+        "medical assistant"
+    ],
+    "Pharmaceutical education": [
+        "pharmaceutical",
+        "pharmacy"
+    ],
+    "Medicine": [
+        "medical education",
+        "degree in medicine",
+        "medicine degree",
+        "medical training",
+        "internal medicine",
+        "emergency medicine"
+    ],
+    "Electrician apprenticeship": [
+        "electrician"
+    ],
+    "Electronics": [
+        "electronic"
+    ],
+    "Banking apprenticeship": [
+        "banking apprenticeship",
+        "bank apprenticeship",
+        "bank training",
+        "banking training",
+        "apprenticeship at a bank",
+        "cfc of a bank"
+    ],
+    "Computer scientist apprenticeship": [
+        "apprenticeship as a computer scientist",
+        "computer-apprenticeship",
+        "computer science-apprenticeship",
+        "as a computer"
+    ],
+    "Commercial apprenticeship": [
+        "commercial apprenticeship"
+    ],
+    "Commercial degree": [
+        "commercial education",
+        "commercial training",
+        "commercial vocational training",
+        "commercial associate degree",
+        "commercial field"
+    ],
+    "Carpenter": [
+        "carpenter",
+        "carpentry"
+    ],
+    "Painter": [
+        "painter",
+        "painting"
+    ],
+    "Automation engineer": [
+        "automation engineer"
+    ],
+    "Technical direction degree": [
+        "technical direction"
+    ],
+    "Technical education degree": [
+        "technical education",
+        "technical background",
+        "technical college"
+    ],
+    "Marketing degree": [
+        "marketing degree"
+    ],
+    "Restoration apprenticeship": [
+        "restoration"
+    ],
+    "Joiner": [
+        "joiner"
+    ],
+    "Vehicle engineering apprenticeship": [
+        "vehicle engineering"
+    ],
+    "Plumber apprenticeship": [
+        "plumber"
+    ],
+    "Apprenticeship in mechatronics": [
+        "mechatronics"
+    ],
+    "Retail apprenticeship": [
+        "retail apprenticeship"
+    ],
+    "Insurance apprenticeship": [
+        "insurance apprenticeship"
+    ],
+    "Mechanic apprenticeship": [
+        "mechanic apprenticeship",
+        "mechanics",
+        "polymechaniker"
+    ],
+    "Machinists": [
+        "machinists"
+    ],
+    "Paralegal degree": [
+        "paralegal degree"
+    ],
+    "Health degree": [
+        "health degree",
+        "healthy degree"
+    ],
+    "Medical degree": [
+        "medical degree"
+    ],
+    "Nursing degree": [
+        "nursing degree"
+    ],
+    "Psychiatry": [
+        "psychiatr"
+    ],
+    "Management degree": [
+        "management degree"
+    ],
+    "Engineering degree": [
+        "degree in engineering"
+    ],
+    "Telecommunications": [
+        "telecommunications"
+    ],
+    "MCSE": [
+        "mcse"
+    ],
+    "MCSA": [
+        "mcsa"
+    ],
+    "MCDST": [
+        "mcdst"
+    ],
+    "MCITP": [
+        "mcitp"
+    ],
+    "Physics degree": [
+        "degree in physics",
+        "physics degree"
+    ],
+    "Engineering in laser": [
+        "engineering in laser"
+    ],
+    "System engineer": [
+        "system engineer"
+    ],
+    "Information systems": [
+        "information systems"
+    ],
+    "Hotel school": [
+        "hotel management",
+        "hotelfachschule"
+    ],
+    "Food technologist apprenticeship": [
+        "food technologist"
+    ],
+    "Sanitary engineer": [
+        "sanitary engineer"
+    ],
+    "Chemistry": [
+        "chemical",
+        "chemist"
+    ],
+    "Secretary": [
+        "secretary"
+    ],
+    "Teaching degree": [
+        "teaching degree",
+        "teaching diploma",
+        "teaching experience"
+    ],
+    "Financial consultant": [
+        "financial consultant"
+    ],
+    "Finance degree": [
+        "orientation finance",
+        "specialization in finance",
+        "finance specific",
+        "in finance",
+        "focus on finance"
+    ],
+    "Cook": [
+        "cook"
+    ],
+    "Barista": [
+        "barista"
+    ],
+    "Kitchen helper": [
+        "kitchen helper"
+    ],
+    "Confectioner": [
+        "confectioner"
+    ],
+    "Mathematics": [
+        "mathematics"
+    ],
+    "Safety and security": [
+        "safety",
+        "security"
+    ],
+    "Biology": [
+        "biology"
+    ],
+    "Geology": [
+        "geology"
+    ],
+    "Structural engineering": [
+        "structural engineering"
+    ],
+    "Civil engineering": [
+        "civil"
+    ],
+    "Architecture": [
+        "an architect",
+        "degree in architecture",
+        "architecture degree",
+        "education in architecture",
+        "architectural"
+    ],
+    "Draftsman": [
+        "draftsman"
+    ],
+    "TV operator": [
+        "tv operator"
+    ],
+    "Mason": [
+        "mason"
+    ],
+    "Locksmith": [
+        "locksmith"
+    ],
+    "Plasterer": [
+        "plasterer"
+    ],
+    "Heating engineer": [
+        "heating"
+    ],
+    "Insulation installer": [
+        "insulation"
+    ],
+    "Surgeon": [
+        "surgeon",
+        "surgical"
+    ],
+    "Ophthalmology": [
+        "ophthalmolog"
+    ],
+    "Graphic designer": [
+        "graphic designer",
+        "graphic education",
+        "as a designer",
+        "graphical training",
+        "graphic artists",
+        "graphical background"
+    ],
+    "Product designer": [
+        "product designer",
+        "as a designer"
+    ],
+    "Polygraf": [
+        "polygraf"
+    ],
+    "Visual design/communication": [
+        "visual communication",
+        "visual designer"
+    ],
+    "Typographic designer": [
+        "typographic"
+    ],
+    "Media designer": [
+        "media designer"
+    ],
+    "Polydesigner 3D": [
+        "poly-designer",
+        "polydesigner"
+    ],
+    "Visual merchandiser": [
+        "visual merchandiser"
+    ],
+    "Printing technologist": [
+        "printing technologist"
+    ],
+    "Product designer": [
+        "product designer"
+    ],
+    "Animation design": [
+        "animation"
+    ],
+    "Motion design": [
+        "motion design"
+    ],
+    "Screen printer": [
+        "screen print"
+    ],
+    "Microtechnology engineer": [
+        "microtechnology"
+    ],
+    "Data manager": [
+        "data manage"
+    ],
+    "Technical communication": [
+        "technical communication"
+    ],
+    "Pediatrician" : [
+        "paediatric"
+    ],
+    "Radiologist": [
+        "radiolog"
+    ],
+    "Cardiologist": [
+        "cardiolog"
+    ],
+    "Dermatologist": [
+        "dermatolog"
+    ],
+    "Gynecologist": [
+        "gynecolog"
+    ],
+    "Nurse": [
+        "nursing",
+        "nurse"
+    ],
+    "Optician": [
+        "optician"
+    ],
+    "Psychology": [
+        "psycholog"
+    ],
+    "Midwife": [
+        "midwife"
+    ],
+    "Orthopedist": [
+        "orthopedi"
+    ],
+    "Social education": [
+        "social education"
+    ],
+    "Neurologist": [
+        "neurolog"
+    ],
+    "Urologist": [
+        "urolog"
+    ],
+    "Dental technician": [
+        "dental technician",
+        "dental education"
+    ],
+    "Social work degree": [
+        "social work degree",
+        "social sciences",
+        "social education",
+        "social work"
+    ],
+    "Teacher": [
+        "teaching",
+        "teacher"
+    ],
+    "Political science": [
+        "political science"
+    ],
+    "Social sciences": [
+        "social science",
+        "degree in social"
+    ],
+    "Music education": [
+        "music education",
+        "degree of a conservatoire"
+    ],
+    "Child and youth services": [
+        "youth services",
+        "child"
+    ],
+    "Master of arts": [
+        "master of arts"
+    ],
+    "Stylist": [
+        "stylist"
+    ],
+    "Nutritionist": [
+        "nutritionist"
+    ],
+    "Hairdresser": [
+        "hairdress"
+    ],
+    "Retail apprenticeship": [
+        "apprenticeship as retail",
+        "apprenticeship in retail",
+        "retail apprenticeship"
+    ],
+    "Physical education": [
+        "physical education",
+        "fitness instructor"
+    ],
+    "Beautician": [
+        "beautician",
+        "cosmetics",
+        "cosmetician"
+    ],
+    "Tourism": [
+        "tourism"
+    ],
+    "Masseur": [
+        "masseur",
+        "massage"
+    ],
+    "Photographer": [
+        "photographer"
+    ],
+    "Firefighter": [
+        "firefighter",
+        "fireman"
+    ],
+    "Police officer": [
+        "police"
+    ],
+    "Surveillance specialist": [
+        "surveillance specialist"
+    ],
+    "Carrossier": [
+        "carrossier",
+        "carrosserie"
+    ]
+}

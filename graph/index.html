@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Job Offers Data Mining - EPFL</title>
+
+  <!-- Import Sigma JS-->
+  <script src="lib/sigma.min.js"></script>
+  <script src="lib/sigma.layout.forceAtlas2.min.js"></script>
+  <script src="lib/sigma.parsers.json.min.js"></script>
+  <!-- Import Canvas JS-->
+  <script type="text/javascript" src="http://d3js.org/d3.v2.js"></script>
+  <style>
+
+    body {
+      overflow: hidden;
+    }
+
+    #network-graph {
+      top: 28px;
+      bottom: 0;
+      left: 25%;
+      right: 0;
+      position: absolute;
+      width: 75%;
+      overflow: hidden;
+    }
+
+    #choose-category {
+      position: absolute;
+      overflow: hidden;
+      left: 0;
+      top: 15px;
+      width: 25%;
+      font-size: small;
+      font-family: Arial, sans-serif;
+    }
+
+    #skills-group {
+      position: absolute;
+      left: 25%;
+      top: -13px;
+      height: 30px;
+      font-size: small; 
+      font-family: Arial, sans-serif;
+    }
+
+    #graph-histogram {
+      position: absolute;
+      right: 0;
+      top: -13px;
+      height: 30px;
+      font-size: small; 
+      font-family: Arial, sans-serif;
+    }
+
+    .svg-container {
+      display: inline-block;
+      position: relative;
+      width: 100%;
+      padding-bottom: 100%;
+      vertical-align: top;
+      overflow: scroll;
+    }
+
+    .svg-content-responsive {
+      display: inline-block;
+      position: absolute;
+      top: 10px;
+      left: 0;
+      width: 100%;
+    }
+
+    input {
+      display: none;
+    }
+
+    label{
+      cursor: pointer;
+    }
+
+    
+    #choose-category label {
+      padding: 4px;
+      padding-left: 8px;
+      width :100%;
+      height : 20px;
+      display: inline-block;
+      line-height: 20px;
+      background-color: #ccc;
+      margin-bottom: 1px;
+      opacity: 0.8;
+    }
+
+    #skills-group label {
+      padding: 4px;
+      height : 20px;
+      width: 120px;
+      display: inline-block;
+      line-height: 20px;
+      opacity: 0.8;
+      margin-right: -3px;
+      text-align: center;
+    }
+
+    #graph-histogram label {
+      padding: 4px;
+      height : 20px;
+      width: 100px;
+      display: inline-block;
+      line-height: 20px;
+      background-color: #ccc;
+      opacity: 0.8;
+      margin-left: -3px;
+      text-align: center;
+    }
+
+    /* HOVER */
+
+    #choose-category label:hover {
+      background-color: #777;
+    }
+
+    #graph-histogram label:hover {
+      background-color: #777;
+    }
+
+    #all-skills-id:hover {
+      background-color: #777;
+    }
+
+    #skills-skills-id:hover {
+      opacity: 1;
+    }
+
+    #qual-skills-id:hover {
+      opacity: 1;
+    }
+
+    #dipl-skills-id:hover {
+      opacity: 1;
+    }
+
+    /* BACKGROUND COLOR*/
+
+    #all-skills-id {
+      background-color: #ccc;
+    }
+
+    #skills-skills-id {
+      background-color: #e8453c;
+    }
+
+    #qual-skills-id {
+      background-color: #f9bb2d;
+    }
+
+    #dipl-skills-id {
+      background-color: #4688f1;
+    }
+
+    /* CHECKED */
+
+    #graph-histogram input:checked + label {
+      background-color: #777;
+    }
+
+    #choose-category input:checked + label {
+      background-color: #777;
+    }
+
+    #all-skills:checked + label {
+      background-color: #777;
+    }
+
+    #skills:checked + label {
+      opacity: 1;
+    }
+
+    #qualities:checked + label {
+      opacity: 1;
+    }
+
+    #diploma:checked + label {
+      opacity: 1;
+    }
+
+    #img {
+      position: relative;
+      width: 15px;
+      height: 15px;
+      margin-right: 6px;
+      margin-left: -3px;
+      top: 2px;
+    }
+
+    #project-title {
+      position: absolute;
+      left: 0;
+      top: 0;
+      padding: 0;
+      margin: 0;
+    }
+
+    #project-title img {
+      height: 20px; 
+      padding: 4px;
+    }
+
+    #project-title span {
+      position: absolute;
+      left: 50px;
+      top: 0;
+      padding: 6px;
+      width: 150px;
+      font-family: Arial, sans-serif;
+      font-size: small;
+    }
+
+    #window-size, #window-size-img {
+      display: none;
+    }
+
+
+
+
+
+    @media screen and ( max-width: 979px ) {
+      #graph-histogram, #network-graph, #skills-group, #choose-category {
+        display: none;
+      }
+
+      #container {
+        height: 300px;
+        text-align: center;
+        font: 0/0 a;
+      }
+
+      #container:before {
+        content: ' ';
+        display: inline-block;
+        vertical-align: middle;
+        height: 100%;
+      }
+
+      #window-size {
+        display: inline-block;
+        vertical-align: middle;
+        font-family: Arial, sans-serif;
+      }
+      #window-size-img {
+        display: inline-block;
+        width: 200px;
+      }
+
+    }
+
+  </style>
+
+
+</head>
+
+<body>
+  <div id = "project-title">
+    <a href="http://www.epfl.ch">
+      <img src="img/epfl.jpg">
+    </a>
+    <span>Job Offers Data Mining</span>
+  </div>
+  <div id= "container">
+    <div id = "window-size">
+      <img src="img/increaseWindowSize.png" id= "window-size-img"/>
+    </div>
+  </div>
+
+  <!-- To choose graph or histogram -->
+  <div id="graph-histogram">
+   <form name="graphhisto">
+     <p>
+       <input type="radio" name="graph-histogram" value="1" id="graph" checked="checked"/>
+       <label for="graph"><img src="img/graph.png" id= "img"/>Graph</label>
+       <input type="radio" name="graph-histogram" value="2" id="histogram" />
+       <label for="histogram"><img src="img/histogram.png" id= "img"/>Histogram</label>
+     </p>
+   </form>
+ </div>
+
+ <!-- To choose the skills group -->
+ <div id="skills-group">
+   <form name="skills">
+     <p>
+       <input type="radio" name="skills-group" value="a" id="all-skills" checked="checked"/>
+       <label for="all-skills" id="all-skills-id"><img src="img/all.png" id= "img"/>ALL</label>
+       <input type="radio" name="skills-group" value="s" id="skills" />
+       <label for="skills" id="skills-skills-id"><img src="img/skills.png" id= "img"/>Skills</label>
+       <input type="radio" name="skills-group" value="q" id="qualities" />
+       <label for="qualities" id="qual-skills-id"><img src="img/star.png" id= "img"/>General qualities</label>
+       <input type="radio" name="skills-group" value="d" id="diploma" />
+       <label for="diploma" id="dipl-skills-id"><img src="img/diploma.png" id= "img"/>Diploma</label>
+     </p>
+   </form>
+ </div>
+
+ 
+
+ <!-- To choose the category -->
+ <div id="choose-category">
+   <form name="category">
+     <p>
+       <input type="radio" name="category" value="a" id="all" checked="checked"/>
+       <label for="all"><img src="img/all.png" id= "img"/>ALL</label><br />
+       <input type="radio" name="category" value="1" id="category1" />
+       <label for="category1"><img src="img/administration.png" id= "img"/>Administration, Consulting, HR</label><br />
+       <input type="radio" name="category" value="2" id="category2" />
+       <label for="category2"><img src="img/banking.png" id= "img"/>Banking, Insurance</label><br />
+       <input type="radio" name="category" value="3" id="category3" />
+       <label for="category3"><img src="img/food.png" id= "img"/>Food, Tourism</label><br />
+       <input type="radio" name="category" value="4" id="category4" />
+       <label for="category4"><img src="img/chemical.png" id= "img"/>Biotechnology, Chemical and Pharma</label><br />
+       <input type="radio" name="category" value="5" id="category5" />
+       <label for="category5"><img src="img/construction.png" id= "img"/>Construction, Architecture</label><br />
+       <input type="radio" name="category" value="6" id="category6" />
+       <label for="category6"><img src="img/watch.png" id= "img"/>Electronics, Engineering</label><br />
+       <input type="radio" name="category" value="7" id="category7" />
+       <label for="category7"><img src="img/finance.png" id= "img"/>Finance, Real Estate</label><br />
+       <input type="radio" name="category" value="8" id="category8" />
+       <label for="category8"><img src="img/graphic.png" id= "img"/>Graphics, Printing</label><br />
+       <input type="radio" name="category" value="9" id="category9" />
+       <label for="category9"><img src="img/it.png" id= "img"/>IT, Telecommunications</label><br />
+       <input type="radio" name="category" value="10" id="category10" />
+       <label for="category10"><img src="img/automation.png" id= "img"/>Plant Engineering, Machines</label><br />
+       <input type="radio" name="category" value="11" id="category11" />
+       <label for="category11"><img src="img/marketing.png" id= "img"/>Marketing, Communication</label><br />
+       <input type="radio" name="category" value="12" id="category12" />
+       <label for="category12"><img src="img/medicine.png" id= "img"/>Medical</label><br />
+       <input type="radio" name="category" value="13" id="category13" />
+       <label for="category13"><img src="img/education.png" id= "img"/>Public Administration, Education, Social</label><br />
+       <input type="radio" name="category" value="14" id="category14" />
+       <label for="category14"><img src="img/logistics.png" id= "img"/>Logistics, Purchasing</label><br />
+       <input type="radio" name="category" value="15" id="category15" />
+       <label for="category15"><img src="img/sales.png" id= "img"/>Sales, Customer Service</label><br />
+       <input type="radio" name="category" value="16" id="category16" />
+       <label for="category16"><img src="img/sport.png" id= "img"/>Sport, Spa, Wellness</label><br />
+       <input type="radio" name="category" value="17" id="category17" />
+       <label for="category17"><img src="img/police.png" id= "img"/>Surveillance, Police, Rescue</label><br />
+       <input type="radio" name="category" value="18" id="category18" />
+       <label for="category18"><img src="img/car.png" id= "img"/>Vehicles, Transport</label>
+     </p>
+   </form>
+ </div>
+
+
+ <!-- A placeholder for the graph -->
+ <div id="network-graph"></div>
+
+ <script>
+
+  sigma.classes.graph.addMethod('neighbors', function(nodeId) {
+    var k,
+    neighbors = {},
+    index = this.allNeighborsIndex[nodeId] || {};
+
+    for (k in index)
+      neighbors[k] = this.nodesIndex[k];
+
+    return neighbors;
+  });
+
+
+  function getParameterByName(name) {
+    var match = RegExp('[?&]' + name + '=([^&]*)').exec(window.location.search);
+    return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
+  };
+
+  var radio_category = document.forms["category"].elements["category"];
+  var radio_skill_group = document.forms["skills"].elements["skills-group"];
+  var radio_graph_histogram_group = document.forms["graphhisto"].elements["graph-histogram"];
+  var graph_path = "data/aa.json";
+  var path_skeleton = "data/"
+
+  generateGraph();
+
+  for(var i = 0; i < radio_category.length; i++) {
+    radio_category[i].onclick = function() {
+      var selected_skill = document.querySelector('input[name="skills-group"]:checked').value;
+      var selected_representation = document.querySelector('input[name="graph-histogram"]:checked').value;
+      graph_path = ((path_skeleton.concat(selected_skill)).concat(this.value)).concat('.json');
+      clearBox('network-graph');
+      if(selected_representation == 1){
+        generateGraph();
+      }
+      else if(selected_representation == 2){
+        generateHistogram();
+      }
+    }
+  }
+
+  for(var i = 0; i < radio_skill_group.length; i++) {
+    radio_skill_group[i].onclick = function() {
+      var selected_category = document.querySelector('input[name="category"]:checked').value;
+      var selected_representation = document.querySelector('input[name="graph-histogram"]:checked').value;
+      graph_path = ((path_skeleton.concat(this.value)).concat(selected_category)).concat('.json');
+      clearBox('network-graph');
+      if(selected_representation == 1){
+        generateGraph();
+      }
+      else if(selected_representation == 2){
+        generateHistogram();
+      }
+    }
+  }
+
+  for(var i = 0; i < radio_graph_histogram_group.length; i++) {
+    radio_graph_histogram_group[i].onclick = function() {
+      clearBox('network-graph');
+      if(this.value == 1){
+        generateGraph();
+      }
+      else if(this.value == 2){
+        generateHistogram();
+      }    
+    }
+  }
+
+
+
+  function clearBox(elementID)
+  {
+    document.getElementById(elementID).innerHTML = "";
+  }
+
+
+  function generateGraph() {
+    sigma.parsers.json(graph_path,
+
+      {container: 'network-graph'},
+
+            function(s) { //This function is passed an instance of Sigma s
+
+              s.settings('labelThreshold', 0);
+              s.settings('zoomingRatio', 1.5);
+              s.settings('maxNodeSize', 10);
+              s.settings('maxEdgeSize', 8);
+
+
+              s.graph.nodes().forEach(function(n) {
+                n.originalColor = n.color;
+              });
+              s.graph.edges().forEach(function(e) {
+                e.originalColor = e.color;
+              });
+
+              nodeId = parseInt(getParameterByName('node_id'));
+
+              var selectedNode;
+
+              s.graph.nodes().forEach(function(node, i, a) {
+                if (node.id == nodeId) {
+                  selectedNode = node;
+                  return;
+                }
+              });
+
+              //Initialize nodes as a circle
+              s.graph.nodes().forEach(function(node, i, a) {
+                node.x = Math.cos(Math.PI * 2 * i / a.length);
+                node.y = Math.sin(Math.PI * 2 * i / a.length);
+              });
+
+              s.refresh();
+
+              s.startForceAtlas2();
+
+              setTimeout(function() { s.stopForceAtlas2(); }, 15000);
+
+              if (selectedNode != undefined){
+                s.cameras[0].goTo({x:selectedNode['read_cam0:x'],y:selectedNode['read_cam0:y'],ratio:0.1});
+              }
+
+
+              //HIGHLIGHT NEIGHBORS
+              s.bind('clickNode', function(e) {
+                var nodeId = e.data.node.id,
+                toKeep = s.graph.neighbors(nodeId);
+                toKeep[nodeId] = e.data.node;
+
+                s.graph.nodes().forEach(function(n) {
+                  if (toKeep[n.id])
+                    n.color = n.originalColor;
+                  else
+                    n.color = '#eee';
+                });
+
+                s.graph.edges().forEach(function(e) {
+                  if (toKeep[e.source] && toKeep[e.target])
+                    e.color = e.originalColor;
+                  else
+                    e.color = '#eee';
+                });
+
+                  s.refresh();
+                });
+
+                s.bind('clickStage', function(e) {
+                  s.graph.nodes().forEach(function(n) {
+                    n.color = n.originalColor;
+                  });
+
+                  s.graph.edges().forEach(function(e) {
+                    e.color = e.originalColor;
+                  });
+
+                  s.refresh();
+                });
+              });
+
+  }
+
+
+  function generateHistogram() {
+    var colors = ["#eeeeee", //gray (default)
+                  "#e8453c", //red (skills)
+                  "#f9bb2d", //yellow (qualities)
+                  "#4688f1"]; //blue (diploma)
+
+    var w = 600;
+    var h = 500;
+
+    var svg = d3.select("#network-graph")
+    .append("div")
+    .classed("svg-container", true) //container class to make it responsive
+    .append("svg")
+    .attr("preserveAspectRatio", "xMinYMin meet")
+    .attr("viewBox","0 0 " + w + " " + h)
+    .classed("svg-content-responsive", true); 
+
+    d3.json(graph_path, function(json) {
+
+      var data = json.histogram;
+
+      var max_n = 0;
+      var number_of_elems = 0;
+      for (var d in data) {
+        max_n = Math.max(data[d].size, max_n);
+        number_of_elems = number_of_elems + 1;
+      }
+      
+      var dx = w / max_n;
+      var dy = 10;
+
+      var height_calculated = number_of_elems * (dy+1) + 300;
+      svg.attr("viewBox","0 0 " + w + " " + height_calculated)
+
+      var text_width = 160;
+
+      // bars
+      var bars = svg.selectAll(".bar")
+      .data(data)
+      .enter()
+      .append("rect")
+      .sort(function(a, b) { return b.size - a.size; })
+      .attr("class", function(d, i) {return "bar " + d.label;})
+      .attr("x", function(d, i) {return text_width;})
+      .attr("y", function(d, i) {return dy*i + i;})
+      .attr("width", function(d, i) {return (d.size)*(w - text_width - 50)/(max_n);})
+      .attr("height", dy)
+      .style("fill", function(d, i) {return colors[d.histogram_color];});
+
+      // labels
+      var text = svg.selectAll("text")
+      .data(data)
+      .enter()
+      .append("text")
+      .sort(function(a, b) { return b.size - a.size; })
+      .attr("class", function(d, i) {return "label " + d.label;})
+      .attr("x", function(d, i) {return text_width - 3;})
+      .attr("y", function(d, i) {return dy*i + i + (dy-3);})
+      .text(function(d) {return d.label + " (" + d.size  + ")";})
+      .attr("font-size", "8px")
+      .attr("font-family", "Arial")
+      .attr("text-anchor", "end")
+      .style("font-weight", "normal");
+    });
+
+  }
+
+
+ </script>
+ <noscript>
+  <div style="position:absolute; left: 400px; top:100px; font-family: Arial, sans-serif">
+    <span style="color:black">You need to enable javascript.</span>
+  </div>
+</noscript>
+
+</body>
+</html>

@@ -1,0 +1,668 @@
+{
+    "Project management": [
+        "product manage",
+        "project manage"
+    ],
+    "Event management": [
+        "event management",
+        "events management"
+    ],
+    "Writing skills": [
+        "writing skills"
+    ],
+    "Java": [
+        " java ",
+        "java,",
+        "java.",
+        "java)"
+    ],
+    "C": [
+        " c ",
+        " c,",
+        " c.",
+        " c)"
+    ],
+    "R": [
+        " r ",
+        " r,",
+        " r.",
+        " r)"
+    ],
+    "Git": [
+        " git ",
+        " git,",
+        " git.",
+        " git)"
+    ],
+    "Scala": [
+        "scala "
+    ],
+    "SIP": [
+        " sip ",
+        " sip,",
+        " sip.",
+        " sip)"
+    ],
+    "HTML": [
+        "html",
+        "html5"
+    ],
+    "CSS": [
+        "css",
+        "css3"
+    ],
+    "Javascript": [
+        "javascript",
+        "java script"
+    ],
+    "C++": [
+        "c++"
+    ],
+    "Excel": [
+        "excel ",
+        "excel,",
+        "excel)",
+        "ms office",
+        "microsoft office",
+        "office 365",
+        "microsoft programs",
+        "office programs",
+        "office tools"
+    ],
+    "Word": [
+        "word ",
+        "word,",
+        "word)",
+        "ms office",
+        "microsoft office",
+        "office 365",
+        "microsoft programs",
+        "office programs",
+        "office tools"
+    ],
+    "Powerpoint": [
+        "powerpoint",
+        "ms office",
+        "microsoft office",
+        "power point",
+        "office 365",
+        "microsoft programs",
+        "office programs",
+        "office tools"
+    ],
+    "Accounting": [
+        "accounting"
+    ],
+    "Marketing": [
+        "marketing"
+    ],
+    "Logistics": [
+        "logistic"
+    ],
+    "C#": [
+        "c#",
+        "c-sharp"
+    ],
+    "Visual basic": [
+        "visual basic"
+    ],
+    "SQL": [
+        "sql"
+    ],
+    "Linux": [
+        "linux"
+    ],
+    "Outlook": [
+        "outlook"
+    ],
+    "XML": [
+        "xml"
+    ],
+    "CMS": [
+        "cms"
+    ],
+    "AngularJS": [
+        "angularjs"
+    ],
+    "Node.js": [
+        "node.js",
+        "nodejs",
+        "node js"
+    ],
+    "Autocad": [
+        "autocad"
+    ],
+    "PHP": [
+        "php"
+    ],
+    "JSON": [
+        "json"
+    ],
+    "Python": [
+        "python"
+    ],
+    "jQuery": [
+        "jquery"
+    ],
+    "Ajax": [
+        "ajay"
+    ],
+    "Ruby": [
+        "ruby"
+    ],
+    "Perl": [
+        "perl"
+    ],
+    "Bash": [
+        "bash"
+    ],
+    "Windows": [
+        "windows"
+    ],
+    "Unix": [
+        "unix"
+    ],
+    "TCP/IP": [
+        "tcp",
+        "tcp-ip",
+        "tcp ip"
+    ],
+    "OpenCL": [
+        "opencl"
+    ],
+    "OpenGL": [
+        "opengl"
+    ],
+    "Matlab": [
+        "matlab"
+    ],
+    "CMDB": [
+        "cmdb"
+    ],
+    "Relux": [
+        "relux"
+    ],
+    "Adobe Photoshop": [
+        "photoshop"
+    ],
+    "Corel": [
+        "corel"
+    ],
+    "Apple Environment": [
+        "apple products",
+        "apple devices"
+    ],
+    "VBScript": [
+        "vbscript"
+    ],
+    "Agile development methods": [
+        "agile",
+        "scrum"
+    ],
+    "Scrum": [
+        "scrum"
+    ],
+    "Object-oriented programming": [
+        "object-oriented",
+        "object oriented",
+        "oo programming",
+        "oo implementation",
+        "oo application development"
+    ],
+    "Social media": [
+        "social media",
+        "social network"
+    ],
+    "Railway engineering": [
+        "railway technology",
+        "railway engineering",
+        "rail vehicle technology",
+        "rail technology"
+    ],
+    "Law knowledge": [
+        " law",
+        "legal knowledge"
+    ],
+    "Backend development": [
+        "backend",
+        "back-end",
+        "back end",
+        "server-side"
+    ],
+    "Frontend development": [
+        "frontend",
+        "front-end",
+        "front end"
+    ],
+    "Web application": [
+        "web application"
+    ],
+    "Mobile application": [
+        "mobile application"
+    ],
+    "iOS development": [
+        " ios"
+    ],
+    "Android development": [
+        "android"
+    ],
+    "MongoDB": [
+        "mongodb"
+    ],
+    "Unit testing": [
+        "unit testing"
+    ],
+    "Eclipse": [
+        "eclipse"
+    ],
+    "Database systems": [
+        "database"
+    ],
+    "Data management": [
+        "data management",
+        "data model",
+        "data maintenance"
+    ],
+    "Oracle": [
+        "oracle"
+    ],
+    "Hadoop": [
+        "hadoop"
+    ],
+    "Big data": [
+        "big data"
+    ],
+    "Customer management": [
+        "customer management"
+    ],
+    "3D CAD systems": [
+        "3d cad",
+        "cad 3d"
+    ],
+    "ArchiCAD": [
+        "archicad"
+    ],
+    "Allplan": [
+        "allplan"
+    ],
+    "Vectorworks": [
+        "vectorworks"
+    ],
+    "Adobe InDesign": [
+        "indesign"
+    ],
+    "Adobe Acrobat": [
+        "acrobat"
+    ],
+    "Adobe Illustrator": [
+        "illustrator"
+    ],
+    "Adobe Lightroom": [
+        "lightroom"
+    ],
+    "Adobe Premiere": [
+        "premiere"
+    ],
+    "JAX-WS": [
+        "jax-ws"
+    ],
+    "Jenkins": [
+        "jenkins"
+    ],
+    "Apache Maven": [
+        "maven"
+    ],
+    "Chemical and pharmaceutical analysis": [
+        "chemical and pharmaceutical analysis"
+    ],
+    "Real estate management": [
+        "real estate",
+        "property management"
+    ],
+    "Geography knowledge": [
+        "geography"
+    ],
+    "Computer skills": [
+        "pc ",
+        "pc-user skills",
+        "computer skills",
+        "computer user skills",
+        "it skills",
+        "computer tools"
+    ],
+    "Housekeeping": [
+        "housekeeping"
+    ],
+    "Fire security": [
+        "fire protection"
+    ],
+    "Sustainability": [
+        "sustainability",
+        "sustainable"
+    ],
+    "Mortgage business knowledge": [
+        "mortgage"
+    ],
+    "Insurance business knowledge": [
+        "insurance"
+    ],
+    "Bancassurance": [
+        "bancassurance"
+    ],
+    "Risk management": [
+        "risk"
+    ],
+    "Sales": [
+        "sales"
+    ],
+    "Consulting": [
+        "consult"
+    ],
+    "EWSD": [
+        "ewsd"
+    ],
+    "IP protocols": [
+        "ip protocols"
+    ],
+    "Radio communications": [
+        "radio communications"
+    ],
+    "Mobile communications knowledge": [
+        "mobile communications"
+    ],
+    ".net": [
+        ".net"
+    ],
+    "Application development": [
+        "application develop"
+    ],
+    "Software development": [
+        "software develop"
+    ],
+    "UI development": [
+        "ui development"
+    ],
+    "Visual studio": [
+        "visual studio"
+    ],
+    "ASP.NET": [
+        "asp.net"
+    ],
+    "Storage services knowledge": [
+        "storage services"
+    ],
+    "SAP": [
+        "sap"
+    ],
+    "Citrix": [
+        "citrix"
+    ],
+    "Hyper-V": [
+        "hyperv",
+        "hyper-v",
+        "hyper v"
+    ],
+    "CNC (Computer Numeric Control)": [
+        "cnc",
+        "nc programming"
+    ],
+    "PLC (Programmable logic controller)": [
+        "plc"
+    ],
+    "ITIL": [
+        "itil"
+    ],
+    "DHCP": [
+        "dhcp"
+    ],
+    "DNS": [
+        "dns"
+    ],
+    "Cisco networks": [
+        "cisco"
+    ],
+    "Proxy servers": [
+        "proxy"
+    ],
+    "macOS": [
+        "mac os",
+        "os x",
+        "macintosh"
+    ],
+    "Usability testing": [
+        "usability testing"
+    ],
+    "Object-oriented analysis": [
+        "ooa",
+        "object-oriented analysis",
+        "object oriented analysis"
+    ],
+    "Object-oriented design": [
+        " ood",
+        "object-oriented design",
+        "object oriented design"
+    ],
+    "Phase models ": [
+        "phase models"
+    ],
+    "WinForms": [
+        "winforms"
+    ],
+    "Windows Presentation Foundation": [
+        "wpf"
+    ],
+    "Windows Communication Foundation": [
+        "wcf"
+    ],
+    "NHibermate": [
+        "nhibermate"
+    ],
+    "MaxDB": [
+        "max db"
+    ],
+    "Windows server": [
+        "windows server"
+    ],
+    "Networking": [
+        "switches",
+        "routers",
+        "firewall"
+    ],
+    "Automation": [
+        "automation"
+    ],
+    "Medical controlling": [
+        "medical controlling"
+    ],
+    "Selenium": [
+        "selenium"
+    ],
+    "Testing interface": [
+        "testing interface",
+        "test interface",
+        "interface test"
+    ],
+    "VMware": [
+        "vmware",
+        "vm ware"
+    ],
+    "Scripting language": [
+        "scripting language"
+    ],
+    "Assembly language": [
+        "assembler",
+        "assembly language"
+    ],
+    "ASP.NET": [
+        "asp.net"
+    ],
+    "Shell": [
+        "shell"
+    ],
+    "Browser-testing": [
+        "browser-testing"
+    ],
+    "Objective-C ": [
+        "objective c ",
+        "objective-c"
+    ],
+    "VBA": [
+        "vba"
+    ],
+    "VHDL": [
+        "vhdl"
+    ],
+    "Test-driven development": [
+        "test-driven development",
+        "tdd",
+        "test driven development"
+    ],
+    "Translation": [
+        "translation"
+    ],
+    "Human resources": [
+        "human resources"
+    ],
+    "Metallurgy": [
+        "metallurgy",
+        "metal processing"
+    ],
+    "Methodological skills": [
+        "methodological"
+    ],
+    "Software architecture": [
+        "software architecture"
+    ],
+    "Oncology": [
+        "oncology"
+    ],
+    "Quality control": [
+        "quality control"
+    ],
+    "Intellectual property": [
+        "intellectual property",
+        "trademark",
+        "patent"
+    ],
+    "Medical technology": [
+        "medical technology"
+    ],
+    "Spatial thinking": [
+        "spatial thinking"
+    ],
+    "Finances": [
+        "financ"
+    ],
+    "Wealth planning": [
+        "wealth planning"
+    ],
+    "Succession planning": [
+        "succession planning"
+    ],
+    "Acquisition business knowledge": [
+        "acquisition"
+    ],
+    "Customer service": [
+        "customer service"
+    ],
+    "Housekeeping": [
+        "housekeeping"
+    ],
+    "Hygiene awareness": [
+        "hygiene"
+    ],
+    "Visual merchandising": [
+        "visual merchandising"
+    ],
+    "HPLC": [
+        "hplc"
+    ],
+    "Quality assurance": [
+        "quality assurance"
+    ],
+    "LIMS": [
+        "lims"
+    ],
+    "CMC development": [
+        "cmc"
+    ],
+    "Building codes": [
+        "building codes",
+        "(sia)",
+        " sia ",
+        "sia,"
+    ],
+    "ETA": [
+        "(eta)",
+        " eta ",
+        "eta,"
+    ],
+    "Minergie": [
+        "minergie"
+    ],
+    "Interior design": [
+        "designer interior",
+        "interior design"
+    ],
+    "Wordpress": [
+        "wordpress"
+    ],
+    "Final Cut Pro": [
+        "final cut"
+    ],
+    "TYPO3": [
+        "typo3"
+    ],
+    "Digital printing": [
+        "digital printing"
+    ],
+    "Vector illustrations": [
+        "vector illustrations"
+    ],
+    "Video editing": [
+        "video editing",
+        "editing video"
+    ],
+    "Image editing": [
+        "image editing",
+        "editing image"
+    ],
+    "ArtPro": [
+        "artpro"
+    ],
+    "Editorial skills": [
+        "editorial"
+    ],
+    "Advertising": [
+        "advertising"
+    ],
+    "Google Analytics": [
+        "google analytics"
+    ],
+    "Google AdWords" : [
+        "google adwords"
+    ],
+    "Adobe After Effects": [
+        "after effects"
+    ],
+    "Cinema 4D": [
+        "cinema 4d"
+    ],
+    "CATIA": [
+        "catia"
+    ],
+    "Adobe FrameMaker":[
+        "framemaker"
+    ],
+    "Social skills": [
+        "social skills",
+        "social competence"
+    ],
+    "Swift":[
+        "swift"
+    ],
+    "R Graphics": [
+        "r graphics",
+        "r designer"
+    ]
+}

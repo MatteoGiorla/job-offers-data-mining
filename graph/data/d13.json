@@ -1,0 +1,1681 @@
+{
+    "edges": [
+        {
+            "size": "1",
+            "id": "152",
+            "target": "Secretary",
+            "source": "Teacher",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "151",
+            "target": "Police officer",
+            "source": "Stylist",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "150",
+            "target": "Nurse",
+            "source": "Stylist",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "149",
+            "target": "Electronics",
+            "source": "Business degree",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "148",
+            "target": "Information systems",
+            "source": "Computer science",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "147",
+            "target": "Social sciences",
+            "source": "Police officer",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "146",
+            "target": "Commercial degree",
+            "source": "Teacher",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "145",
+            "target": "Teacher",
+            "source": "Pediatrician",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "144",
+            "target": "Information systems",
+            "source": "Psychology",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "143",
+            "target": "Safety and security",
+            "source": "Psychiatry",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "142",
+            "target": "Computer science",
+            "source": "Mathematics",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "141",
+            "target": "Information systems",
+            "source": "Business degree",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "140",
+            "target": "Electronics",
+            "source": "Business administration",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "139",
+            "target": "Teacher",
+            "source": "Surgeon",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "138",
+            "target": "Social sciences",
+            "source": "Mathematics",
+            "color": "rgba(170, 200, 249)"
+        },
+        {
+            "size": "1",
+            "id": "137",
+            "target": "Business administration",
+            "source": "Business degree",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "136",
+            "target": "Teaching degree",
+            "source": "Computer science",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "135",
+            "target": "Teacher",
+            "source": "Law degree",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "134",
+            "target": "Social work degree",
+            "source": "Business degree",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "133",
+            "target": "Commercial degree",
+            "source": "Tourism",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "132",
+            "target": "Music education",
+            "source": "Stylist",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "131",
+            "target": "Social work degree",
+            "source": "Police officer",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "130",
+            "target": "Technical education degree",
+            "source": "Teaching degree",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "129",
+            "target": "Nurse",
+            "source": "Teacher",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "128",
+            "target": "Painter",
+            "source": "Teacher",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "127",
+            "target": "Civil engineering",
+            "source": "Commercial degree",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "126",
+            "target": "Social work degree",
+            "source": "Commercial degree",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "125",
+            "target": "Social work degree",
+            "source": "Psychiatry",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "124",
+            "target": "Child and youth services",
+            "source": "Teaching degree",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "123",
+            "target": "Economics degree",
+            "source": "Mathematics",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "1",
+            "id": "122",
+            "target": "Draftsman",
+            "source": "Safety and security",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "121",
+            "target": "Electrical engineering",
+            "source": "Secretary",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "120",
+            "target": "Child and youth services",
+            "source": "Pediatrician",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "119",
+            "target": "Social work degree",
+            "source": "Mathematics",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "118",
+            "target": "Electrical engineering",
+            "source": "Safety and security",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "117",
+            "target": "Child and youth services",
+            "source": "Animation design",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "116",
+            "target": "Gynecologist",
+            "source": "Orthopedist",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "115",
+            "target": "Business administration",
+            "source": "Finance degree",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "114",
+            "target": "Electronics",
+            "source": "Stylist",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "113",
+            "target": "Technical education degree",
+            "source": "Commercial degree",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "112",
+            "target": "Electronics",
+            "source": "Secretary",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "111",
+            "target": "Police officer",
+            "source": "Social education",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "110",
+            "target": "Social sciences",
+            "source": "Secretary",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "109",
+            "target": "Data manager",
+            "source": "Electronics",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "108",
+            "target": "Civil engineering",
+            "source": "Computer science",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "1",
+            "id": "107",
+            "target": "Health degree",
+            "source": "Teacher",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "106",
+            "target": "Teacher",
+            "source": "Orthopedist",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "105",
+            "target": "Nurse",
+            "source": "Medicine",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "103",
+            "target": "Safety and security",
+            "source": "Police officer",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "102",
+            "target": "Draftsman",
+            "source": "Civil engineering",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "101",
+            "target": "Nurse",
+            "source": "Surgeon",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "100",
+            "target": "Economics degree",
+            "source": "Safety and security",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "99",
+            "target": "Safety and security",
+            "source": "Teacher",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "98",
+            "target": "Law degree",
+            "source": "Psychiatry",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "97",
+            "target": "Economics degree",
+            "source": "Law degree",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "96",
+            "target": "Business degree",
+            "source": "Psychology",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "95",
+            "target": "Child and youth services",
+            "source": "Finance degree",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "94",
+            "target": "Economics degree",
+            "source": "Commercial degree",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "93",
+            "target": "Teaching degree",
+            "source": "Commercial degree",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "92",
+            "target": "Economics degree",
+            "source": "Psychology",
+            "color": "rgba(133, 176, 246)"
+        },
+        {
+            "size": "1",
+            "id": "91",
+            "target": "Social work degree",
+            "source": "Secretary",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "90",
+            "target": "Orthopedist",
+            "source": "Surgeon",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "89",
+            "target": "Teaching degree",
+            "source": "Business degree",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "88",
+            "target": "Civil engineering",
+            "source": "Psychology",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "87",
+            "target": "Safety and security",
+            "source": "Business degree",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "86",
+            "target": "Psychology",
+            "source": "Political science",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "85",
+            "target": "Electrical engineering",
+            "source": "Law degree",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "84",
+            "target": "Nurse",
+            "source": "Commercial degree",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "83",
+            "target": "Safety and security",
+            "source": "Chemistry",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "82",
+            "target": "Electrical engineering",
+            "source": "Electronics",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "81",
+            "target": "Gynecologist",
+            "source": "Teacher",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "80",
+            "target": "Electrical engineering",
+            "source": "Civil engineering",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "79",
+            "target": "Psychology",
+            "source": "Social education",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "78",
+            "target": "Child and youth services",
+            "source": "Stylist",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "77",
+            "target": "Business administration",
+            "source": "Law degree",
+            "color": "rgba(125, 171, 245)"
+        },
+        {
+            "size": "1",
+            "id": "76",
+            "target": "Business administration",
+            "source": "Safety and security",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "1",
+            "id": "75",
+            "target": "Pharmaceutical education",
+            "source": "Business degree",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "1",
+            "id": "74",
+            "target": "Information systems",
+            "source": "Secretary",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "1",
+            "id": "73",
+            "target": "Electrical engineering",
+            "source": "Teacher",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "1",
+            "id": "72",
+            "target": "Economics degree",
+            "source": "Political science",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "1",
+            "id": "71",
+            "target": "Electrical engineering",
+            "source": "Business degree",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "1",
+            "id": "70",
+            "target": "Teacher",
+            "source": "Social education",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "2",
+            "id": "69",
+            "target": "Commercial degree",
+            "source": "Computer science",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "2",
+            "id": "68",
+            "target": "Economics degree",
+            "source": "Computer science",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "2",
+            "id": "67",
+            "target": "Civil engineering",
+            "source": "Social work degree",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "2",
+            "id": "66",
+            "target": "Safety and security",
+            "source": "Social education",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "2",
+            "id": "65",
+            "target": "Commercial degree",
+            "source": "Safety and security",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "2",
+            "id": "64",
+            "target": "Commercial degree",
+            "source": "Stylist",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "2",
+            "id": "63",
+            "target": "Civil engineering",
+            "source": "Traffic engineering",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "2",
+            "id": "62",
+            "target": "Master of arts",
+            "source": "Social work degree",
+            "color": "rgba(114, 164, 244)"
+        },
+        {
+            "size": "2",
+            "id": "61",
+            "target": "Master of arts",
+            "source": "Animation design",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "60",
+            "target": "Social sciences",
+            "source": "Political science",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "59",
+            "target": "Economics degree",
+            "source": "Business administration",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "58",
+            "target": "Child and youth services",
+            "source": "Safety and security",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "57",
+            "target": "Child and youth services",
+            "source": "Nurse",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "56",
+            "target": "Child and youth services",
+            "source": "Computer science",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "55",
+            "target": "Social sciences",
+            "source": "Civil engineering",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "54",
+            "target": "Social sciences",
+            "source": "Animation design",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "53",
+            "target": "Information systems",
+            "source": "Teacher",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "52",
+            "target": "Master of arts",
+            "source": "Teacher",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "51",
+            "target": "Social work degree",
+            "source": "Information systems",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "50",
+            "target": "Social work degree",
+            "source": "Political science",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "49",
+            "target": "Child and youth services",
+            "source": "Law degree",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "48",
+            "target": "Economics degree",
+            "source": "Teaching degree",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "47",
+            "target": "Teaching degree",
+            "source": "Psychology",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "46",
+            "target": "Business degree",
+            "source": "Teacher",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "2",
+            "id": "45",
+            "target": "Safety and security",
+            "source": "Law degree",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "2",
+            "id": "44",
+            "target": "Electrical engineering",
+            "source": "Computer science",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "2",
+            "id": "43",
+            "target": "Teacher",
+            "source": "Stylist",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "2",
+            "id": "42",
+            "target": "Music education",
+            "source": "Psychology",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "2",
+            "id": "41",
+            "target": "Child and youth services",
+            "source": "Civil engineering",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "2",
+            "id": "40",
+            "target": "Teaching degree",
+            "source": "Mathematics",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "2",
+            "id": "39",
+            "target": "Secretary",
+            "source": "Business degree",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "2",
+            "id": "38",
+            "target": "Child and youth services",
+            "source": "Social education",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "2",
+            "id": "37",
+            "target": "Music education",
+            "source": "Teaching degree",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "2",
+            "id": "36",
+            "target": "Child and youth services",
+            "source": "Commercial degree",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "2",
+            "id": "35",
+            "target": "Social sciences",
+            "source": "Information systems",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "2",
+            "id": "34",
+            "target": "Technical education degree",
+            "source": "Teacher",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "2",
+            "id": "33",
+            "target": "Master of arts",
+            "source": "Social sciences",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "2",
+            "id": "32",
+            "target": "Secretary",
+            "source": "Computer science",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "3",
+            "id": "31",
+            "target": "Child and youth services",
+            "source": "Business degree",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "3",
+            "id": "30",
+            "target": "Electronics",
+            "source": "Teacher",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "3",
+            "id": "29",
+            "target": "Economics degree",
+            "source": "Teacher",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "3",
+            "id": "28",
+            "target": "Child and youth services",
+            "source": "Business administration",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "3",
+            "id": "27",
+            "target": "Safety and security",
+            "source": "Psychology",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "3",
+            "id": "26",
+            "target": "Teacher",
+            "source": "Mathematics",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "3",
+            "id": "25",
+            "target": "Economics degree",
+            "source": "Social work degree",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "3",
+            "id": "24",
+            "target": "Social sciences",
+            "source": "Psychology",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "3",
+            "id": "23",
+            "target": "Business degree",
+            "source": "Computer science",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "3",
+            "id": "22",
+            "target": "Social sciences",
+            "source": "Safety and security",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "3",
+            "id": "21",
+            "target": "Social work degree",
+            "source": "Animation design",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "3",
+            "id": "20",
+            "target": "Music education",
+            "source": "Teacher",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "4",
+            "id": "19",
+            "target": "Teacher",
+            "source": "Computer science",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "4",
+            "id": "18",
+            "target": "Social work degree",
+            "source": "Business administration",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "4",
+            "id": "17",
+            "target": "Social sciences",
+            "source": "Social education",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "4",
+            "id": "16",
+            "target": "Child and youth services",
+            "source": "Psychology",
+            "color": "rgba(80, 143, 241)"
+        },
+        {
+            "size": "4",
+            "id": "15",
+            "target": "Electronics",
+            "source": "Computer science",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "4",
+            "id": "14",
+            "target": "Animation design",
+            "source": "Teacher",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "4",
+            "id": "13",
+            "target": "Economics degree",
+            "source": "Social sciences",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "4",
+            "id": "12",
+            "target": "Child and youth services",
+            "source": "Social sciences",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "4",
+            "id": "11",
+            "target": "Business administration",
+            "source": "Teacher",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "5",
+            "id": "10",
+            "target": "Business administration",
+            "source": "Computer science",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "5",
+            "id": "9",
+            "target": "Social work degree",
+            "source": "Psychology",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "6",
+            "id": "8",
+            "target": "Teacher",
+            "source": "Psychology",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "6",
+            "id": "7",
+            "target": "Social work degree",
+            "source": "Social education",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "7",
+            "id": "6",
+            "target": "Social sciences",
+            "source": "Teacher",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "7",
+            "id": "5",
+            "target": "Social work degree",
+            "source": "Safety and security",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "8",
+            "id": "4",
+            "target": "Social work degree",
+            "source": "Teacher",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "9",
+            "id": "3",
+            "target": "Child and youth services",
+            "source": "Teacher",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "11",
+            "id": "2",
+            "target": "Child and youth services",
+            "source": "Social work degree",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "25",
+            "id": "1",
+            "target": "Teaching degree",
+            "source": "Teacher",
+            "color": "rgba(70, 136, 241)"
+        },
+        {
+            "size": "30",
+            "id": "0",
+            "target": "Social sciences",
+            "source": "Social work degree",
+            "color": "rgba(70, 136, 241)"
+        }
+    ],
+    "nodes": [
+        {
+            "size": "1",
+            "id": "Pharmaceutical education",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Pharmaceutical education"
+        },
+        {
+            "size": "4",
+            "id": "Music education",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Music education"
+        },
+        {
+            "size": "6",
+            "id": "Social education",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Social education"
+        },
+        {
+            "size": "32",
+            "id": "Computer science",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Computer science"
+        },
+        {
+            "size": "7",
+            "id": "Electrical engineering",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Electrical engineering"
+        },
+        {
+            "size": "2",
+            "id": "Chemistry",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Chemistry"
+        },
+        {
+            "size": "3",
+            "id": "Data manager",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Data manager"
+        },
+        {
+            "size": "18",
+            "id": "Commercial degree",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Commercial degree"
+        },
+        {
+            "size": "25",
+            "id": "Teaching degree",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Teaching degree"
+        },
+        {
+            "size": "1",
+            "id": "Pediatrician",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Pediatrician"
+        },
+        {
+            "size": "60",
+            "id": "Social work degree",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Social work degree"
+        },
+        {
+            "size": "2",
+            "id": "Finance degree",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Finance degree"
+        },
+        {
+            "size": "3",
+            "id": "Medicine",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Medicine"
+        },
+        {
+            "size": "4",
+            "id": "Information systems",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Information systems"
+        },
+        {
+            "size": "1",
+            "id": "Health degree",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Health degree"
+        },
+        {
+            "size": "15",
+            "id": "Economics degree",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Economics degree"
+        },
+        {
+            "size": "3",
+            "id": "Political science",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Political science"
+        },
+        {
+            "size": "17",
+            "id": "Law degree",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Law degree"
+        },
+        {
+            "size": "12",
+            "id": "Civil engineering",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Civil engineering"
+        },
+        {
+            "size": "7",
+            "id": "Stylist",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Stylist"
+        },
+        {
+            "size": "2",
+            "id": "Psychiatry",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Psychiatry"
+        },
+        {
+            "size": "5",
+            "id": "Animation design",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Animation design"
+        },
+        {
+            "size": "19",
+            "id": "Business degree",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Business degree"
+        },
+        {
+            "size": "4",
+            "id": "Secretary",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Secretary"
+        },
+        {
+            "size": "4",
+            "id": "Technical education degree",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Technical education degree"
+        },
+        {
+            "size": "2",
+            "id": "Orthopedist",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Orthopedist"
+        },
+        {
+            "size": "5",
+            "id": "Mathematics",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Mathematics"
+        },
+        {
+            "size": "5",
+            "id": "Police officer",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Police officer"
+        },
+        {
+            "size": "1",
+            "id": "Painter",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Painter"
+        },
+        {
+            "size": "2",
+            "id": "Surgeon",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Surgeon"
+        },
+        {
+            "size": "1",
+            "id": "Tourism",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Tourism"
+        },
+        {
+            "size": "5",
+            "id": "Traffic engineering",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Traffic engineering"
+        },
+        {
+            "size": "17",
+            "id": "Psychology",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Psychology"
+        },
+        {
+            "size": "27",
+            "id": "Business administration",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Business administration"
+        },
+        {
+            "size": "32",
+            "id": "Social sciences",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Social sciences"
+        },
+        {
+            "size": "2",
+            "id": "Draftsman",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Draftsman"
+        },
+        {
+            "size": "10",
+            "id": "Electronics",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Electronics"
+        },
+        {
+            "size": "1",
+            "id": "Gynecologist",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Gynecologist"
+        },
+        {
+            "size": "81",
+            "id": "Teacher",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Teacher"
+        },
+        {
+            "size": "10",
+            "id": "Nurse",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Nurse"
+        },
+        {
+            "size": "29",
+            "id": "Safety and security",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Safety and security"
+        },
+        {
+            "size": "52",
+            "id": "Child and youth services",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Child and youth services"
+        },
+        {
+            "size": "2",
+            "id": "Master of arts",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Master of arts"
+        }
+    ],
+    "histogram": [
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Pharmaceutical education"
+        },
+        {
+            "size": "4",
+            "histogram_color": 3,
+            "label": "Music education"
+        },
+        {
+            "size": "6",
+            "histogram_color": 3,
+            "label": "Social education"
+        },
+        {
+            "size": "32",
+            "histogram_color": 3,
+            "label": "Computer science"
+        },
+        {
+            "size": "7",
+            "histogram_color": 3,
+            "label": "Electrical engineering"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Chemistry"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Mechanic apprenticeship"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Data manager"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Biology"
+        },
+        {
+            "size": "18",
+            "histogram_color": 3,
+            "label": "Commercial degree"
+        },
+        {
+            "size": "25",
+            "histogram_color": 3,
+            "label": "Teaching degree"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Pediatrician"
+        },
+        {
+            "size": "60",
+            "histogram_color": 3,
+            "label": "Social work degree"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Finance degree"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Medicine"
+        },
+        {
+            "size": "4",
+            "histogram_color": 3,
+            "label": "Information systems"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Health degree"
+        },
+        {
+            "size": "15",
+            "histogram_color": 3,
+            "label": "Economics degree"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Microtechnology engineer"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Political science"
+        },
+        {
+            "size": "17",
+            "histogram_color": 3,
+            "label": "Law degree"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Hotel school"
+        },
+        {
+            "size": "12",
+            "histogram_color": 3,
+            "label": "Civil engineering"
+        },
+        {
+            "size": "7",
+            "histogram_color": 3,
+            "label": "Stylist"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Psychiatry"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Carpenter"
+        },
+        {
+            "size": "5",
+            "histogram_color": 3,
+            "label": "Animation design"
+        },
+        {
+            "size": "19",
+            "histogram_color": 3,
+            "label": "Business degree"
+        },
+        {
+            "size": "4",
+            "histogram_color": 3,
+            "label": "Secretary"
+        },
+        {
+            "size": "4",
+            "histogram_color": 3,
+            "label": "Technical education degree"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Orthopedist"
+        },
+        {
+            "size": "5",
+            "histogram_color": 3,
+            "label": "Mathematics"
+        },
+        {
+            "size": "5",
+            "histogram_color": 3,
+            "label": "Police officer"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Architecture"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Painter"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Surgeon"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Tourism"
+        },
+        {
+            "size": "5",
+            "histogram_color": 3,
+            "label": "Traffic engineering"
+        },
+        {
+            "size": "17",
+            "histogram_color": 3,
+            "label": "Psychology"
+        },
+        {
+            "size": "27",
+            "histogram_color": 3,
+            "label": "Business administration"
+        },
+        {
+            "size": "32",
+            "histogram_color": 3,
+            "label": "Social sciences"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Commercial apprenticeship"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Dental technician"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Draftsman"
+        },
+        {
+            "size": "10",
+            "histogram_color": 3,
+            "label": "Electronics"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Gynecologist"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Restoration apprenticeship"
+        },
+        {
+            "size": "81",
+            "histogram_color": 3,
+            "label": "Teacher"
+        },
+        {
+            "size": "10",
+            "histogram_color": 3,
+            "label": "Nurse"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Mechanical engineering"
+        },
+        {
+            "size": "29",
+            "histogram_color": 3,
+            "label": "Safety and security"
+        },
+        {
+            "size": "52",
+            "histogram_color": 3,
+            "label": "Child and youth services"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Master of arts"
+        }
+    ]
+}

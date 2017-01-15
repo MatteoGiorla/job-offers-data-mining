@@ -1,0 +1,2667 @@
+{
+    "edges": [
+        {
+            "size": "2",
+            "id": "257",
+            "target": "Human resources",
+            "source": "Consulting",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "2",
+            "id": "256",
+            "target": "Excel",
+            "source": "Human resources",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "2",
+            "id": "255",
+            "target": "Customer service",
+            "source": "Marketing",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "2",
+            "id": "254",
+            "target": "C",
+            "source": "Matlab",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "2",
+            "id": "253",
+            "target": "Computer skills",
+            "source": "Perl",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "2",
+            "id": "252",
+            "target": "Software development",
+            "source": "C",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "2",
+            "id": "251",
+            "target": "Quality control",
+            "source": "Powerpoint",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "2",
+            "id": "250",
+            "target": "Medical technology",
+            "source": "SAP",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "2",
+            "id": "249",
+            "target": "Risk management",
+            "source": "Consulting",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "2",
+            "id": "248",
+            "target": "Consulting",
+            "source": "SAP",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "2",
+            "id": "247",
+            "target": "VMware",
+            "source": "C#",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "2",
+            "id": "246",
+            "target": "Project management",
+            "source": "Agile development methods",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "2",
+            "id": "245",
+            "target": "Computer skills",
+            "source": "C",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "2",
+            "id": "244",
+            "target": "Sales",
+            "source": "Finances",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "2",
+            "id": "243",
+            "target": "Logistics",
+            "source": "SAP",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "2",
+            "id": "242",
+            "target": "Excel",
+            "source": "Autocad",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "2",
+            "id": "241",
+            "target": "Project management",
+            "source": "Accounting",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "2",
+            "id": "240",
+            "target": "C#",
+            "source": "Linux",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "2",
+            "id": "239",
+            "target": "C++",
+            "source": "Application development",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "2",
+            "id": "238",
+            "target": "Computer skills",
+            "source": "Medical technology",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "2",
+            "id": "237",
+            "target": "C++",
+            "source": "Database systems",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "2",
+            "id": "236",
+            "target": "Autocad",
+            "source": "Project management",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "2",
+            "id": "235",
+            "target": "Linux",
+            "source": "Application development",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "2",
+            "id": "234",
+            "target": "Windows",
+            "source": "Application development",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "2",
+            "id": "233",
+            "target": "Powerpoint",
+            "source": "3D CAD systems",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "2",
+            "id": "232",
+            "target": "Windows",
+            "source": "C++",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "2",
+            "id": "231",
+            "target": "Word",
+            "source": "3D CAD systems",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "2",
+            "id": "230",
+            "target": "Word",
+            "source": "Quality control",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "2",
+            "id": "229",
+            "target": "TCP/IP",
+            "source": "Linux",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "2",
+            "id": "228",
+            "target": "Excel",
+            "source": "Building codes",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "2",
+            "id": "227",
+            "target": "VHDL",
+            "source": "Project management",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "2",
+            "id": "226",
+            "target": "Project management",
+            "source": "C",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "2",
+            "id": "225",
+            "target": "Word",
+            "source": "Building codes",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "2",
+            "id": "224",
+            "target": "Outlook",
+            "source": "Powerpoint",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "2",
+            "id": "223",
+            "target": "CNC (Computer Numeric Control)",
+            "source": "Consulting",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "2",
+            "id": "222",
+            "target": "Oncology",
+            "source": "Marketing",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "2",
+            "id": "221",
+            "target": "Human resources",
+            "source": "Powerpoint",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "2",
+            "id": "220",
+            "target": "Marketing",
+            "source": "Finances",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "2",
+            "id": "219",
+            "target": "Excel",
+            "source": "Data management",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "2",
+            "id": "218",
+            "target": "Database systems",
+            "source": "Linux",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "2",
+            "id": "217",
+            "target": "Excel",
+            "source": "Perl",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "2",
+            "id": "216",
+            "target": "Automation",
+            "source": "3D CAD systems",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "2",
+            "id": "215",
+            "target": "Sustainability",
+            "source": "Data management",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "2",
+            "id": "214",
+            "target": "Sustainability",
+            "source": "Sales",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "2",
+            "id": "213",
+            "target": "R",
+            "source": "Python",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "2",
+            "id": "212",
+            "target": "Windows",
+            "source": "Customer service",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "2",
+            "id": "211",
+            "target": "Data management",
+            "source": "SAP",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "2",
+            "id": "210",
+            "target": "Software development",
+            "source": "PLC (Programmable logic controller)",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "2",
+            "id": "209",
+            "target": "Real estate management",
+            "source": "Project management",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "2",
+            "id": "208",
+            "target": "C#",
+            "source": "C",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "2",
+            "id": "207",
+            "target": "R",
+            "source": "Social skills",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "2",
+            "id": "206",
+            "target": "Project management",
+            "source": "Human resources",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "2",
+            "id": "205",
+            "target": "Software development",
+            "source": "Linux",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "2",
+            "id": "204",
+            "target": "Sustainability",
+            "source": "PLC (Programmable logic controller)",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "2",
+            "id": "203",
+            "target": "Oncology",
+            "source": "Sales",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "2",
+            "id": "202",
+            "target": "VHDL",
+            "source": "Python",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "2",
+            "id": "201",
+            "target": "Autocad",
+            "source": "Word",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "2",
+            "id": "200",
+            "target": "Data management",
+            "source": "Powerpoint",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "2",
+            "id": "199",
+            "target": "C++",
+            "source": "Automation",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "2",
+            "id": "198",
+            "target": "VMware",
+            "source": "Application development",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "2",
+            "id": "197",
+            "target": "Marketing",
+            "source": "Acquisition business knowledge",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "2",
+            "id": "196",
+            "target": "Quality assurance",
+            "source": "SAP",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "2",
+            "id": "195",
+            "target": "Word",
+            "source": "Linux",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "2",
+            "id": "194",
+            "target": "C++",
+            "source": "Java",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "2",
+            "id": "193",
+            "target": "Powerpoint",
+            "source": "Building codes",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "2",
+            "id": "192",
+            "target": "Risk management",
+            "source": "R",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "2",
+            "id": "191",
+            "target": "Excel",
+            "source": "Outlook",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "2",
+            "id": "190",
+            "target": "Computer skills",
+            "source": "Linux",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "2",
+            "id": "189",
+            "target": "PLC (Programmable logic controller)",
+            "source": "Social skills",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "2",
+            "id": "188",
+            "target": "Consulting",
+            "source": "Social skills",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "2",
+            "id": "187",
+            "target": "Computer skills",
+            "source": "Marketing",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "2",
+            "id": "186",
+            "target": "Linux",
+            "source": "Powerpoint",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "2",
+            "id": "185",
+            "target": "VMware",
+            "source": "Software development",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "2",
+            "id": "184",
+            "target": "C#",
+            "source": "Windows Presentation Foundation",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "2",
+            "id": "183",
+            "target": "Sales",
+            "source": "Advertising",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "2",
+            "id": "182",
+            "target": ".net",
+            "source": "Windows Presentation Foundation",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "2",
+            "id": "181",
+            "target": "Real estate management",
+            "source": "Sustainability",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "2",
+            "id": "180",
+            "target": "Powerpoint",
+            "source": "C",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "2",
+            "id": "179",
+            "target": "Autocad",
+            "source": "Powerpoint",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "2",
+            "id": "178",
+            "target": "Scrum",
+            "source": "Agile development methods",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "2",
+            "id": "177",
+            "target": "Project management",
+            "source": "R Graphics",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "2",
+            "id": "176",
+            "target": "R",
+            "source": "R Graphics",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "2",
+            "id": "175",
+            "target": "Sustainability",
+            "source": "Logistics",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "2",
+            "id": "174",
+            "target": "Sustainability",
+            "source": "Computer skills",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "2",
+            "id": "173",
+            "target": "Customer service",
+            "source": "C",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "2",
+            "id": "172",
+            "target": "Excel",
+            "source": "Linux",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "2",
+            "id": "171",
+            "target": "Outlook",
+            "source": "Word",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "2",
+            "id": "170",
+            "target": "Logistics",
+            "source": "R",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "2",
+            "id": "169",
+            "target": "VHDL",
+            "source": "C++",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "2",
+            "id": "168",
+            "target": "Customer service",
+            "source": ".net",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "2",
+            "id": "167",
+            "target": "Sales",
+            "source": "PLC (Programmable logic controller)",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "2",
+            "id": "166",
+            "target": "C++",
+            "source": "VMware",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "2",
+            "id": "165",
+            "target": "PLC (Programmable logic controller)",
+            "source": "Acquisition business knowledge",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "2",
+            "id": "164",
+            "target": "Excel",
+            "source": "Quality control",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "2",
+            "id": "163",
+            "target": "Data management",
+            "source": "Word",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "2",
+            "id": "162",
+            "target": "Excel",
+            "source": "3D CAD systems",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "2",
+            "id": "161",
+            "target": "Customer service",
+            "source": "R",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "2",
+            "id": "160",
+            "target": "SAP",
+            "source": "3D CAD systems",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "2",
+            "id": "159",
+            "target": "VHDL",
+            "source": "C#",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "2",
+            "id": "158",
+            "target": "Powerpoint",
+            "source": "Perl",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "2",
+            "id": "157",
+            "target": "Windows",
+            "source": "Software development",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "2",
+            "id": "156",
+            "target": "Marketing",
+            "source": "SAP",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "2",
+            "id": "155",
+            "target": "Real estate management",
+            "source": "Social skills",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "2",
+            "id": "154",
+            "target": "Word",
+            "source": "Human resources",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "2",
+            "id": "153",
+            "target": "Sustainability",
+            "source": "Social skills",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "2",
+            "id": "152",
+            "target": "Word",
+            "source": "Perl",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "3",
+            "id": "151",
+            "target": "Automation",
+            "source": "Finances",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "3",
+            "id": "150",
+            "target": "Customer service",
+            "source": "Consulting",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "3",
+            "id": "149",
+            "target": "Computer skills",
+            "source": "Consulting",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "3",
+            "id": "148",
+            "target": "Windows",
+            "source": "C#",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "3",
+            "id": "147",
+            "target": "Excel",
+            "source": "C",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "3",
+            "id": "146",
+            "target": "Risk management",
+            "source": "Medical technology",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "3",
+            "id": "145",
+            "target": "Software development",
+            "source": "Automation",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "3",
+            "id": "144",
+            "target": "Word",
+            "source": "C",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "3",
+            "id": "143",
+            "target": "Windows",
+            "source": "VMware",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "3",
+            "id": "142",
+            "target": "Excel",
+            "source": "R",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "3",
+            "id": "141",
+            "target": "Sustainability",
+            "source": "SAP",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "3",
+            "id": "140",
+            "target": "Human resources",
+            "source": "Automation",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "3",
+            "id": "139",
+            "target": "Database systems",
+            "source": "Automation",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "3",
+            "id": "137",
+            "target": "Logistics",
+            "source": "Sales",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "3",
+            "id": "136",
+            "target": "Marketing",
+            "source": "Consulting",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "3",
+            "id": "135",
+            "target": "Sales",
+            "source": "Human resources",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "3",
+            "id": "133",
+            "target": ".net",
+            "source": "C#",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "3",
+            "id": "132",
+            "target": "Customer service",
+            "source": "Logistics",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "3",
+            "id": "131",
+            "target": "C#",
+            "source": "Application development",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "3",
+            "id": "130",
+            "target": "R",
+            "source": "Powerpoint",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "3",
+            "id": "129",
+            "target": "VMware",
+            "source": "Linux",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "3",
+            "id": "128",
+            "target": "Logistics",
+            "source": "Powerpoint",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "3",
+            "id": "127",
+            "target": "C++",
+            "source": "Project management",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "3",
+            "id": "126",
+            "target": "C++",
+            "source": "PLC (Programmable logic controller)",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "3",
+            "id": "125",
+            "target": "Software development",
+            "source": "Project management",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "3",
+            "id": "124",
+            "target": "Data management",
+            "source": "Sales",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "3",
+            "id": "123",
+            "target": "C++",
+            "source": "Python",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "3",
+            "id": "122",
+            "target": "Computer skills",
+            "source": "Social skills",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "3",
+            "id": "121",
+            "target": "Excel",
+            "source": "Marketing",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "3",
+            "id": "120",
+            "target": "Software development",
+            "source": "Application development",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "3",
+            "id": "118",
+            "target": "Logistics",
+            "source": "Word",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "3",
+            "id": "117",
+            "target": "Logistics",
+            "source": "Automation",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "3",
+            "id": "116",
+            "target": "Marketing",
+            "source": "Powerpoint",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "3",
+            "id": "115",
+            "target": "Sales",
+            "source": "Acquisition business knowledge",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "3",
+            "id": "114",
+            "target": "C++",
+            "source": "Matlab",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "3",
+            "id": "113",
+            "target": "Risk management",
+            "source": "SAP",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "3",
+            "id": "112",
+            "target": "Computer skills",
+            "source": "Quality assurance",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "3",
+            "id": "111",
+            "target": "Medical technology",
+            "source": "Powerpoint",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "3",
+            "id": "110",
+            "target": "Sales",
+            "source": "R",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "3",
+            "id": "109",
+            "target": "Social skills",
+            "source": "Finances",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "3",
+            "id": "108",
+            "target": "Social skills",
+            "source": "Acquisition business knowledge",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "3",
+            "id": "107",
+            "target": "Excel",
+            "source": "Logistics",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "3",
+            "id": "106",
+            "target": "CNC (Computer Numeric Control)",
+            "source": "PLC (Programmable logic controller)",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "3",
+            "id": "105",
+            "target": "Sustainability",
+            "source": "Consulting",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "3",
+            "id": "104",
+            "target": "Sales",
+            "source": "Social skills",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "3",
+            "id": "103",
+            "target": ".net",
+            "source": "C",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "3",
+            "id": "102",
+            "target": "Software development",
+            "source": "Agile development methods",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "3",
+            "id": "101",
+            "target": "Project management",
+            "source": "Quality control",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "3",
+            "id": "100",
+            "target": "C++",
+            "source": "Linux",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "3",
+            "id": "99",
+            "target": "Excel",
+            "source": "Medical technology",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "4",
+            "id": "98",
+            "target": "Sustainability",
+            "source": "Automation",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "4",
+            "id": "97",
+            "target": "Sustainability",
+            "source": "Word",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "4",
+            "id": "96",
+            "target": "Sustainability",
+            "source": "Powerpoint",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "4",
+            "id": "95",
+            "target": "Computer skills",
+            "source": "Logistics",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "4",
+            "id": "94",
+            "target": "Sustainability",
+            "source": "R",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "4",
+            "id": "93",
+            "target": "Word",
+            "source": "R",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "4",
+            "id": "92",
+            "target": "Project management",
+            "source": "3D CAD systems",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "4",
+            "id": "91",
+            "target": "Automation",
+            "source": "SAP",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "4",
+            "id": "90",
+            "target": "C#",
+            "source": "Software development",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "4",
+            "id": "89",
+            "target": "Sales",
+            "source": "Quality assurance",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "4",
+            "id": "88",
+            "target": "C++",
+            "source": "Software development",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "4",
+            "id": "87",
+            "target": "Excel",
+            "source": "Social skills",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "4",
+            "id": "86",
+            "target": "Word",
+            "source": "Quality assurance",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "4",
+            "id": "85",
+            "target": "Marketing",
+            "source": "Word",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "4",
+            "id": "84",
+            "target": "Sales",
+            "source": "SAP",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "4",
+            "id": "83",
+            "target": "Excel",
+            "source": "Quality assurance",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "4",
+            "id": "82",
+            "target": "Sustainability",
+            "source": "Risk management",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "4",
+            "id": "81",
+            "target": "Word",
+            "source": "Medical technology",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "4",
+            "id": "80",
+            "target": "CNC (Computer Numeric Control)",
+            "source": "R",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "4",
+            "id": "79",
+            "target": "Powerpoint",
+            "source": "Quality assurance",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "4",
+            "id": "78",
+            "target": "PLC (Programmable logic controller)",
+            "source": "C",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "4",
+            "id": "77",
+            "target": "R",
+            "source": "Consulting",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "4",
+            "id": "76",
+            "target": "Customer service",
+            "source": "Project management",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "4",
+            "id": "75",
+            "target": "Powerpoint",
+            "source": "Social skills",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "4",
+            "id": "74",
+            "target": "Excel",
+            "source": "Sustainability",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "5",
+            "id": "73",
+            "target": "Consulting",
+            "source": "Powerpoint",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "5",
+            "id": "72",
+            "target": "C#",
+            "source": "Python",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "5",
+            "id": "71",
+            "target": "Finances",
+            "source": "Acquisition business knowledge",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "5",
+            "id": "70",
+            "target": "Consulting",
+            "source": "Finances",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "5",
+            "id": "69",
+            "target": "C++",
+            "source": "C#",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "5",
+            "id": "68",
+            "target": "Excel",
+            "source": "Consulting",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "5",
+            "id": "67",
+            "target": "Word",
+            "source": "Acquisition business knowledge",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "5",
+            "id": "66",
+            "target": "Windows",
+            "source": "Automation",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "5",
+            "id": "65",
+            "target": "R",
+            "source": "Automation",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "5",
+            "id": "64",
+            "target": "Powerpoint",
+            "source": "Acquisition business knowledge",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "5",
+            "id": "63",
+            "target": "Computer skills",
+            "source": "Project management",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "5",
+            "id": "62",
+            "target": "Word",
+            "source": "Consulting",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "5",
+            "id": "61",
+            "target": "Excel",
+            "source": "Acquisition business knowledge",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "5",
+            "id": "60",
+            "target": "C",
+            "source": "Automation",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "6",
+            "id": "59",
+            "target": "Project management",
+            "source": "Medical technology",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "6",
+            "id": "58",
+            "target": "Project management",
+            "source": "Quality assurance",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "6",
+            "id": "57",
+            "target": "Word",
+            "source": "Social skills",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "6",
+            "id": "56",
+            "target": "Project management",
+            "source": "R",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "6",
+            "id": "55",
+            "target": "Windows",
+            "source": "Powerpoint",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "6",
+            "id": "54",
+            "target": "Customer service",
+            "source": "Computer skills",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "6",
+            "id": "53",
+            "target": "Customer service",
+            "source": "Powerpoint",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "6",
+            "id": "52",
+            "target": "Computer skills",
+            "source": "PLC (Programmable logic controller)",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "6",
+            "id": "51",
+            "target": "Project management",
+            "source": "Marketing",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "7",
+            "id": "50",
+            "target": "Excel",
+            "source": "Customer service",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "7",
+            "id": "49",
+            "target": "Excel",
+            "source": "Windows",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "7",
+            "id": "48",
+            "target": "Windows",
+            "source": "Word",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "7",
+            "id": "47",
+            "target": "Customer service",
+            "source": "Automation",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "8",
+            "id": "46",
+            "target": "Project management",
+            "source": "Finances",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "8",
+            "id": "45",
+            "target": "Computer skills",
+            "source": "SAP",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "8",
+            "id": "44",
+            "target": "Windows",
+            "source": "Linux",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "8",
+            "id": "43",
+            "target": "Customer service",
+            "source": "Word",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "9",
+            "id": "42",
+            "target": "PLC (Programmable logic controller)",
+            "source": "Powerpoint",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "9",
+            "id": "41",
+            "target": "Consulting",
+            "source": "Automation",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "9",
+            "id": "40",
+            "target": "Project management",
+            "source": "PLC (Programmable logic controller)",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "9",
+            "id": "39",
+            "target": "Windows",
+            "source": "Computer skills",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "9",
+            "id": "38",
+            "target": "Sales",
+            "source": "Automation",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "9",
+            "id": "37",
+            "target": "Consulting",
+            "source": "Acquisition business knowledge",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "9",
+            "id": "36",
+            "target": "CNC (Computer Numeric Control)",
+            "source": "Automation",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "9",
+            "id": "35",
+            "target": "Excel",
+            "source": "PLC (Programmable logic controller)",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "10",
+            "id": "34",
+            "target": "Social skills",
+            "source": "Automation",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "10",
+            "id": "33",
+            "target": "Project management",
+            "source": "Risk management",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "10",
+            "id": "32",
+            "target": "Project management",
+            "source": "Social skills",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "11",
+            "id": "31",
+            "target": "Customer service",
+            "source": "Sales",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "11",
+            "id": "30",
+            "target": "C++",
+            "source": "C",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "11",
+            "id": "29",
+            "target": "Marketing",
+            "source": "Sales",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "11",
+            "id": "28",
+            "target": "Sustainability",
+            "source": "Project management",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "11",
+            "id": "27",
+            "target": "Word",
+            "source": "PLC (Programmable logic controller)",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "12",
+            "id": "26",
+            "target": "Project management",
+            "source": "SAP",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "12",
+            "id": "25",
+            "target": "Computer skills",
+            "source": "Sales",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "12",
+            "id": "24",
+            "target": "Project management",
+            "source": "Sales",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "13",
+            "id": "23",
+            "target": "Sales",
+            "source": "Powerpoint",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "14",
+            "id": "22",
+            "target": "Sales",
+            "source": "Consulting",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "14",
+            "id": "21",
+            "target": "Excel",
+            "source": "Sales",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "14",
+            "id": "20",
+            "target": "Project management",
+            "source": "Consulting",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "15",
+            "id": "19",
+            "target": "Project management",
+            "source": "Acquisition business knowledge",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "16",
+            "id": "18",
+            "target": "Sales",
+            "source": "Word",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "17",
+            "id": "17",
+            "target": "Project management",
+            "source": "Automation",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "18",
+            "id": "16",
+            "target": "Project management",
+            "source": "Powerpoint",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "19",
+            "id": "15",
+            "target": "Excel",
+            "source": "Project management",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "20",
+            "id": "14",
+            "target": "Project management",
+            "source": "Word",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "21",
+            "id": "13",
+            "target": "Computer skills",
+            "source": "Automation",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "25",
+            "id": "12",
+            "target": "Powerpoint",
+            "source": "SAP",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "25",
+            "id": "11",
+            "target": "Word",
+            "source": "SAP",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "26",
+            "id": "10",
+            "target": "Excel",
+            "source": "SAP",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "26",
+            "id": "9",
+            "target": "Powerpoint",
+            "source": "Automation",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "27",
+            "id": "8",
+            "target": "Excel",
+            "source": "Automation",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "29",
+            "id": "7",
+            "target": "Word",
+            "source": "Automation",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "32",
+            "id": "6",
+            "target": "PLC (Programmable logic controller)",
+            "source": "Automation",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "32",
+            "id": "5",
+            "target": "Computer skills",
+            "source": "Powerpoint",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "38",
+            "id": "4",
+            "target": "Excel",
+            "source": "Computer skills",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "38",
+            "id": "3",
+            "target": "Computer skills",
+            "source": "Word",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "133",
+            "id": "2",
+            "target": "Word",
+            "source": "Powerpoint",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "133",
+            "id": "1",
+            "target": "Excel",
+            "source": "Powerpoint",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "139",
+            "id": "0",
+            "target": "Excel",
+            "source": "Word",
+            "color": "rgba(232, 69, 60)"
+        }
+    ],
+    "nodes": [
+        {
+            "size": "15",
+            "id": "Marketing",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Marketing"
+        },
+        {
+            "size": "23",
+            "id": "Quality assurance",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Quality assurance"
+        },
+        {
+            "size": "14",
+            "id": "Database systems",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Database systems"
+        },
+        {
+            "size": "24",
+            "id": "Windows",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Windows"
+        },
+        {
+            "size": "8",
+            "id": "Perl",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Perl"
+        },
+        {
+            "size": "11",
+            "id": "Linux",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Linux"
+        },
+        {
+            "size": "84",
+            "id": "Sales",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Sales"
+        },
+        {
+            "size": "14",
+            "id": "C#",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "C#"
+        },
+        {
+            "size": "6",
+            "id": "Real estate management",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Real estate management"
+        },
+        {
+            "size": "3",
+            "id": "R Graphics",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "R Graphics"
+        },
+        {
+            "size": "3",
+            "id": "Application development",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Application development"
+        },
+        {
+            "size": "5",
+            "id": ".net",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": ".net"
+        },
+        {
+            "size": "56",
+            "id": "Customer service",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Customer service"
+        },
+        {
+            "size": "33",
+            "id": "R",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "R"
+        },
+        {
+            "size": "156",
+            "id": "Project management",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Project management"
+        },
+        {
+            "size": "133",
+            "id": "Powerpoint",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Powerpoint"
+        },
+        {
+            "size": "15",
+            "id": "Risk management",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Risk management"
+        },
+        {
+            "size": "125",
+            "id": "Computer skills",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Computer skills"
+        },
+        {
+            "size": "10",
+            "id": "Python",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Python"
+        },
+        {
+            "size": "12",
+            "id": "Quality control",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Quality control"
+        },
+        {
+            "size": "3",
+            "id": "Autocad",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Autocad"
+        },
+        {
+            "size": "17",
+            "id": "Human resources",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Human resources"
+        },
+        {
+            "size": "32",
+            "id": "C",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "C"
+        },
+        {
+            "size": "42",
+            "id": "SAP",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "SAP"
+        },
+        {
+            "size": "13",
+            "id": "Finances",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Finances"
+        },
+        {
+            "size": "10",
+            "id": "Medical technology",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Medical technology"
+        },
+        {
+            "size": "2",
+            "id": "Windows Presentation Foundation",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Windows Presentation Foundation"
+        },
+        {
+            "size": "2",
+            "id": "Accounting",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Accounting"
+        },
+        {
+            "size": "56",
+            "id": "PLC (Programmable logic controller)",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "PLC (Programmable logic controller)"
+        },
+        {
+            "size": "20",
+            "id": "CNC (Computer Numeric Control)",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "CNC (Computer Numeric Control)"
+        },
+        {
+            "size": "10",
+            "id": "3D CAD systems",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "3D CAD systems"
+        },
+        {
+            "size": "55",
+            "id": "Consulting",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Consulting"
+        },
+        {
+            "size": "4",
+            "id": "TCP/IP",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "TCP/IP"
+        },
+        {
+            "size": "42",
+            "id": "Social skills",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Social skills"
+        },
+        {
+            "size": "166",
+            "id": "Automation",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Automation"
+        },
+        {
+            "size": "19",
+            "id": "C++",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "C++"
+        },
+        {
+            "size": "5",
+            "id": "Data management",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Data management"
+        },
+        {
+            "size": "19",
+            "id": "Acquisition business knowledge",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Acquisition business knowledge"
+        },
+        {
+            "size": "5",
+            "id": "Agile development methods",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Agile development methods"
+        },
+        {
+            "size": "3",
+            "id": "VMware",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "VMware"
+        },
+        {
+            "size": "2",
+            "id": "Advertising",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Advertising"
+        },
+        {
+            "size": "7",
+            "id": "Matlab",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Matlab"
+        },
+        {
+            "size": "3",
+            "id": "Java",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Java"
+        },
+        {
+            "size": "39",
+            "id": "Sustainability",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Sustainability"
+        },
+        {
+            "size": "2",
+            "id": "Oncology",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Oncology"
+        },
+        {
+            "size": "6",
+            "id": "Building codes",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Building codes"
+        },
+        {
+            "size": "15",
+            "id": "Logistics",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Logistics"
+        },
+        {
+            "size": "6",
+            "id": "VHDL",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "VHDL"
+        },
+        {
+            "size": "2",
+            "id": "Scrum",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Scrum"
+        },
+        {
+            "size": "16",
+            "id": "Software development",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Software development"
+        },
+        {
+            "size": "144",
+            "id": "Word",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Word"
+        },
+        {
+            "size": "3",
+            "id": "Outlook",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Outlook"
+        },
+        {
+            "size": "144",
+            "id": "Excel",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Excel"
+        }
+    ],
+    "histogram": [
+        {
+            "size": "15",
+            "histogram_color": 1,
+            "label": "Marketing"
+        },
+        {
+            "size": "4",
+            "histogram_color": 1,
+            "label": "Metallurgy"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "SQL"
+        },
+        {
+            "size": "23",
+            "histogram_color": 1,
+            "label": "Quality assurance"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "CATIA"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Spatial thinking"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Methodological skills"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Web application"
+        },
+        {
+            "size": "14",
+            "histogram_color": 1,
+            "label": "Database systems"
+        },
+        {
+            "size": "24",
+            "histogram_color": 1,
+            "label": "Windows"
+        },
+        {
+            "size": "8",
+            "histogram_color": 1,
+            "label": "Perl"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Eclipse"
+        },
+        {
+            "size": "11",
+            "histogram_color": 1,
+            "label": "Linux"
+        },
+        {
+            "size": "84",
+            "histogram_color": 1,
+            "label": "Sales"
+        },
+        {
+            "size": "14",
+            "histogram_color": 1,
+            "label": "C#"
+        },
+        {
+            "size": "6",
+            "histogram_color": 1,
+            "label": "Real estate management"
+        },
+        {
+            "size": "4",
+            "histogram_color": 1,
+            "label": "Railway engineering"
+        },
+        {
+            "size": "3",
+            "histogram_color": 1,
+            "label": "R Graphics"
+        },
+        {
+            "size": "3",
+            "histogram_color": 1,
+            "label": "Application development"
+        },
+        {
+            "size": "5",
+            "histogram_color": 1,
+            "label": ".net"
+        },
+        {
+            "size": "56",
+            "histogram_color": 1,
+            "label": "Customer service"
+        },
+        {
+            "size": "33",
+            "histogram_color": 1,
+            "label": "R"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Editorial skills"
+        },
+        {
+            "size": "156",
+            "histogram_color": 1,
+            "label": "Project management"
+        },
+        {
+            "size": "3",
+            "histogram_color": 1,
+            "label": "Fire security"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Writing skills"
+        },
+        {
+            "size": "6",
+            "histogram_color": 1,
+            "label": "Intellectual property"
+        },
+        {
+            "size": "133",
+            "histogram_color": 1,
+            "label": "Powerpoint"
+        },
+        {
+            "size": "15",
+            "histogram_color": 1,
+            "label": "Risk management"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "XML"
+        },
+        {
+            "size": "125",
+            "histogram_color": 1,
+            "label": "Computer skills"
+        },
+        {
+            "size": "10",
+            "histogram_color": 1,
+            "label": "Python"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "ETA"
+        },
+        {
+            "size": "12",
+            "histogram_color": 1,
+            "label": "Quality control"
+        },
+        {
+            "size": "3",
+            "histogram_color": 1,
+            "label": "HTML"
+        },
+        {
+            "size": "3",
+            "histogram_color": 1,
+            "label": "Autocad"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Big data"
+        },
+        {
+            "size": "17",
+            "histogram_color": 1,
+            "label": "Human resources"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Swift"
+        },
+        {
+            "size": "32",
+            "histogram_color": 1,
+            "label": "C"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Visual basic"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "DHCP"
+        },
+        {
+            "size": "42",
+            "histogram_color": 1,
+            "label": "SAP"
+        },
+        {
+            "size": "3",
+            "histogram_color": 1,
+            "label": "CSS"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "macOS"
+        },
+        {
+            "size": "13",
+            "histogram_color": 1,
+            "label": "Finances"
+        },
+        {
+            "size": "3",
+            "histogram_color": 1,
+            "label": "Law knowledge"
+        },
+        {
+            "size": "10",
+            "histogram_color": 1,
+            "label": "Medical technology"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Windows Presentation Foundation"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Accounting"
+        },
+        {
+            "size": "56",
+            "histogram_color": 1,
+            "label": "PLC (Programmable logic controller)"
+        },
+        {
+            "size": "4",
+            "histogram_color": 1,
+            "label": "Networking"
+        },
+        {
+            "size": "20",
+            "histogram_color": 1,
+            "label": "CNC (Computer Numeric Control)"
+        },
+        {
+            "size": "10",
+            "histogram_color": 1,
+            "label": "3D CAD systems"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Assembly language"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Windows server"
+        },
+        {
+            "size": "55",
+            "histogram_color": 1,
+            "label": "Consulting"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "DNS"
+        },
+        {
+            "size": "3",
+            "histogram_color": 1,
+            "label": "Javascript"
+        },
+        {
+            "size": "4",
+            "histogram_color": 1,
+            "label": "TCP/IP"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Adobe Illustrator"
+        },
+        {
+            "size": "42",
+            "histogram_color": 1,
+            "label": "Social skills"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Software architecture"
+        },
+        {
+            "size": "166",
+            "histogram_color": 1,
+            "label": "Automation"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "ITIL"
+        },
+        {
+            "size": "19",
+            "histogram_color": 1,
+            "label": "C++"
+        },
+        {
+            "size": "5",
+            "histogram_color": 1,
+            "label": "Data management"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "VBA"
+        },
+        {
+            "size": "19",
+            "histogram_color": 1,
+            "label": "Acquisition business knowledge"
+        },
+        {
+            "size": "5",
+            "histogram_color": 1,
+            "label": "Agile development methods"
+        },
+        {
+            "size": "3",
+            "histogram_color": 1,
+            "label": "VMware"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Advertising"
+        },
+        {
+            "size": "7",
+            "histogram_color": 1,
+            "label": "Matlab"
+        },
+        {
+            "size": "3",
+            "histogram_color": 1,
+            "label": "Java"
+        },
+        {
+            "size": "39",
+            "histogram_color": 1,
+            "label": "Sustainability"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Oncology"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Visual studio"
+        },
+        {
+            "size": "3",
+            "histogram_color": 1,
+            "label": "Object-oriented programming"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "LIMS"
+        },
+        {
+            "size": "6",
+            "histogram_color": 1,
+            "label": "Building codes"
+        },
+        {
+            "size": "15",
+            "histogram_color": 1,
+            "label": "Logistics"
+        },
+        {
+            "size": "6",
+            "histogram_color": 1,
+            "label": "VHDL"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Ruby"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Scrum"
+        },
+        {
+            "size": "16",
+            "histogram_color": 1,
+            "label": "Software development"
+        },
+        {
+            "size": "144",
+            "histogram_color": 1,
+            "label": "Word"
+        },
+        {
+            "size": "3",
+            "histogram_color": 1,
+            "label": "Outlook"
+        },
+        {
+            "size": "144",
+            "histogram_color": 1,
+            "label": "Excel"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Insurance business knowledge"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Shell"
+        }
+    ]
+}

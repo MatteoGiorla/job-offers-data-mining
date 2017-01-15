@@ -1,0 +1,3172 @@
+{
+    "edges": [
+        {
+            "size": "35",
+            "id": "271",
+            "target": "Sales",
+            "source": "Organizational Skills",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "35",
+            "id": "270",
+            "target": "French",
+            "source": "Social media",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "36",
+            "id": "268",
+            "target": "English",
+            "source": "Leadership",
+            "color": "rgba(252, 224, 158)"
+        },
+        {
+            "size": "36",
+            "id": "267",
+            "target": "Business administration",
+            "source": "Powerpoint",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "36",
+            "id": "266",
+            "target": "Communication Skills",
+            "source": "Creativity",
+            "color": "rgba(252, 224, 158)"
+        },
+        {
+            "size": "36",
+            "id": "265",
+            "target": "Business administration",
+            "source": "Word",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "36",
+            "id": "264",
+            "target": "Team Skills",
+            "source": "Social media",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "36",
+            "id": "263",
+            "target": "Computer skills",
+            "source": "Marketing",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "36",
+            "id": "262",
+            "target": "Project management",
+            "source": "Business administration",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "36",
+            "id": "261",
+            "target": "Marketing",
+            "source": "Creativity",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "36",
+            "id": "260",
+            "target": "Structured work",
+            "source": "Word",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "36",
+            "id": "259",
+            "target": "Management",
+            "source": "Commercial degree",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "36",
+            "id": "258",
+            "target": "English",
+            "source": "Advertising",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "37",
+            "id": "257",
+            "target": "French",
+            "source": "Presentation skills",
+            "color": "rgba(252, 224, 158)"
+        },
+        {
+            "size": "37",
+            "id": "256",
+            "target": "Commercial degree",
+            "source": "French",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "37",
+            "id": "255",
+            "target": "Computer skills",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "37",
+            "id": "254",
+            "target": "Structured work",
+            "source": "Powerpoint",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "37",
+            "id": "253",
+            "target": "Team Skills",
+            "source": "Structured work",
+            "color": "rgba(252, 224, 158)"
+        },
+        {
+            "size": "38",
+            "id": "252",
+            "target": "Adobe InDesign",
+            "source": "Marketing",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "38",
+            "id": "251",
+            "target": "Self-motivation",
+            "source": "Analytical skills",
+            "color": "rgba(252, 224, 158)"
+        },
+        {
+            "size": "38",
+            "id": "250",
+            "target": "Communication Skills",
+            "source": "Editorial skills",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "38",
+            "id": "249",
+            "target": "Adobe Photoshop",
+            "source": "Marketing",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "38",
+            "id": "248",
+            "target": "French",
+            "source": "Resilience",
+            "color": "rgba(252, 224, 158)"
+        },
+        {
+            "size": "39",
+            "id": "247",
+            "target": "Excel",
+            "source": "Structured work",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "39",
+            "id": "246",
+            "target": "Self-motivation",
+            "source": "Flexibility",
+            "color": "rgba(252, 224, 158)"
+        },
+        {
+            "size": "39",
+            "id": "245",
+            "target": "English",
+            "source": "Business degree",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "39",
+            "id": "244",
+            "target": "Independence",
+            "source": "Resilience",
+            "color": "rgba(252, 219, 145)"
+        },
+        {
+            "size": "39",
+            "id": "243",
+            "target": "Leadership",
+            "source": "German",
+            "color": "rgba(252, 219, 145)"
+        },
+        {
+            "size": "39",
+            "id": "242",
+            "target": "Entrepreneurial mindset",
+            "source": "Project management",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "39",
+            "id": "241",
+            "target": "Project management",
+            "source": "Resilience",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "39",
+            "id": "240",
+            "target": "Sales",
+            "source": "Presentation skills",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "40",
+            "id": "239",
+            "target": "Management",
+            "source": "Business degree",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "40",
+            "id": "238",
+            "target": "Excel",
+            "source": "Business administration",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "40",
+            "id": "237",
+            "target": "Powerpoint",
+            "source": "Organizational Skills",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "40",
+            "id": "236",
+            "target": "Commercial degree",
+            "source": "Powerpoint",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "40",
+            "id": "235",
+            "target": "Word",
+            "source": "Organizational Skills",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "40",
+            "id": "234",
+            "target": "English",
+            "source": "Commercial degree",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "40",
+            "id": "233",
+            "target": "Management",
+            "source": "Assertiveness",
+            "color": "rgba(252, 219, 145)"
+        },
+        {
+            "size": "41",
+            "id": "232",
+            "target": "French",
+            "source": "Advertising",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "41",
+            "id": "231",
+            "target": "Independence",
+            "source": "Social media",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "41",
+            "id": "230",
+            "target": "Communication Skills",
+            "source": "Commercial degree",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "41",
+            "id": "229",
+            "target": "French",
+            "source": "Consulting",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "41",
+            "id": "228",
+            "target": "Excel",
+            "source": "Commercial degree",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "42",
+            "id": "227",
+            "target": "Excel",
+            "source": "Organizational Skills",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "42",
+            "id": "226",
+            "target": "Marketing",
+            "source": "Leadership",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "42",
+            "id": "225",
+            "target": "Resilience",
+            "source": "Flexibility",
+            "color": "rgba(252, 219, 145)"
+        },
+        {
+            "size": "42",
+            "id": "224",
+            "target": "Entrepreneurial mindset",
+            "source": "French",
+            "color": "rgba(252, 219, 145)"
+        },
+        {
+            "size": "43",
+            "id": "223",
+            "target": "Open personality",
+            "source": "Flexibility",
+            "color": "rgba(252, 219, 145)"
+        },
+        {
+            "size": "43",
+            "id": "222",
+            "target": "Marketing",
+            "source": "Business degree",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "43",
+            "id": "221",
+            "target": "Communication Skills",
+            "source": "Business degree",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "43",
+            "id": "220",
+            "target": "Project management",
+            "source": "Organizational Skills",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "43",
+            "id": "219",
+            "target": "Commercial degree",
+            "source": "Word",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "43",
+            "id": "218",
+            "target": "Project management",
+            "source": "Self-motivation",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "43",
+            "id": "217",
+            "target": "Conceptual thinking",
+            "source": "Project management",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "44",
+            "id": "216",
+            "target": "Management",
+            "source": "Advertising",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "44",
+            "id": "215",
+            "target": "Team Skills",
+            "source": "Reliability",
+            "color": "rgba(251, 215, 133)"
+        },
+        {
+            "size": "44",
+            "id": "214",
+            "target": "Business degree",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "44",
+            "id": "213",
+            "target": "Marketing",
+            "source": "Presentation skills",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "44",
+            "id": "212",
+            "target": "Word",
+            "source": "Self-motivation",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "44",
+            "id": "211",
+            "target": "Dynamism",
+            "source": "Flexibility",
+            "color": "rgba(251, 215, 133)"
+        },
+        {
+            "size": "44",
+            "id": "210",
+            "target": "Self-motivation",
+            "source": "Powerpoint",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "45",
+            "id": "209",
+            "target": "Organizational Skills",
+            "source": "Flexibility",
+            "color": "rgba(251, 215, 133)"
+        },
+        {
+            "size": "45",
+            "id": "208",
+            "target": "Sales",
+            "source": "Flexibility",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "45",
+            "id": "207",
+            "target": "Marketing",
+            "source": "Consulting",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "45",
+            "id": "206",
+            "target": "Reliability",
+            "source": "French",
+            "color": "rgba(251, 215, 133)"
+        },
+        {
+            "size": "45",
+            "id": "205",
+            "target": "Team Skills",
+            "source": "Dynamism",
+            "color": "rgba(251, 215, 133)"
+        },
+        {
+            "size": "45",
+            "id": "204",
+            "target": "Independence",
+            "source": "Open personality",
+            "color": "rgba(251, 215, 133)"
+        },
+        {
+            "size": "45",
+            "id": "203",
+            "target": "Entrepreneurial mindset",
+            "source": "Communication Skills",
+            "color": "rgba(251, 215, 133)"
+        },
+        {
+            "size": "45",
+            "id": "202",
+            "target": "Excel",
+            "source": "Self-motivation",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "45",
+            "id": "201",
+            "target": "Marketing",
+            "source": "Resilience",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "45",
+            "id": "200",
+            "target": "Communication Skills",
+            "source": "Leadership",
+            "color": "rgba(251, 215, 133)"
+        },
+        {
+            "size": "46",
+            "id": "199",
+            "target": "Independence",
+            "source": "Reliability",
+            "color": "rgba(251, 215, 133)"
+        },
+        {
+            "size": "46",
+            "id": "198",
+            "target": "Independence",
+            "source": "Business administration",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "47",
+            "id": "197",
+            "target": "Business administration",
+            "source": "Analytical skills",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "47",
+            "id": "196",
+            "target": "Structured work",
+            "source": "Independence",
+            "color": "rgba(251, 215, 133)"
+        },
+        {
+            "size": "48",
+            "id": "195",
+            "target": "Sales",
+            "source": "Self-motivation",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "49",
+            "id": "194",
+            "target": "Sales",
+            "source": "Powerpoint",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "49",
+            "id": "193",
+            "target": "Structured work",
+            "source": "French",
+            "color": "rgba(251, 215, 133)"
+        },
+        {
+            "size": "49",
+            "id": "192",
+            "target": "English",
+            "source": "Resilience",
+            "color": "rgba(251, 215, 133)"
+        },
+        {
+            "size": "49",
+            "id": "191",
+            "target": "Sales",
+            "source": "Analytical skills",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "49",
+            "id": "190",
+            "target": "Entrepreneurial mindset",
+            "source": "German",
+            "color": "rgba(251, 210, 116)"
+        },
+        {
+            "size": "49",
+            "id": "189",
+            "target": "Communication Skills",
+            "source": "Advertising",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "49",
+            "id": "188",
+            "target": "Entrepreneurial mindset",
+            "source": "Marketing",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "49",
+            "id": "187",
+            "target": "French",
+            "source": "Open personality",
+            "color": "rgba(251, 210, 116)"
+        },
+        {
+            "size": "50",
+            "id": "186",
+            "target": "Dynamism",
+            "source": "Sales",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "50",
+            "id": "185",
+            "target": "English",
+            "source": "Presentation skills",
+            "color": "rgba(251, 210, 116)"
+        },
+        {
+            "size": "50",
+            "id": "184",
+            "target": "English",
+            "source": "Social media",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "50",
+            "id": "183",
+            "target": "English",
+            "source": "Consulting",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "51",
+            "id": "182",
+            "target": "Consulting",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "51",
+            "id": "181",
+            "target": "Communication Skills",
+            "source": "Presentation skills",
+            "color": "rgba(251, 210, 116)"
+        },
+        {
+            "size": "51",
+            "id": "180",
+            "target": "Excel",
+            "source": "Sales",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "51",
+            "id": "179",
+            "target": "Marketing",
+            "source": "Reliability",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "51",
+            "id": "178",
+            "target": "Marketing",
+            "source": "Commercial degree",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "52",
+            "id": "177",
+            "target": "Advertising",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "52",
+            "id": "176",
+            "target": "English",
+            "source": "Reliability",
+            "color": "rgba(251, 210, 116)"
+        },
+        {
+            "size": "52",
+            "id": "175",
+            "target": "English",
+            "source": "Structured work",
+            "color": "rgba(251, 210, 116)"
+        },
+        {
+            "size": "52",
+            "id": "174",
+            "target": "Sales",
+            "source": "Word",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "52",
+            "id": "173",
+            "target": "Conceptual thinking",
+            "source": "French",
+            "color": "rgba(251, 210, 116)"
+        },
+        {
+            "size": "52",
+            "id": "172",
+            "target": "Commercial degree",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "53",
+            "id": "171",
+            "target": "Management",
+            "source": "Presentation skills",
+            "color": "rgba(251, 210, 116)"
+        },
+        {
+            "size": "53",
+            "id": "170",
+            "target": "Management",
+            "source": "Italian",
+            "color": "rgba(251, 210, 116)"
+        },
+        {
+            "size": "53",
+            "id": "169",
+            "target": "Structured work",
+            "source": "Management",
+            "color": "rgba(251, 210, 116)"
+        },
+        {
+            "size": "53",
+            "id": "168",
+            "target": "Word",
+            "source": "Analytical skills",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "53",
+            "id": "167",
+            "target": "Marketing",
+            "source": "Italian",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "54",
+            "id": "166",
+            "target": "Project management",
+            "source": "Dynamism",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "54",
+            "id": "165",
+            "target": "Management",
+            "source": "Consulting",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "54",
+            "id": "164",
+            "target": "Management",
+            "source": "Reliability",
+            "color": "rgba(251, 210, 116)"
+        },
+        {
+            "size": "54",
+            "id": "163",
+            "target": "Communication Skills",
+            "source": "Italian",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "55",
+            "id": "162",
+            "target": "Presentation skills",
+            "source": "German",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "55",
+            "id": "161",
+            "target": "Communication Skills",
+            "source": "Consulting",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "55",
+            "id": "160",
+            "target": "English",
+            "source": "Conceptual thinking",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "55",
+            "id": "159",
+            "target": "Dynamism",
+            "source": "Analytical skills",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "56",
+            "id": "158",
+            "target": "Team Skills",
+            "source": "Organizational Skills",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "56",
+            "id": "157",
+            "target": "English",
+            "source": "Open personality",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "56",
+            "id": "156",
+            "target": "English",
+            "source": "Italian",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "56",
+            "id": "155",
+            "target": "Independence",
+            "source": "Self-motivation",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "56",
+            "id": "154",
+            "target": "Dynamism",
+            "source": "Word",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "56",
+            "id": "153",
+            "target": "Team Skills",
+            "source": "Self-motivation",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "56",
+            "id": "152",
+            "target": "Powerpoint",
+            "source": "Flexibility",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "57",
+            "id": "151",
+            "target": "Business administration",
+            "source": "French",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "57",
+            "id": "150",
+            "target": "Excel",
+            "source": "Flexibility",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "57",
+            "id": "149",
+            "target": "Entrepreneurial mindset",
+            "source": "English",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "57",
+            "id": "148",
+            "target": "Marketing",
+            "source": "Advertising",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "58",
+            "id": "147",
+            "target": "Social media",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "58",
+            "id": "146",
+            "target": "Project management",
+            "source": "Flexibility",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "59",
+            "id": "145",
+            "target": "Management",
+            "source": "Social media",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "59",
+            "id": "144",
+            "target": "Communication Skills",
+            "source": "Resilience",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "59",
+            "id": "143",
+            "target": "Conceptual thinking",
+            "source": "Analytical skills",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "59",
+            "id": "142",
+            "target": "Powerpoint",
+            "source": "Analytical skills",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "59",
+            "id": "141",
+            "target": "Dynamism",
+            "source": "Powerpoint",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "59",
+            "id": "140",
+            "target": "Resilience",
+            "source": "German",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "59",
+            "id": "139",
+            "target": "Structured work",
+            "source": "Marketing",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "59",
+            "id": "138",
+            "target": "Management",
+            "source": "Resilience",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "60",
+            "id": "137",
+            "target": "Team Skills",
+            "source": "Analytical skills",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "60",
+            "id": "136",
+            "target": "Excel",
+            "source": "Dynamism",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "60",
+            "id": "135",
+            "target": "Italian",
+            "source": "German",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "60",
+            "id": "134",
+            "target": "Structured work",
+            "source": "German",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "61",
+            "id": "133",
+            "target": "Management",
+            "source": "Leadership",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "61",
+            "id": "132",
+            "target": "Word",
+            "source": "Flexibility",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "64",
+            "id": "131",
+            "target": "Entrepreneurial mindset",
+            "source": "Management",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "65",
+            "id": "130",
+            "target": "Conceptual thinking",
+            "source": "German",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "65",
+            "id": "129",
+            "target": "Communication Skills",
+            "source": "Reliability",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "65",
+            "id": "128",
+            "target": "Independence",
+            "source": "Organizational Skills",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "65",
+            "id": "127",
+            "target": "Team Skills",
+            "source": "Sales",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "66",
+            "id": "126",
+            "target": "Project management",
+            "source": "Powerpoint",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "66",
+            "id": "125",
+            "target": "English",
+            "source": "Business administration",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "67",
+            "id": "124",
+            "target": "Reliability",
+            "source": "German",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "67",
+            "id": "123",
+            "target": "Project management",
+            "source": "Analytical skills",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "67",
+            "id": "122",
+            "target": "Marketing",
+            "source": "Open personality",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "67",
+            "id": "121",
+            "target": "Conceptual thinking",
+            "source": "Marketing",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "68",
+            "id": "120",
+            "target": "Communication Skills",
+            "source": "Conceptual thinking",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "68",
+            "id": "119",
+            "target": "Communication Skills",
+            "source": "Business administration",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "68",
+            "id": "118",
+            "target": "Excel",
+            "source": "Analytical skills",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "68",
+            "id": "117",
+            "target": "Independence",
+            "source": "Analytical skills",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "69",
+            "id": "116",
+            "target": "Structured work",
+            "source": "Communication Skills",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "69",
+            "id": "115",
+            "target": "Project management",
+            "source": "Word",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "69",
+            "id": "114",
+            "target": "Management",
+            "source": "Open personality",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "69",
+            "id": "113",
+            "target": "Open personality",
+            "source": "German",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "70",
+            "id": "112",
+            "target": "Marketing",
+            "source": "Social media",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "71",
+            "id": "111",
+            "target": "Team Skills",
+            "source": "Flexibility",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "71",
+            "id": "110",
+            "target": "French",
+            "source": "Organizational Skills",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "72",
+            "id": "109",
+            "target": "Excel",
+            "source": "Project management",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "72",
+            "id": "108",
+            "target": "Communication Skills",
+            "source": "Social media",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "72",
+            "id": "107",
+            "target": "Management",
+            "source": "Business administration",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "73",
+            "id": "106",
+            "target": "Conceptual thinking",
+            "source": "Management",
+            "color": "rgba(250, 199, 82)"
+        },
+        {
+            "size": "73",
+            "id": "105",
+            "target": "English",
+            "source": "Organizational Skills",
+            "color": "rgba(250, 199, 82)"
+        },
+        {
+            "size": "73",
+            "id": "104",
+            "target": "Self-motivation",
+            "source": "French",
+            "color": "rgba(250, 199, 82)"
+        },
+        {
+            "size": "74",
+            "id": "103",
+            "target": "Team Skills",
+            "source": "Project management",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "75",
+            "id": "102",
+            "target": "Business administration",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "75",
+            "id": "101",
+            "target": "Independence",
+            "source": "Sales",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "76",
+            "id": "100",
+            "target": "Communication Skills",
+            "source": "Open personality",
+            "color": "rgba(250, 199, 82)"
+        },
+        {
+            "size": "78",
+            "id": "99",
+            "target": "Italian",
+            "source": "French",
+            "color": "rgba(250, 199, 82)"
+        },
+        {
+            "size": "82",
+            "id": "98",
+            "target": "English",
+            "source": "Self-motivation",
+            "color": "rgba(250, 199, 82)"
+        },
+        {
+            "size": "82",
+            "id": "97",
+            "target": "Dynamism",
+            "source": "French",
+            "color": "rgba(250, 199, 82)"
+        },
+        {
+            "size": "83",
+            "id": "96",
+            "target": "Management",
+            "source": "Organizational Skills",
+            "color": "rgba(250, 199, 82)"
+        },
+        {
+            "size": "83",
+            "id": "95",
+            "target": "Team Skills",
+            "source": "Powerpoint",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "83",
+            "id": "94",
+            "target": "Team Skills",
+            "source": "Word",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "84",
+            "id": "93",
+            "target": "French",
+            "source": "Flexibility",
+            "color": "rgba(250, 199, 82)"
+        },
+        {
+            "size": "84",
+            "id": "92",
+            "target": "Project management",
+            "source": "Sales",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "85",
+            "id": "91",
+            "target": "Independence",
+            "source": "Dynamism",
+            "color": "rgba(250, 199, 82)"
+        },
+        {
+            "size": "86",
+            "id": "90",
+            "target": "Independence",
+            "source": "Flexibility",
+            "color": "rgba(250, 199, 82)"
+        },
+        {
+            "size": "86",
+            "id": "89",
+            "target": "Marketing",
+            "source": "Business administration",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "86",
+            "id": "88",
+            "target": "Excel",
+            "source": "Team Skills",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "88",
+            "id": "87",
+            "target": "Organizational Skills",
+            "source": "German",
+            "color": "rgba(250, 199, 82)"
+        },
+        {
+            "size": "88",
+            "id": "86",
+            "target": "Marketing",
+            "source": "Organizational Skills",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "89",
+            "id": "85",
+            "target": "Communication Skills",
+            "source": "Self-motivation",
+            "color": "rgba(250, 199, 82)"
+        },
+        {
+            "size": "90",
+            "id": "84",
+            "target": "Marketing",
+            "source": "Self-motivation",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "91",
+            "id": "83",
+            "target": "Self-motivation",
+            "source": "German",
+            "color": "rgba(250, 199, 82)"
+        },
+        {
+            "size": "92",
+            "id": "82",
+            "target": "Communication Skills",
+            "source": "Organizational Skills",
+            "color": "rgba(250, 199, 82)"
+        },
+        {
+            "size": "94",
+            "id": "81",
+            "target": "French",
+            "source": "Analytical skills",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "95",
+            "id": "80",
+            "target": "Independence",
+            "source": "Powerpoint",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "97",
+            "id": "79",
+            "target": "Sales",
+            "source": "French",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "97",
+            "id": "78",
+            "target": "English",
+            "source": "Flexibility",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "98",
+            "id": "77",
+            "target": "Team Skills",
+            "source": "Independence",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "98",
+            "id": "76",
+            "target": "Independence",
+            "source": "Project management",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "98",
+            "id": "75",
+            "target": "Management",
+            "source": "Self-motivation",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "99",
+            "id": "74",
+            "target": "Independence",
+            "source": "Word",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "102",
+            "id": "73",
+            "target": "Excel",
+            "source": "Independence",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "103",
+            "id": "72",
+            "target": "English",
+            "source": "Dynamism",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "103",
+            "id": "71",
+            "target": "Communication Skills",
+            "source": "Dynamism",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "104",
+            "id": "70",
+            "target": "English",
+            "source": "Analytical skills",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "107",
+            "id": "69",
+            "target": "Communication Skills",
+            "source": "Flexibility",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "109",
+            "id": "68",
+            "target": "Marketing",
+            "source": "Dynamism",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "109",
+            "id": "67",
+            "target": "Marketing",
+            "source": "Flexibility",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "111",
+            "id": "66",
+            "target": "English",
+            "source": "Sales",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "113",
+            "id": "65",
+            "target": "Communication Skills",
+            "source": "Analytical skills",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "115",
+            "id": "64",
+            "target": "Management",
+            "source": "Dynamism",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "119",
+            "id": "63",
+            "target": "Analytical skills",
+            "source": "German",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "119",
+            "id": "62",
+            "target": "Communication Skills",
+            "source": "Sales",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "119",
+            "id": "61",
+            "target": "Management",
+            "source": "Flexibility",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "120",
+            "id": "60",
+            "target": "Word",
+            "source": "French",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "121",
+            "id": "59",
+            "target": "Dynamism",
+            "source": "German",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "121",
+            "id": "58",
+            "target": "German",
+            "source": "Flexibility",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "122",
+            "id": "57",
+            "target": "French",
+            "source": "Powerpoint",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "123",
+            "id": "56",
+            "target": "Team Skills",
+            "source": "French",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "123",
+            "id": "55",
+            "target": "English",
+            "source": "Word",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "124",
+            "id": "54",
+            "target": "English",
+            "source": "Powerpoint",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "126",
+            "id": "53",
+            "target": "Management",
+            "source": "Analytical skills",
+            "color": "rgba(249, 191, 57)"
+        },
+        {
+            "size": "127",
+            "id": "52",
+            "target": "Independence",
+            "source": "French",
+            "color": "rgba(249, 191, 57)"
+        },
+        {
+            "size": "127",
+            "id": "51",
+            "target": "Communication Skills",
+            "source": "Powerpoint",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "128",
+            "id": "50",
+            "target": "Communication Skills",
+            "source": "Word",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "130",
+            "id": "49",
+            "target": "Marketing",
+            "source": "Analytical skills",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "130",
+            "id": "48",
+            "target": "Excel",
+            "source": "French",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "130",
+            "id": "47",
+            "target": "Management",
+            "source": "Word",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "130",
+            "id": "46",
+            "target": "Project management",
+            "source": "French",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "130",
+            "id": "45",
+            "target": "Management",
+            "source": "Powerpoint",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "130",
+            "id": "44",
+            "target": "Sales",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "133",
+            "id": "43",
+            "target": "Excel",
+            "source": "English",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "137",
+            "id": "42",
+            "target": "Excel",
+            "source": "Communication Skills",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "138",
+            "id": "41",
+            "target": "English",
+            "source": "Team Skills",
+            "color": "rgba(249, 191, 57)"
+        },
+        {
+            "size": "140",
+            "id": "40",
+            "target": "Marketing",
+            "source": "Sales",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "140",
+            "id": "39",
+            "target": "Excel",
+            "source": "Management",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "142",
+            "id": "38",
+            "target": "Team Skills",
+            "source": "Marketing",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "144",
+            "id": "37",
+            "target": "Marketing",
+            "source": "Word",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "144",
+            "id": "36",
+            "target": "Marketing",
+            "source": "Powerpoint",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "150",
+            "id": "35",
+            "target": "Team Skills",
+            "source": "Communication Skills",
+            "color": "rgba(249, 191, 57)"
+        },
+        {
+            "size": "152",
+            "id": "34",
+            "target": "Communication Skills",
+            "source": "Project management",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "153",
+            "id": "33",
+            "target": "Excel",
+            "source": "Marketing",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "155",
+            "id": "32",
+            "target": "Team Skills",
+            "source": "Management",
+            "color": "rgba(249, 191, 57)"
+        },
+        {
+            "size": "156",
+            "id": "31",
+            "target": "Powerpoint",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "156",
+            "id": "30",
+            "target": "Management",
+            "source": "Sales",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "157",
+            "id": "29",
+            "target": "Word",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "158",
+            "id": "28",
+            "target": "English",
+            "source": "Independence",
+            "color": "rgba(249, 191, 57)"
+        },
+        {
+            "size": "160",
+            "id": "27",
+            "target": "English",
+            "source": "Project management",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "161",
+            "id": "26",
+            "target": "Team Skills",
+            "source": "German",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "162",
+            "id": "25",
+            "target": "Excel",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "162",
+            "id": "24",
+            "target": "Project management",
+            "source": "Marketing",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "165",
+            "id": "23",
+            "target": "Project management",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "172",
+            "id": "22",
+            "target": "Independence",
+            "source": "Marketing",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "179",
+            "id": "21",
+            "target": "Communication Skills",
+            "source": "Independence",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "191",
+            "id": "20",
+            "target": "Independence",
+            "source": "Management",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "191",
+            "id": "19",
+            "target": "Independence",
+            "source": "German",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "215",
+            "id": "18",
+            "target": "Word",
+            "source": "Powerpoint",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "217",
+            "id": "17",
+            "target": "Excel",
+            "source": "Word",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "222",
+            "id": "16",
+            "target": "Excel",
+            "source": "Powerpoint",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "222",
+            "id": "15",
+            "target": "Communication Skills",
+            "source": "French",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "253",
+            "id": "14",
+            "target": "Management",
+            "source": "French",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "254",
+            "id": "13",
+            "target": "Marketing",
+            "source": "French",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "255",
+            "id": "12",
+            "target": "Project management",
+            "source": "Management",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "266",
+            "id": "11",
+            "target": "English",
+            "source": "French",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "280",
+            "id": "10",
+            "target": "English",
+            "source": "Communication Skills",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "283",
+            "id": "9",
+            "target": "English",
+            "source": "Marketing",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "300",
+            "id": "8",
+            "target": "English",
+            "source": "Management",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "321",
+            "id": "7",
+            "target": "Communication Skills",
+            "source": "German",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "324",
+            "id": "6",
+            "target": "French",
+            "source": "German",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "324",
+            "id": "5",
+            "target": "Communication Skills",
+            "source": "Management",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "324",
+            "id": "4",
+            "target": "Marketing",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "328",
+            "id": "3",
+            "target": "Communication Skills",
+            "source": "Marketing",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "329",
+            "id": "2",
+            "target": "Management",
+            "source": "German",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "345",
+            "id": "1",
+            "target": "English",
+            "source": "German",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "348",
+            "id": "0",
+            "target": "Marketing",
+            "source": "Management",
+            "color": "rgba(239, 240, 240)"
+        }
+    ],
+    "nodes": [
+        {
+            "size": "48",
+            "id": "Assertiveness",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Assertiveness"
+        },
+        {
+            "size": "229",
+            "id": "Team Skills",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Team Skills"
+        },
+        {
+            "size": "45",
+            "id": "Adobe InDesign",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Adobe InDesign"
+        },
+        {
+            "size": "495",
+            "id": "German",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "German"
+        },
+        {
+            "size": "224",
+            "id": "Powerpoint",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Powerpoint"
+        },
+        {
+            "size": "98",
+            "id": "Conceptual thinking",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Conceptual thinking"
+        },
+        {
+            "size": "56",
+            "id": "Computer skills",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Computer skills"
+        },
+        {
+            "size": "134",
+            "id": "Organizational Skills",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Organizational Skills"
+        },
+        {
+            "size": "491",
+            "id": "Communication Skills",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Communication Skills"
+        },
+        {
+            "size": "426",
+            "id": "English",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "English"
+        },
+        {
+            "size": "97",
+            "id": "Reliability",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Reliability"
+        },
+        {
+            "size": "181",
+            "id": "Flexibility",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Flexibility"
+        },
+        {
+            "size": "63",
+            "id": "Business degree",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Business degree"
+        },
+        {
+            "size": "279",
+            "id": "Independence",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Independence"
+        },
+        {
+            "size": "170",
+            "id": "Analytical skills",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Analytical skills"
+        },
+        {
+            "size": "74",
+            "id": "Advertising",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Advertising"
+        },
+        {
+            "size": "70",
+            "id": "Presentation skills",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Presentation skills"
+        },
+        {
+            "size": "65",
+            "id": "Commercial degree",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Commercial degree"
+        },
+        {
+            "size": "501",
+            "id": "Marketing",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Marketing"
+        },
+        {
+            "size": "166",
+            "id": "Dynamism",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Dynamism"
+        },
+        {
+            "size": "91",
+            "id": "Structured work",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Structured work"
+        },
+        {
+            "size": "209",
+            "id": "Sales",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Sales"
+        },
+        {
+            "size": "49",
+            "id": "Editorial skills",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Editorial skills"
+        },
+        {
+            "size": "255",
+            "id": "Project management",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Project management"
+        },
+        {
+            "size": "49",
+            "id": "Creativity",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Creativity"
+        },
+        {
+            "size": "95",
+            "id": "Social media",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Social media"
+        },
+        {
+            "size": "372",
+            "id": "French",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "French"
+        },
+        {
+            "size": "154",
+            "id": "Self-motivation",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Self-motivation"
+        },
+        {
+            "size": "103",
+            "id": "Open personality",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Open personality"
+        },
+        {
+            "size": "83",
+            "id": "Italian",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Italian"
+        },
+        {
+            "size": "84",
+            "id": "Resilience",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Resilience"
+        },
+        {
+            "size": "78",
+            "id": "Consulting",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Consulting"
+        },
+        {
+            "size": "75",
+            "id": "Leadership",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Leadership"
+        },
+        {
+            "size": "48",
+            "id": "Adobe Photoshop",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Adobe Photoshop"
+        },
+        {
+            "size": "515",
+            "id": "Management",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Management"
+        },
+        {
+            "size": "110",
+            "id": "Business administration",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Business administration"
+        },
+        {
+            "size": "84",
+            "id": "Entrepreneurial mindset",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Entrepreneurial mindset"
+        },
+        {
+            "size": "225",
+            "id": "Word",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Word"
+        },
+        {
+            "size": "239",
+            "id": "Excel",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Excel"
+        }
+    ],
+    "histogram": [
+        {
+            "size": "13",
+            "histogram_color": 1,
+            "label": "TYPO3"
+        },
+        {
+            "size": "9",
+            "histogram_color": 2,
+            "label": "Decision-making"
+        },
+        {
+            "size": "48",
+            "histogram_color": 2,
+            "label": "Assertiveness"
+        },
+        {
+            "size": "38",
+            "histogram_color": 3,
+            "label": "Pharmaceutical education"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Technical direction degree"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Hotel school"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Android development"
+        },
+        {
+            "size": "2",
+            "histogram_color": 2,
+            "label": "Punctuality"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Intellectual property"
+        },
+        {
+            "size": "6",
+            "histogram_color": 1,
+            "label": "Medical technology"
+        },
+        {
+            "size": "229",
+            "histogram_color": 2,
+            "label": "Team Skills"
+        },
+        {
+            "size": "8",
+            "histogram_color": 1,
+            "label": "Windows"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Perl"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Linux"
+        },
+        {
+            "size": "20",
+            "histogram_color": 1,
+            "label": "Adobe Illustrator"
+        },
+        {
+            "size": "45",
+            "histogram_color": 1,
+            "label": "Adobe InDesign"
+        },
+        {
+            "size": "32",
+            "histogram_color": 2,
+            "label": "Negotiation skills"
+        },
+        {
+            "size": "495",
+            "histogram_color": 2,
+            "label": "German"
+        },
+        {
+            "size": "7",
+            "histogram_color": 3,
+            "label": "Visual design/communication"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Information systems"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Technical communication"
+        },
+        {
+            "size": "24",
+            "histogram_color": 3,
+            "label": "Economics degree"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Confectioner"
+        },
+        {
+            "size": "224",
+            "histogram_color": 1,
+            "label": "Powerpoint"
+        },
+        {
+            "size": "98",
+            "histogram_color": 2,
+            "label": "Conceptual thinking"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Surgeon"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Cook"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Engineering degree"
+        },
+        {
+            "size": "56",
+            "histogram_color": 1,
+            "label": "Computer skills"
+        },
+        {
+            "size": "37",
+            "histogram_color": 1,
+            "label": "SAP"
+        },
+        {
+            "size": "15",
+            "histogram_color": 1,
+            "label": "HTML"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Oracle"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Orthopedist"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Computer scientist apprenticeship"
+        },
+        {
+            "size": "12",
+            "histogram_color": 2,
+            "label": "Pragmatic"
+        },
+        {
+            "size": "44",
+            "histogram_color": 1,
+            "label": "CMS"
+        },
+        {
+            "size": "134",
+            "histogram_color": 2,
+            "label": "Organizational Skills"
+        },
+        {
+            "size": "3",
+            "histogram_color": 1,
+            "label": "Mortgage business knowledge"
+        },
+        {
+            "size": "15",
+            "histogram_color": 1,
+            "label": "Human resources"
+        },
+        {
+            "size": "50",
+            "histogram_color": 2,
+            "label": "Enthusiasm"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Painter"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Final Cut Pro"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Dermatologist"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "SIP"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Motion design"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "macOS"
+        },
+        {
+            "size": "16",
+            "histogram_color": 2,
+            "label": "Empathy"
+        },
+        {
+            "size": "36",
+            "histogram_color": 1,
+            "label": "Finances"
+        },
+        {
+            "size": "10",
+            "histogram_color": 1,
+            "label": "Google AdWords"
+        },
+        {
+            "size": "491",
+            "histogram_color": 2,
+            "label": "Communication Skills"
+        },
+        {
+            "size": "426",
+            "histogram_color": 2,
+            "label": "English"
+        },
+        {
+            "size": "10",
+            "histogram_color": 1,
+            "label": "Logistics"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Web application"
+        },
+        {
+            "size": "97",
+            "histogram_color": 2,
+            "label": "Reliability"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Plumber apprenticeship"
+        },
+        {
+            "size": "181",
+            "histogram_color": 2,
+            "label": "Flexibility"
+        },
+        {
+            "size": "19",
+            "histogram_color": 1,
+            "label": "Writing skills"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Scripting language"
+        },
+        {
+            "size": "63",
+            "histogram_color": 3,
+            "label": "Business degree"
+        },
+        {
+            "size": "22",
+            "histogram_color": 1,
+            "label": "Database systems"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Urologist"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Banking apprenticeship"
+        },
+        {
+            "size": "16",
+            "histogram_color": 1,
+            "label": "Insurance business knowledge"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Media designer"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Chemistry"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "EWSD"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Animation design"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Polydesigner 3D"
+        },
+        {
+            "size": "17",
+            "histogram_color": 1,
+            "label": "Google Analytics"
+        },
+        {
+            "size": "279",
+            "histogram_color": 2,
+            "label": "Independence"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Adobe After Effects"
+        },
+        {
+            "size": "11",
+            "histogram_color": 1,
+            "label": "Translation"
+        },
+        {
+            "size": "7",
+            "histogram_color": 1,
+            "label": "Javascript"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "jQuery"
+        },
+        {
+            "size": "7",
+            "histogram_color": 1,
+            "label": "Automation"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Interior design"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "ITIL"
+        },
+        {
+            "size": "6",
+            "histogram_color": 1,
+            "label": "Real estate management"
+        },
+        {
+            "size": "5",
+            "histogram_color": 1,
+            "label": "Data management"
+        },
+        {
+            "size": "36",
+            "histogram_color": 2,
+            "label": "Networking skills"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Political science"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Plasterer"
+        },
+        {
+            "size": "170",
+            "histogram_color": 2,
+            "label": "Analytical skills"
+        },
+        {
+            "size": "16",
+            "histogram_color": 3,
+            "label": "Beautician"
+        },
+        {
+            "size": "6",
+            "histogram_color": 3,
+            "label": "Graphic designer"
+        },
+        {
+            "size": "74",
+            "histogram_color": 1,
+            "label": "Advertising"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Java"
+        },
+        {
+            "size": "70",
+            "histogram_color": 2,
+            "label": "Presentation skills"
+        },
+        {
+            "size": "4",
+            "histogram_color": 1,
+            "label": "Video editing"
+        },
+        {
+            "size": "9",
+            "histogram_color": 1,
+            "label": "Oncology"
+        },
+        {
+            "size": "65",
+            "histogram_color": 3,
+            "label": "Commercial degree"
+        },
+        {
+            "size": "4",
+            "histogram_color": 1,
+            "label": "Accounting"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Customer management"
+        },
+        {
+            "size": "17",
+            "histogram_color": 2,
+            "label": "Quick learning"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Building codes"
+        },
+        {
+            "size": "5",
+            "histogram_color": 2,
+            "label": "Dedication"
+        },
+        {
+            "size": "4",
+            "histogram_color": 1,
+            "label": "Frontend development"
+        },
+        {
+            "size": "4",
+            "histogram_color": 3,
+            "label": "Telecommunications"
+        },
+        {
+            "size": "5",
+            "histogram_color": 1,
+            "label": "Scrum"
+        },
+        {
+            "size": "12",
+            "histogram_color": 2,
+            "label": "Driving license"
+        },
+        {
+            "size": "20",
+            "histogram_color": 3,
+            "label": "Electronics"
+        },
+        {
+            "size": "13",
+            "histogram_color": 2,
+            "label": "Conscientious, meticulous"
+        },
+        {
+            "size": "7",
+            "histogram_color": 3,
+            "label": "Teacher"
+        },
+        {
+            "size": "40",
+            "histogram_color": 1,
+            "label": "Sustainability"
+        },
+        {
+            "size": "9",
+            "histogram_color": 1,
+            "label": "Agile development methods"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Succession planning"
+        },
+        {
+            "size": "9",
+            "histogram_color": 2,
+            "label": "Willingness to learn"
+        },
+        {
+            "size": "3",
+            "histogram_color": 1,
+            "label": "Adobe Acrobat"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Adobe Premiere"
+        },
+        {
+            "size": "14",
+            "histogram_color": 2,
+            "label": "Loyalty"
+        },
+        {
+            "size": "501",
+            "histogram_color": 1,
+            "label": "Marketing"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "SQL"
+        },
+        {
+            "size": "5",
+            "histogram_color": 1,
+            "label": "Quality assurance"
+        },
+        {
+            "size": "18",
+            "histogram_color": 3,
+            "label": "Computer science"
+        },
+        {
+            "size": "40",
+            "histogram_color": 2,
+            "label": "Accuracy"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Social work degree"
+        },
+        {
+            "size": "12",
+            "histogram_color": 1,
+            "label": "Event management"
+        },
+        {
+            "size": "166",
+            "histogram_color": 2,
+            "label": "Dynamism"
+        },
+        {
+            "size": "91",
+            "histogram_color": 2,
+            "label": "Structured work"
+        },
+        {
+            "size": "5",
+            "histogram_color": 3,
+            "label": "Mechanic apprenticeship"
+        },
+        {
+            "size": "7",
+            "histogram_color": 2,
+            "label": "Perseverance"
+        },
+        {
+            "size": "209",
+            "histogram_color": 1,
+            "label": "Sales"
+        },
+        {
+            "size": "4",
+            "histogram_color": 3,
+            "label": "Data manager"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "R Graphics"
+        },
+        {
+            "size": "7",
+            "histogram_color": 1,
+            "label": "Customer service"
+        },
+        {
+            "size": "49",
+            "histogram_color": 1,
+            "label": "Editorial skills"
+        },
+        {
+            "size": "255",
+            "histogram_color": 1,
+            "label": "Project management"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Visual merchandiser"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Corel"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Health degree"
+        },
+        {
+            "size": "49",
+            "histogram_color": 2,
+            "label": "Creativity"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Risk management"
+        },
+        {
+            "size": "25",
+            "histogram_color": 3,
+            "label": "Stylist"
+        },
+        {
+            "size": "95",
+            "histogram_color": 1,
+            "label": "Social media"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Food technologist apprenticeship"
+        },
+        {
+            "size": "6",
+            "histogram_color": 2,
+            "label": "Diplomatic tact"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Hygiene awareness"
+        },
+        {
+            "size": "12",
+            "histogram_color": 3,
+            "label": "Safety and security"
+        },
+        {
+            "size": "7",
+            "histogram_color": 3,
+            "label": "Polygraf"
+        },
+        {
+            "size": "372",
+            "histogram_color": 2,
+            "label": "French"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Swift"
+        },
+        {
+            "size": "3",
+            "histogram_color": 1,
+            "label": "PHP"
+        },
+        {
+            "size": "5",
+            "histogram_color": 1,
+            "label": "XML"
+        },
+        {
+            "size": "9",
+            "histogram_color": 1,
+            "label": "CSS"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Psychology"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Adobe FrameMaker"
+        },
+        {
+            "size": "6",
+            "histogram_color": 1,
+            "label": "Law knowledge"
+        },
+        {
+            "size": "4",
+            "histogram_color": 1,
+            "label": "Wordpress"
+        },
+        {
+            "size": "37",
+            "histogram_color": 2,
+            "label": "Customer-oriented personality"
+        },
+        {
+            "size": "6",
+            "histogram_color": 2,
+            "label": "High quality standards"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Nurse"
+        },
+        {
+            "size": "9",
+            "histogram_color": 3,
+            "label": "Mechanical engineering"
+        },
+        {
+            "size": "154",
+            "histogram_color": 2,
+            "label": "Self-motivation"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "PLC (Programmable logic controller)"
+        },
+        {
+            "size": "3",
+            "histogram_color": 1,
+            "label": "Visual merchandising"
+        },
+        {
+            "size": "103",
+            "histogram_color": 2,
+            "label": "Open personality"
+        },
+        {
+            "size": "83",
+            "histogram_color": 2,
+            "label": "Italian"
+        },
+        {
+            "size": "5",
+            "histogram_color": 3,
+            "label": "Photographer"
+        },
+        {
+            "size": "84",
+            "histogram_color": 2,
+            "label": "Resilience"
+        },
+        {
+            "size": "19",
+            "histogram_color": 2,
+            "label": "Willingness to travel"
+        },
+        {
+            "size": "78",
+            "histogram_color": 1,
+            "label": "Consulting"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Optician"
+        },
+        {
+            "size": "3",
+            "histogram_color": 1,
+            "label": "TCP/IP"
+        },
+        {
+            "size": "35",
+            "histogram_color": 1,
+            "label": "Social skills"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Medical assistant"
+        },
+        {
+            "size": "5",
+            "histogram_color": 1,
+            "label": "Methodological skills"
+        },
+        {
+            "size": "18",
+            "histogram_color": 3,
+            "label": "Medicine"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Civil engineering"
+        },
+        {
+            "size": "36",
+            "histogram_color": 1,
+            "label": "Acquisition business knowledge"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Child and youth services"
+        },
+        {
+            "size": "75",
+            "histogram_color": 2,
+            "label": "Leadership"
+        },
+        {
+            "size": "19",
+            "histogram_color": 3,
+            "label": "Electrical engineering"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Masseur"
+        },
+        {
+            "size": "5",
+            "histogram_color": 3,
+            "label": "Commercial apprenticeship"
+        },
+        {
+            "size": "28",
+            "histogram_color": 3,
+            "label": "Technical education degree"
+        },
+        {
+            "size": "48",
+            "histogram_color": 1,
+            "label": "Adobe Photoshop"
+        },
+        {
+            "size": "515",
+            "histogram_color": 2,
+            "label": "Management"
+        },
+        {
+            "size": "11",
+            "histogram_color": 3,
+            "label": "Tourism"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Traffic engineering"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Mobile application"
+        },
+        {
+            "size": "110",
+            "histogram_color": 3,
+            "label": "Business administration"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Social sciences"
+        },
+        {
+            "size": "5",
+            "histogram_color": 1,
+            "label": "Software development"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Cardiologist"
+        },
+        {
+            "size": "84",
+            "histogram_color": 2,
+            "label": "Entrepreneurial mindset"
+        },
+        {
+            "size": "225",
+            "histogram_color": 1,
+            "label": "Word"
+        },
+        {
+            "size": "8",
+            "histogram_color": 1,
+            "label": "Image editing"
+        },
+        {
+            "size": "7",
+            "histogram_color": 1,
+            "label": "Outlook"
+        },
+        {
+            "size": "239",
+            "histogram_color": 1,
+            "label": "Excel"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Mathematics"
+        },
+        {
+            "size": "2",
+            "histogram_color": 2,
+            "label": "Sociability"
+        }
+    ]
+}

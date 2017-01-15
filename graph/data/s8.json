@@ -1,0 +1,1901 @@
+{
+    "edges": [
+        {
+            "size": "1",
+            "id": "193",
+            "target": "Video editing",
+            "source": "Advertising",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "1",
+            "id": "192",
+            "target": "Javascript",
+            "source": "CSS",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "1",
+            "id": "191",
+            "target": "TYPO3",
+            "source": "Final Cut Pro",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "1",
+            "id": "190",
+            "target": "Google Analytics",
+            "source": "Marketing",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "1",
+            "id": "189",
+            "target": "macOS",
+            "source": "Word",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "1",
+            "id": "188",
+            "target": "Adobe InDesign",
+            "source": "Video editing",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "1",
+            "id": "187",
+            "target": "Adobe Illustrator",
+            "source": "TYPO3",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "1",
+            "id": "186",
+            "target": "Cinema 4D",
+            "source": "Adobe After Effects",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "1",
+            "id": "185",
+            "target": "Adobe InDesign",
+            "source": "Sales",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "1",
+            "id": "184",
+            "target": "Adobe Illustrator",
+            "source": "Final Cut Pro",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "1",
+            "id": "183",
+            "target": "Computer skills",
+            "source": "Adobe Illustrator",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "1",
+            "id": "182",
+            "target": "Image editing",
+            "source": "Adobe Illustrator",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "1",
+            "id": "181",
+            "target": "Excel",
+            "source": "Human resources",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "1",
+            "id": "180",
+            "target": "Adobe Premiere",
+            "source": "CSS",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "1",
+            "id": "179",
+            "target": "HTML",
+            "source": "Final Cut Pro",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "1",
+            "id": "178",
+            "target": "Computer skills",
+            "source": "Adobe InDesign",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "1",
+            "id": "177",
+            "target": "Adobe Illustrator",
+            "source": "Sales",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "1",
+            "id": "176",
+            "target": "Adobe InDesign",
+            "source": "Adobe Premiere",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "1",
+            "id": "175",
+            "target": "Marketing",
+            "source": "Sales",
+            "color": "rgba(244, 169, 165)"
+        },
+        {
+            "size": "1",
+            "id": "174",
+            "target": "Sustainability",
+            "source": "Digital printing",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "1",
+            "id": "173",
+            "target": "Digital printing",
+            "source": "Sales",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "1",
+            "id": "172",
+            "target": "Adobe Photoshop",
+            "source": "Digital printing",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "1",
+            "id": "171",
+            "target": "Cinema 4D",
+            "source": "Adobe Premiere",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "1",
+            "id": "170",
+            "target": "Adobe Photoshop",
+            "source": "CSS",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "1",
+            "id": "169",
+            "target": "Javascript",
+            "source": "Video editing",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "1",
+            "id": "168",
+            "target": "Powerpoint",
+            "source": "Advertising",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "1",
+            "id": "167",
+            "target": "Adobe Photoshop",
+            "source": "Customer service",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "1",
+            "id": "166",
+            "target": "macOS",
+            "source": "Powerpoint",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "1",
+            "id": "165",
+            "target": "Adobe InDesign",
+            "source": "3D CAD systems",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "1",
+            "id": "164",
+            "target": "Adobe InDesign",
+            "source": "R Graphics",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "1",
+            "id": "163",
+            "target": "Customer service",
+            "source": "Computer skills",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "1",
+            "id": "162",
+            "target": "Sustainability",
+            "source": "Word",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "1",
+            "id": "161",
+            "target": "Image editing",
+            "source": "Vector illustrations",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "1",
+            "id": "160",
+            "target": "Adobe Illustrator",
+            "source": "R",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "1",
+            "id": "159",
+            "target": "Vector illustrations",
+            "source": "Advertising",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "1",
+            "id": "158",
+            "target": "Adobe Photoshop",
+            "source": "Video editing",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "1",
+            "id": "157",
+            "target": "HTML",
+            "source": "Advertising",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "1",
+            "id": "156",
+            "target": "Marketing",
+            "source": "Powerpoint",
+            "color": "rgba(243, 158, 153)"
+        },
+        {
+            "size": "1",
+            "id": "155",
+            "target": "Excel",
+            "source": "Visual merchandising",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "1",
+            "id": "154",
+            "target": "Video editing",
+            "source": "Final Cut Pro",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "1",
+            "id": "153",
+            "target": "HTML",
+            "source": "Adobe Premiere",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "1",
+            "id": "152",
+            "target": "Sustainability",
+            "source": "Powerpoint",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "1",
+            "id": "151",
+            "target": "Marketing",
+            "source": "Word",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "1",
+            "id": "150",
+            "target": "Adobe Photoshop",
+            "source": "macOS",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "1",
+            "id": "149",
+            "target": "Google Analytics",
+            "source": "CMS",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "1",
+            "id": "148",
+            "target": "Adobe Illustrator",
+            "source": "Human resources",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "1",
+            "id": "147",
+            "target": "Wordpress",
+            "source": "Word",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "1",
+            "id": "146",
+            "target": "Image editing",
+            "source": "Video editing",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "1",
+            "id": "145",
+            "target": "Word",
+            "source": "Advertising",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "1",
+            "id": "144",
+            "target": "Adobe Photoshop",
+            "source": "Wordpress",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "1",
+            "id": "143",
+            "target": "Adobe Illustrator",
+            "source": "3D CAD systems",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "1",
+            "id": "142",
+            "target": "Digital printing",
+            "source": "Logistics",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "1",
+            "id": "141",
+            "target": "Adobe Photoshop",
+            "source": "TYPO3",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "1",
+            "id": "140",
+            "target": "Word",
+            "source": "Adobe Premiere",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "1",
+            "id": "139",
+            "target": "Google AdWords",
+            "source": "Advertising",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "1",
+            "id": "138",
+            "target": "macOS",
+            "source": "Adobe InDesign",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "1",
+            "id": "137",
+            "target": "Excel",
+            "source": "Marketing",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "1",
+            "id": "136",
+            "target": "Adobe Photoshop",
+            "source": "Javascript",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "1",
+            "id": "135",
+            "target": "Image editing",
+            "source": "R Graphics",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "1",
+            "id": "134",
+            "target": "HTML",
+            "source": "Javascript",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "1",
+            "id": "133",
+            "target": "Editorial skills",
+            "source": "R Graphics",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "1",
+            "id": "132",
+            "target": "Powerpoint",
+            "source": "Adobe After Effects",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "1",
+            "id": "131",
+            "target": "Marketing",
+            "source": "R",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "1",
+            "id": "130",
+            "target": "Vector illustrations",
+            "source": "Video editing",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "1",
+            "id": "129",
+            "target": "Digital printing",
+            "source": "R Graphics",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "1",
+            "id": "128",
+            "target": "Digital printing",
+            "source": "Image editing",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "1",
+            "id": "127",
+            "target": "Visual merchandising",
+            "source": "Word",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "1",
+            "id": "126",
+            "target": "Image editing",
+            "source": "CSS",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "1",
+            "id": "125",
+            "target": "Adobe InDesign",
+            "source": "Javascript",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "1",
+            "id": "124",
+            "target": "Adobe Photoshop",
+            "source": "Cinema 4D",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "1",
+            "id": "123",
+            "target": "Sustainability",
+            "source": "Adobe InDesign",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "1",
+            "id": "122",
+            "target": "Adobe InDesign",
+            "source": "Human resources",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "1",
+            "id": "121",
+            "target": "Excel",
+            "source": "Adobe After Effects",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "1",
+            "id": "120",
+            "target": "HTML",
+            "source": "R Graphics",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "1",
+            "id": "119",
+            "target": "CSS",
+            "source": "Video editing",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "1",
+            "id": "118",
+            "target": "Adobe Premiere",
+            "source": "Powerpoint",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "1",
+            "id": "117",
+            "target": "Adobe Illustrator",
+            "source": "Adobe After Effects",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "1",
+            "id": "116",
+            "target": "Customer service",
+            "source": "Adobe InDesign",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "1",
+            "id": "114",
+            "target": "Adobe Photoshop",
+            "source": "R Graphics",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "1",
+            "id": "113",
+            "target": "Excel",
+            "source": "Data management",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "1",
+            "id": "112",
+            "target": "Sustainability",
+            "source": "Advertising",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "1",
+            "id": "111",
+            "target": "Adobe Photoshop",
+            "source": "Advertising",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "1",
+            "id": "110",
+            "target": "Adobe Premiere",
+            "source": "Video editing",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "1",
+            "id": "109",
+            "target": "Wordpress",
+            "source": "Powerpoint",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "1",
+            "id": "108",
+            "target": "Digital printing",
+            "source": "Adobe InDesign",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "1",
+            "id": "107",
+            "target": "CSS",
+            "source": "Final Cut Pro",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "1",
+            "id": "106",
+            "target": "Video editing",
+            "source": "TYPO3",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "1",
+            "id": "105",
+            "target": "Adobe Photoshop",
+            "source": "Computer skills",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "1",
+            "id": "104",
+            "target": "Data management",
+            "source": "Word",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "1",
+            "id": "103",
+            "target": "Adobe Premiere",
+            "source": "Adobe After Effects",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "1",
+            "id": "102",
+            "target": "Cinema 4D",
+            "source": "Word",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "1",
+            "id": "101",
+            "target": "Adobe Premiere",
+            "source": "Javascript",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "1",
+            "id": "100",
+            "target": "Adobe Photoshop",
+            "source": "Sales",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "1",
+            "id": "99",
+            "target": "Digital printing",
+            "source": "Adobe Illustrator",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "1",
+            "id": "98",
+            "target": "Marketing",
+            "source": "Advertising",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "1",
+            "id": "97",
+            "target": "Adobe Photoshop",
+            "source": "3D CAD systems",
+            "color": "rgba(239, 124, 118)"
+        },
+        {
+            "size": "1",
+            "id": "96",
+            "target": "Computer skills",
+            "source": "Advertising",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "1",
+            "id": "95",
+            "target": "Excel",
+            "source": "Wordpress",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "1",
+            "id": "94",
+            "target": "Customer service",
+            "source": "Adobe Illustrator",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "1",
+            "id": "93",
+            "target": "Sustainability",
+            "source": "Logistics",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "1",
+            "id": "92",
+            "target": "Excel",
+            "source": "Adobe Premiere",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "1",
+            "id": "91",
+            "target": "Editorial skills",
+            "source": "R",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "1",
+            "id": "90",
+            "target": "Adobe Premiere",
+            "source": "Final Cut Pro",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "1",
+            "id": "89",
+            "target": "Google Analytics",
+            "source": "Google AdWords",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "1",
+            "id": "88",
+            "target": "Data management",
+            "source": "Advertising",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "1",
+            "id": "87",
+            "target": "Cinema 4D",
+            "source": "Powerpoint",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "1",
+            "id": "86",
+            "target": "Marketing",
+            "source": "CMS",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "1",
+            "id": "85",
+            "target": "Word",
+            "source": "Human resources",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "1",
+            "id": "84",
+            "target": "macOS",
+            "source": "Adobe Illustrator",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "1",
+            "id": "83",
+            "target": "Adobe Photoshop",
+            "source": "Adobe After Effects",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "1",
+            "id": "82",
+            "target": "Sales",
+            "source": "Human resources",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "1",
+            "id": "81",
+            "target": "Adobe InDesign",
+            "source": "CSS",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "1",
+            "id": "80",
+            "target": "Logistics",
+            "source": "Consulting",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "1",
+            "id": "79",
+            "target": "Adobe Illustrator",
+            "source": "CSS",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "1",
+            "id": "78",
+            "target": "Wordpress",
+            "source": "Adobe Illustrator",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "1",
+            "id": "77",
+            "target": "Adobe Illustrator",
+            "source": "R Graphics",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "1",
+            "id": "76",
+            "target": "Sustainability",
+            "source": "Consulting",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "1",
+            "id": "75",
+            "target": "Sales",
+            "source": "Consulting",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "1",
+            "id": "74",
+            "target": "Visual merchandising",
+            "source": "Powerpoint",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "1",
+            "id": "73",
+            "target": "CSS",
+            "source": "TYPO3",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "1",
+            "id": "72",
+            "target": "Human resources",
+            "source": "Powerpoint",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "1",
+            "id": "71",
+            "target": "HTML",
+            "source": "Vector illustrations",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "1",
+            "id": "70",
+            "target": "Google Analytics",
+            "source": "Advertising",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "1",
+            "id": "69",
+            "target": "Excel",
+            "source": "Sustainability",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "1",
+            "id": "68",
+            "target": "R Graphics",
+            "source": "Video editing",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "1",
+            "id": "67",
+            "target": "Marketing",
+            "source": "Human resources",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "1",
+            "id": "66",
+            "target": "Google AdWords",
+            "source": "CMS",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "1",
+            "id": "65",
+            "target": "Data management",
+            "source": "Powerpoint",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "1",
+            "id": "64",
+            "target": "Adobe Photoshop",
+            "source": "Image editing",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "1",
+            "id": "63",
+            "target": "Adobe InDesign",
+            "source": "Consulting",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "1",
+            "id": "62",
+            "target": "Adobe Photoshop",
+            "source": "R",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "1",
+            "id": "61",
+            "target": "Adobe Photoshop",
+            "source": "Final Cut Pro",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "1",
+            "id": "60",
+            "target": "Adobe InDesign",
+            "source": "TYPO3",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "1",
+            "id": "59",
+            "target": "Adobe Illustrator",
+            "source": "Video editing",
+            "color": "rgba(236, 102, 95)"
+        },
+        {
+            "size": "1",
+            "id": "58",
+            "target": "Adobe InDesign",
+            "source": "R",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "1",
+            "id": "57",
+            "target": "Wordpress",
+            "source": "Adobe InDesign",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "1",
+            "id": "56",
+            "target": "Adobe Illustrator",
+            "source": "Javascript",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "1",
+            "id": "55",
+            "target": "Google AdWords",
+            "source": "Marketing",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "1",
+            "id": "54",
+            "target": "Cinema 4D",
+            "source": "Adobe Illustrator",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "1",
+            "id": "53",
+            "target": "Excel",
+            "source": "Advertising",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "1",
+            "id": "52",
+            "target": "Javascript",
+            "source": "TYPO3",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "1",
+            "id": "51",
+            "target": "Sustainability",
+            "source": "Data management",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "1",
+            "id": "50",
+            "target": "Excel",
+            "source": "macOS",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "1",
+            "id": "49",
+            "target": "Advertising",
+            "source": "CMS",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "1",
+            "id": "48",
+            "target": "Adobe InDesign",
+            "source": "Logistics",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "1",
+            "id": "47",
+            "target": "Marketing",
+            "source": "R Graphics",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "1",
+            "id": "46",
+            "target": "Adobe InDesign",
+            "source": "Final Cut Pro",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "1",
+            "id": "45",
+            "target": "Word",
+            "source": "Adobe After Effects",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "1",
+            "id": "44",
+            "target": "Vector illustrations",
+            "source": "R Graphics",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "1",
+            "id": "43",
+            "target": "Adobe Photoshop",
+            "source": "Human resources",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "1",
+            "id": "42",
+            "target": "Marketing",
+            "source": "Editorial skills",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "1",
+            "id": "41",
+            "target": "Excel",
+            "source": "Cinema 4D",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "1",
+            "id": "40",
+            "target": "Adobe Premiere",
+            "source": "TYPO3",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "1",
+            "id": "39",
+            "target": "Adobe Illustrator",
+            "source": "Advertising",
+            "color": "rgba(234, 91, 83)"
+        },
+        {
+            "size": "1",
+            "id": "38",
+            "target": "HTML",
+            "source": "TYPO3",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "1",
+            "id": "37",
+            "target": "Javascript",
+            "source": "Final Cut Pro",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "2",
+            "id": "36",
+            "target": "Adobe Illustrator",
+            "source": "HTML",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "2",
+            "id": "35",
+            "target": "Adobe InDesign",
+            "source": "HTML",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "2",
+            "id": "34",
+            "target": "HTML",
+            "source": "Video editing",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "2",
+            "id": "33",
+            "target": "Adobe Photoshop",
+            "source": "Adobe Premiere",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "2",
+            "id": "32",
+            "target": "Marketing",
+            "source": "Adobe InDesign",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "2",
+            "id": "31",
+            "target": "Digital printing",
+            "source": "Advertising",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "2",
+            "id": "30",
+            "target": "Sales",
+            "source": "Word",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "2",
+            "id": "29",
+            "target": "Adobe Illustrator",
+            "source": "Adobe Acrobat",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "2",
+            "id": "28",
+            "target": "Image editing",
+            "source": "Advertising",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "2",
+            "id": "27",
+            "target": "Sales",
+            "source": "Powerpoint",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "2",
+            "id": "26",
+            "target": "Excel",
+            "source": "Sales",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "2",
+            "id": "25",
+            "target": "Adobe Photoshop",
+            "source": "Marketing",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "2",
+            "id": "24",
+            "target": "Image editing",
+            "source": "HTML",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "2",
+            "id": "23",
+            "target": "Adobe Photoshop",
+            "source": "HTML",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "2",
+            "id": "22",
+            "target": "Digital printing",
+            "source": "Consulting",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "2",
+            "id": "21",
+            "target": "Marketing",
+            "source": "Adobe Illustrator",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "2",
+            "id": "20",
+            "target": "Adobe Illustrator",
+            "source": "Adobe Premiere",
+            "color": "rgba(233, 79, 71)"
+        },
+        {
+            "size": "2",
+            "id": "19",
+            "target": "Adobe Photoshop",
+            "source": "Adobe Acrobat",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "2",
+            "id": "18",
+            "target": "Adobe InDesign",
+            "source": "Adobe Acrobat",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "2",
+            "id": "17",
+            "target": "R Graphics",
+            "source": "Advertising",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "2",
+            "id": "16",
+            "target": "HTML",
+            "source": "CSS",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "3",
+            "id": "15",
+            "target": "Adobe InDesign",
+            "source": "Word",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "3",
+            "id": "14",
+            "target": "Excel",
+            "source": "Adobe InDesign",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "3",
+            "id": "13",
+            "target": "Adobe InDesign",
+            "source": "Powerpoint",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "3",
+            "id": "12",
+            "target": "R",
+            "source": "R Graphics",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "4",
+            "id": "11",
+            "target": "Adobe Photoshop",
+            "source": "Powerpoint",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "4",
+            "id": "10",
+            "target": "Adobe Photoshop",
+            "source": "Excel",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "4",
+            "id": "9",
+            "target": "Adobe Photoshop",
+            "source": "Word",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "4",
+            "id": "8",
+            "target": "Adobe Illustrator",
+            "source": "Word",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "4",
+            "id": "7",
+            "target": "Adobe Illustrator",
+            "source": "Powerpoint",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "4",
+            "id": "6",
+            "target": "Excel",
+            "source": "Adobe Illustrator",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "8",
+            "id": "5",
+            "target": "Word",
+            "source": "Powerpoint",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "8",
+            "id": "4",
+            "target": "Excel",
+            "source": "Powerpoint",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "8",
+            "id": "3",
+            "target": "Excel",
+            "source": "Word",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "13",
+            "id": "2",
+            "target": "Adobe Photoshop",
+            "source": "Adobe InDesign",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "13",
+            "id": "1",
+            "target": "Adobe InDesign",
+            "source": "Adobe Illustrator",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "15",
+            "id": "0",
+            "target": "Adobe Photoshop",
+            "source": "Adobe Illustrator",
+            "color": "rgba(232, 69, 60)"
+        }
+    ],
+    "nodes": [
+        {
+            "size": "1",
+            "id": "TYPO3",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "TYPO3"
+        },
+        {
+            "size": "4",
+            "id": "Marketing",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Marketing"
+        },
+        {
+            "size": "1",
+            "id": "Visual merchandising",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Visual merchandising"
+        },
+        {
+            "size": "1",
+            "id": "3D CAD systems",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "3D CAD systems"
+        },
+        {
+            "size": "4",
+            "id": "Consulting",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Consulting"
+        },
+        {
+            "size": "1",
+            "id": "Javascript",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Javascript"
+        },
+        {
+            "size": "4",
+            "id": "Sales",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Sales"
+        },
+        {
+            "size": "15",
+            "id": "Adobe InDesign",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Adobe InDesign"
+        },
+        {
+            "size": "1",
+            "id": "Adobe After Effects",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Adobe After Effects"
+        },
+        {
+            "size": "5",
+            "id": "R Graphics",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "R Graphics"
+        },
+        {
+            "size": "2",
+            "id": "Adobe Premiere",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Adobe Premiere"
+        },
+        {
+            "size": "1",
+            "id": "Customer service",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Customer service"
+        },
+        {
+            "size": "17",
+            "id": "Adobe Illustrator",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Adobe Illustrator"
+        },
+        {
+            "size": "3",
+            "id": "R",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "R"
+        },
+        {
+            "size": "2",
+            "id": "Editorial skills",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Editorial skills"
+        },
+        {
+            "size": "1",
+            "id": "Data management",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Data management"
+        },
+        {
+            "size": "8",
+            "id": "Powerpoint",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Powerpoint"
+        },
+        {
+            "size": "9",
+            "id": "Advertising",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Advertising"
+        },
+        {
+            "size": "4",
+            "id": "Computer skills",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Computer skills"
+        },
+        {
+            "size": "2",
+            "id": "Video editing",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Video editing"
+        },
+        {
+            "size": "4",
+            "id": "HTML",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "HTML"
+        },
+        {
+            "size": "15",
+            "id": "Adobe Photoshop",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Adobe Photoshop"
+        },
+        {
+            "size": "1",
+            "id": "CMS",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "CMS"
+        },
+        {
+            "size": "2",
+            "id": "Adobe Acrobat",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Adobe Acrobat"
+        },
+        {
+            "size": "1",
+            "id": "Human resources",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Human resources"
+        },
+        {
+            "size": "1",
+            "id": "Final Cut Pro",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Final Cut Pro"
+        },
+        {
+            "size": "2",
+            "id": "CSS",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "CSS"
+        },
+        {
+            "size": "1",
+            "id": "Logistics",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Logistics"
+        },
+        {
+            "size": "1",
+            "id": "macOS",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "macOS"
+        },
+        {
+            "size": "1",
+            "id": "Vector illustrations",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Vector illustrations"
+        },
+        {
+            "size": "1",
+            "id": "Google AdWords",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Google AdWords"
+        },
+        {
+            "size": "1",
+            "id": "Wordpress",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Wordpress"
+        },
+        {
+            "size": "8",
+            "id": "Word",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Word"
+        },
+        {
+            "size": "3",
+            "id": "Image editing",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Image editing"
+        },
+        {
+            "size": "2",
+            "id": "Sustainability",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Sustainability"
+        },
+        {
+            "size": "8",
+            "id": "Excel",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Excel"
+        },
+        {
+            "size": "1",
+            "id": "Cinema 4D",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Cinema 4D"
+        },
+        {
+            "size": "4",
+            "id": "Digital printing",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Digital printing"
+        },
+        {
+            "size": "1",
+            "id": "Google Analytics",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Google Analytics"
+        }
+    ],
+    "histogram": [
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "TYPO3"
+        },
+        {
+            "size": "4",
+            "histogram_color": 1,
+            "label": "Marketing"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Visual merchandising"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Quality assurance"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "3D CAD systems"
+        },
+        {
+            "size": "4",
+            "histogram_color": 1,
+            "label": "Consulting"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Javascript"
+        },
+        {
+            "size": "4",
+            "histogram_color": 1,
+            "label": "Sales"
+        },
+        {
+            "size": "15",
+            "histogram_color": 1,
+            "label": "Adobe InDesign"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Adobe After Effects"
+        },
+        {
+            "size": "5",
+            "histogram_color": 1,
+            "label": "R Graphics"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Adobe Premiere"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Customer service"
+        },
+        {
+            "size": "17",
+            "histogram_color": 1,
+            "label": "Adobe Illustrator"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Social skills"
+        },
+        {
+            "size": "3",
+            "histogram_color": 1,
+            "label": "R"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Editorial skills"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Data management"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Acquisition business knowledge"
+        },
+        {
+            "size": "8",
+            "histogram_color": 1,
+            "label": "Powerpoint"
+        },
+        {
+            "size": "9",
+            "histogram_color": 1,
+            "label": "Advertising"
+        },
+        {
+            "size": "4",
+            "histogram_color": 1,
+            "label": "Computer skills"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Video editing"
+        },
+        {
+            "size": "4",
+            "histogram_color": 1,
+            "label": "HTML"
+        },
+        {
+            "size": "15",
+            "histogram_color": 1,
+            "label": "Adobe Photoshop"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "CMS"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Adobe Acrobat"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Human resources"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "ArtPro"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Final Cut Pro"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "SAP"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "CSS"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Mobile application"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Logistics"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "macOS"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Vector illustrations"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Google AdWords"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Wordpress"
+        },
+        {
+            "size": "8",
+            "histogram_color": 1,
+            "label": "Word"
+        },
+        {
+            "size": "3",
+            "histogram_color": 1,
+            "label": "Image editing"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Sustainability"
+        },
+        {
+            "size": "8",
+            "histogram_color": 1,
+            "label": "Excel"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Writing skills"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Cinema 4D"
+        },
+        {
+            "size": "4",
+            "histogram_color": 1,
+            "label": "Digital printing"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Google Analytics"
+        }
+    ]
+}

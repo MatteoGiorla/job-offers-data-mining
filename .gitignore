@@ -1,0 +1,3 @@
+data/*.json
+!data/example.json
+work_files/

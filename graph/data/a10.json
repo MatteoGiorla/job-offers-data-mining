@@ -1,0 +1,3196 @@
+{
+    "edges": [
+        {
+            "size": "25",
+            "id": "288",
+            "target": "Electronics",
+            "source": "Flexibility",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "25",
+            "id": "287",
+            "target": "Electrical engineering",
+            "source": "Computer skills",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "25",
+            "id": "286",
+            "target": "Project management",
+            "source": "Flexibility",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "25",
+            "id": "285",
+            "target": "Driving license",
+            "source": "Flexibility",
+            "color": "rgba(252, 224, 158)"
+        },
+        {
+            "size": "25",
+            "id": "284",
+            "target": "Dynamism",
+            "source": "Reliability",
+            "color": "rgba(252, 224, 158)"
+        },
+        {
+            "size": "25",
+            "id": "283",
+            "target": "Dynamism",
+            "source": "Powerpoint",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "25",
+            "id": "282",
+            "target": "Dynamism",
+            "source": "Word",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "25",
+            "id": "281",
+            "target": "Independence",
+            "source": "3D CAD systems",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "25",
+            "id": "280",
+            "target": "Open personality",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "25",
+            "id": "279",
+            "target": "Electronics",
+            "source": "Management",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "26",
+            "id": "278",
+            "target": "Team Skills",
+            "source": "Assertiveness",
+            "color": "rgba(252, 224, 158)"
+        },
+        {
+            "size": "26",
+            "id": "277",
+            "target": "Excel",
+            "source": "Dynamism",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "26",
+            "id": "276",
+            "target": "Word",
+            "source": "Mechanical engineering",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "26",
+            "id": "275",
+            "target": "English",
+            "source": "Electrician apprenticeship",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "26",
+            "id": "274",
+            "target": "Team Skills",
+            "source": "Safety and security",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "26",
+            "id": "273",
+            "target": "Electrical engineering",
+            "source": "PLC (Programmable logic controller)",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "26",
+            "id": "272",
+            "target": "Sales",
+            "source": "Flexibility",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "26",
+            "id": "271",
+            "target": "Independence",
+            "source": "Sales",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "26",
+            "id": "270",
+            "target": "Entrepreneurial mindset",
+            "source": "English",
+            "color": "rgba(252, 224, 158)"
+        },
+        {
+            "size": "26",
+            "id": "269",
+            "target": "Customer-oriented personality",
+            "source": "German",
+            "color": "rgba(252, 224, 158)"
+        },
+        {
+            "size": "26",
+            "id": "268",
+            "target": "Communication Skills",
+            "source": "Dynamism",
+            "color": "rgba(252, 224, 158)"
+        },
+        {
+            "size": "26",
+            "id": "267",
+            "target": "Automation",
+            "source": "Apprenticeship in mechatronics",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "27",
+            "id": "266",
+            "target": "Safety and security",
+            "source": "Self-motivation",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "27",
+            "id": "265",
+            "target": "English",
+            "source": "PLC (Programmable logic controller)",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "27",
+            "id": "264",
+            "target": "Communication Skills",
+            "source": "Resilience",
+            "color": "rgba(252, 224, 158)"
+        },
+        {
+            "size": "27",
+            "id": "263",
+            "target": "Structured work",
+            "source": "Management",
+            "color": "rgba(252, 224, 158)"
+        },
+        {
+            "size": "27",
+            "id": "262",
+            "target": "French",
+            "source": "Self-motivation",
+            "color": "rgba(252, 224, 158)"
+        },
+        {
+            "size": "27",
+            "id": "261",
+            "target": "Open personality",
+            "source": "Mechanical engineering",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "27",
+            "id": "260",
+            "target": "Team Skills",
+            "source": "Structured work",
+            "color": "rgba(252, 219, 145)"
+        },
+        {
+            "size": "27",
+            "id": "259",
+            "target": "Team Skills",
+            "source": "Electronics",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "28",
+            "id": "258",
+            "target": "Reliability",
+            "source": "Open personality",
+            "color": "rgba(252, 219, 145)"
+        },
+        {
+            "size": "28",
+            "id": "257",
+            "target": "Electrician apprenticeship",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "28",
+            "id": "256",
+            "target": "Independence",
+            "source": "Apprenticeship in mechatronics",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "28",
+            "id": "255",
+            "target": "Excel",
+            "source": "French",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "28",
+            "id": "254",
+            "target": "Independence",
+            "source": "Consulting",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "28",
+            "id": "253",
+            "target": "Structured work",
+            "source": "Independence",
+            "color": "rgba(252, 219, 145)"
+        },
+        {
+            "size": "28",
+            "id": "252",
+            "target": "Mechanic apprenticeship",
+            "source": "Apprenticeship in mechatronics",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "28",
+            "id": "251",
+            "target": "Project management",
+            "source": "French",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "28",
+            "id": "250",
+            "target": "Leadership",
+            "source": "Organizational Skills",
+            "color": "rgba(252, 219, 145)"
+        },
+        {
+            "size": "28",
+            "id": "249",
+            "target": "French",
+            "source": "Powerpoint",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "28",
+            "id": "248",
+            "target": "Team Skills",
+            "source": "Apprenticeship in mechatronics",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "28",
+            "id": "247",
+            "target": "Management",
+            "source": "3D CAD systems",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "28",
+            "id": "246",
+            "target": "Computer skills",
+            "source": "Self-motivation",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "28",
+            "id": "245",
+            "target": "Safety and security",
+            "source": "Mechanical engineering",
+            "color": "rgba(158, 193, 248)"
+        },
+        {
+            "size": "29",
+            "id": "244",
+            "target": "Electrical engineering",
+            "source": "Project management",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "29",
+            "id": "243",
+            "target": "Electrician apprenticeship",
+            "source": "Flexibility",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "29",
+            "id": "242",
+            "target": "Independence",
+            "source": "Mechanical engineering",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "29",
+            "id": "241",
+            "target": "Consulting",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "29",
+            "id": "240",
+            "target": "Electrical engineering",
+            "source": "French",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "29",
+            "id": "239",
+            "target": "Communication Skills",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "29",
+            "id": "238",
+            "target": "Independence",
+            "source": "Customer-oriented personality",
+            "color": "rgba(252, 219, 145)"
+        },
+        {
+            "size": "29",
+            "id": "237",
+            "target": "Self-motivation",
+            "source": "Open personality",
+            "color": "rgba(252, 219, 145)"
+        },
+        {
+            "size": "29",
+            "id": "236",
+            "target": "Communication Skills",
+            "source": "Analytical skills",
+            "color": "rgba(252, 219, 145)"
+        },
+        {
+            "size": "29",
+            "id": "235",
+            "target": "Project management",
+            "source": "Self-motivation",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "30",
+            "id": "234",
+            "target": "Open personality",
+            "source": "Flexibility",
+            "color": "rgba(252, 219, 145)"
+        },
+        {
+            "size": "30",
+            "id": "233",
+            "target": "Management",
+            "source": "Sales",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "30",
+            "id": "232",
+            "target": "Team Skills",
+            "source": "SAP",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "30",
+            "id": "231",
+            "target": "Independence",
+            "source": "Conscientious, meticulous",
+            "color": "rgba(251, 215, 133)"
+        },
+        {
+            "size": "30",
+            "id": "230",
+            "target": "Communication Skills",
+            "source": "Assertiveness",
+            "color": "rgba(251, 215, 133)"
+        },
+        {
+            "size": "30",
+            "id": "229",
+            "target": "PLC (Programmable logic controller)",
+            "source": "Automation",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "30",
+            "id": "228",
+            "target": "Word",
+            "source": "French",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "30",
+            "id": "227",
+            "target": "Project management",
+            "source": "Open personality",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "30",
+            "id": "226",
+            "target": "Powerpoint",
+            "source": "Flexibility",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "31",
+            "id": "225",
+            "target": "Team Skills",
+            "source": "Organizational Skills",
+            "color": "rgba(251, 215, 133)"
+        },
+        {
+            "size": "31",
+            "id": "224",
+            "target": "PLC (Programmable logic controller)",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "31",
+            "id": "223",
+            "target": "Electronics",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "31",
+            "id": "222",
+            "target": "Excel",
+            "source": "Flexibility",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "31",
+            "id": "221",
+            "target": "Reliability",
+            "source": "Leadership",
+            "color": "rgba(251, 215, 133)"
+        },
+        {
+            "size": "31",
+            "id": "220",
+            "target": "Independence",
+            "source": "Safety and security",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "31",
+            "id": "219",
+            "target": "Entrepreneurial mindset",
+            "source": "Management",
+            "color": "rgba(251, 215, 133)"
+        },
+        {
+            "size": "31",
+            "id": "218",
+            "target": "Accuracy",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "31",
+            "id": "217",
+            "target": "Management",
+            "source": "Assertiveness",
+            "color": "rgba(251, 215, 133)"
+        },
+        {
+            "size": "32",
+            "id": "216",
+            "target": "Electrical engineering",
+            "source": "Apprenticeship in mechatronics",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "32",
+            "id": "215",
+            "target": "Electrical engineering",
+            "source": "Mechanical engineering",
+            "color": "rgba(147, 186, 247)"
+        },
+        {
+            "size": "32",
+            "id": "214",
+            "target": "Reliability",
+            "source": "French",
+            "color": "rgba(251, 215, 133)"
+        },
+        {
+            "size": "32",
+            "id": "213",
+            "target": "Communication Skills",
+            "source": "SAP",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "32",
+            "id": "212",
+            "target": "Dynamism",
+            "source": "Flexibility",
+            "color": "rgba(251, 215, 133)"
+        },
+        {
+            "size": "32",
+            "id": "211",
+            "target": "Willingness to travel",
+            "source": "German",
+            "color": "rgba(251, 215, 133)"
+        },
+        {
+            "size": "32",
+            "id": "210",
+            "target": "Team Skills",
+            "source": "Analytical skills",
+            "color": "rgba(251, 215, 133)"
+        },
+        {
+            "size": "33",
+            "id": "208",
+            "target": "Resilience",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "33",
+            "id": "207",
+            "target": "Computer skills",
+            "source": "Powerpoint",
+            "color": "rgba(242, 147, 141)"
+        },
+        {
+            "size": "33",
+            "id": "206",
+            "target": "Independence",
+            "source": "Leadership",
+            "color": "rgba(251, 215, 133)"
+        },
+        {
+            "size": "33",
+            "id": "205",
+            "target": "Self-motivation",
+            "source": "Resilience",
+            "color": "rgba(251, 215, 133)"
+        },
+        {
+            "size": "33",
+            "id": "204",
+            "target": "Accuracy",
+            "source": "Flexibility",
+            "color": "rgba(251, 215, 133)"
+        },
+        {
+            "size": "33",
+            "id": "203",
+            "target": "Reliability",
+            "source": "Automation",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "33",
+            "id": "202",
+            "target": "Sales",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "33",
+            "id": "201",
+            "target": "Dynamism",
+            "source": "Self-motivation",
+            "color": "rgba(251, 210, 116)"
+        },
+        {
+            "size": "33",
+            "id": "200",
+            "target": "Electronics",
+            "source": "Automation",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "34",
+            "id": "199",
+            "target": "Computer skills",
+            "source": "Management",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "34",
+            "id": "198",
+            "target": "English",
+            "source": "3D CAD systems",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "34",
+            "id": "197",
+            "target": "Independence",
+            "source": "Organizational Skills",
+            "color": "rgba(251, 210, 116)"
+        },
+        {
+            "size": "34",
+            "id": "196",
+            "target": "Independence",
+            "source": "SAP",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "35",
+            "id": "195",
+            "target": "Automation",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "35",
+            "id": "194",
+            "target": "French",
+            "source": "Flexibility",
+            "color": "rgba(251, 210, 116)"
+        },
+        {
+            "size": "35",
+            "id": "193",
+            "target": "Powerpoint",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "35",
+            "id": "192",
+            "target": "Reliability",
+            "source": "Powerpoint",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "35",
+            "id": "191",
+            "target": "Computer skills",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "35",
+            "id": "190",
+            "target": "Apprenticeship in mechatronics",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "35",
+            "id": "189",
+            "target": "Computer skills",
+            "source": "Word",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "35",
+            "id": "188",
+            "target": "Word",
+            "source": "Flexibility",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "36",
+            "id": "187",
+            "target": "Excel",
+            "source": "Computer skills",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "36",
+            "id": "186",
+            "target": "Excel",
+            "source": "Reliability",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "36",
+            "id": "185",
+            "target": "Project management",
+            "source": "Powerpoint",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "36",
+            "id": "184",
+            "target": "Driving license",
+            "source": "Reliability",
+            "color": "rgba(251, 210, 116)"
+        },
+        {
+            "size": "36",
+            "id": "183",
+            "target": "Excel",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "36",
+            "id": "182",
+            "target": "Project management",
+            "source": "Word",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "36",
+            "id": "181",
+            "target": "English",
+            "source": "Assertiveness",
+            "color": "rgba(251, 210, 116)"
+        },
+        {
+            "size": "36",
+            "id": "180",
+            "target": "Independence",
+            "source": "Project management",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "37",
+            "id": "179",
+            "target": "Excel",
+            "source": "Project management",
+            "color": "rgba(240, 132, 126)"
+        },
+        {
+            "size": "37",
+            "id": "178",
+            "target": "Word",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "37",
+            "id": "177",
+            "target": "Team Skills",
+            "source": "Mechanical engineering",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "37",
+            "id": "176",
+            "target": "Electrical engineering",
+            "source": "Communication Skills",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "37",
+            "id": "175",
+            "target": "Independence",
+            "source": "Open personality",
+            "color": "rgba(251, 210, 116)"
+        },
+        {
+            "size": "37",
+            "id": "174",
+            "target": "Reliability",
+            "source": "Word",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "37",
+            "id": "173",
+            "target": "Communication Skills",
+            "source": "Organizational Skills",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "37",
+            "id": "172",
+            "target": "German",
+            "source": "3D CAD systems",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "38",
+            "id": "171",
+            "target": "Electrical engineering",
+            "source": "Self-motivation",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "38",
+            "id": "170",
+            "target": "Accuracy",
+            "source": "Reliability",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "38",
+            "id": "169",
+            "target": "Assertiveness",
+            "source": "German",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "38",
+            "id": "168",
+            "target": "Automation",
+            "source": "Flexibility",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "38",
+            "id": "167",
+            "target": "Management",
+            "source": "Dynamism",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "38",
+            "id": "166",
+            "target": "English",
+            "source": "Sales",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "38",
+            "id": "165",
+            "target": "Communication Skills",
+            "source": "Mechanical engineering",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "38",
+            "id": "164",
+            "target": "Communication Skills",
+            "source": "Open personality",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "38",
+            "id": "163",
+            "target": "Team Skills",
+            "source": "Automation",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "39",
+            "id": "162",
+            "target": "Computer skills",
+            "source": "Reliability",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "39",
+            "id": "161",
+            "target": "English",
+            "source": "Apprenticeship in mechatronics",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "39",
+            "id": "160",
+            "target": "Automation engineer",
+            "source": "Automation",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "39",
+            "id": "159",
+            "target": "English",
+            "source": "Electronics",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "40",
+            "id": "158",
+            "target": "Computer skills",
+            "source": "Flexibility",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "40",
+            "id": "157",
+            "target": "Team Skills",
+            "source": "Open personality",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "40",
+            "id": "156",
+            "target": "Communication Skills",
+            "source": "French",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "40",
+            "id": "155",
+            "target": "Electrical engineering",
+            "source": "Flexibility",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "40",
+            "id": "154",
+            "target": "Communication Skills",
+            "source": "Self-motivation",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "40",
+            "id": "153",
+            "target": "Management",
+            "source": "Automation",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "41",
+            "id": "152",
+            "target": "Leadership",
+            "source": "Self-motivation",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "41",
+            "id": "151",
+            "target": "Safety and security",
+            "source": "Open personality",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "41",
+            "id": "150",
+            "target": "Electrician apprenticeship",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "41",
+            "id": "149",
+            "target": "English",
+            "source": "Willingness to travel",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "41",
+            "id": "148",
+            "target": "Reliability",
+            "source": "Resilience",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "42",
+            "id": "147",
+            "target": "Project management",
+            "source": "Mechanical engineering",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "42",
+            "id": "146",
+            "target": "Electrical engineering",
+            "source": "Reliability",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "42",
+            "id": "145",
+            "target": "English",
+            "source": "Structured work",
+            "color": "rgba(251, 207, 107)"
+        },
+        {
+            "size": "42",
+            "id": "144",
+            "target": "Management",
+            "source": "SAP",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "43",
+            "id": "143",
+            "target": "English",
+            "source": "Computer skills",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "43",
+            "id": "142",
+            "target": "Team Skills",
+            "source": "French",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "43",
+            "id": "141",
+            "target": "CNC (Computer Numeric Control)",
+            "source": "Self-motivation",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "43",
+            "id": "140",
+            "target": "English",
+            "source": "Resilience",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "43",
+            "id": "139",
+            "target": "Team Skills",
+            "source": "Accuracy",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "43",
+            "id": "138",
+            "target": "Self-motivation",
+            "source": "Powerpoint",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "44",
+            "id": "137",
+            "target": "Driving license",
+            "source": "Independence",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "44",
+            "id": "136",
+            "target": "English",
+            "source": "Dynamism",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "44",
+            "id": "135",
+            "target": "Communication Skills",
+            "source": "Reliability",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "44",
+            "id": "134",
+            "target": "English",
+            "source": "Organizational Skills",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "45",
+            "id": "133",
+            "target": "Word",
+            "source": "Self-motivation",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "45",
+            "id": "132",
+            "target": "Team Skills",
+            "source": "Project management",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "45",
+            "id": "131",
+            "target": "Communication Skills",
+            "source": "Project management",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "46",
+            "id": "130",
+            "target": "Electronics",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "46",
+            "id": "129",
+            "target": "English",
+            "source": "Safety and security",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "46",
+            "id": "128",
+            "target": "Team Skills",
+            "source": "Dynamism",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "46",
+            "id": "127",
+            "target": "English",
+            "source": "Leadership",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "47",
+            "id": "126",
+            "target": "Electronics",
+            "source": "Independence",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "47",
+            "id": "125",
+            "target": "Structured work",
+            "source": "German",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "47",
+            "id": "124",
+            "target": "Organizational Skills",
+            "source": "German",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "47",
+            "id": "123",
+            "target": "Excel",
+            "source": "Self-motivation",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "48",
+            "id": "122",
+            "target": "Communication Skills",
+            "source": "Leadership",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "48",
+            "id": "121",
+            "target": "Management",
+            "source": "Analytical skills",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "49",
+            "id": "120",
+            "target": "Powerpoint",
+            "source": "SAP",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "49",
+            "id": "119",
+            "target": "English",
+            "source": "SAP",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "49",
+            "id": "118",
+            "target": "Excel",
+            "source": "SAP",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "50",
+            "id": "117",
+            "target": "Analytical skills",
+            "source": "German",
+            "color": "rgba(250, 203, 95)"
+        },
+        {
+            "size": "50",
+            "id": "116",
+            "target": "Word",
+            "source": "SAP",
+            "color": "rgba(237, 113, 106)"
+        },
+        {
+            "size": "51",
+            "id": "115",
+            "target": "Communication Skills",
+            "source": "Flexibility",
+            "color": "rgba(250, 199, 82)"
+        },
+        {
+            "size": "51",
+            "id": "114",
+            "target": "Accuracy",
+            "source": "German",
+            "color": "rgba(250, 199, 82)"
+        },
+        {
+            "size": "51",
+            "id": "113",
+            "target": "Electrician apprenticeship",
+            "source": "Independence",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "52",
+            "id": "112",
+            "target": "Management",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "52",
+            "id": "111",
+            "target": "Independence",
+            "source": "Dynamism",
+            "color": "rgba(250, 199, 82)"
+        },
+        {
+            "size": "52",
+            "id": "110",
+            "target": "Team Skills",
+            "source": "Computer skills",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "53",
+            "id": "109",
+            "target": "Management",
+            "source": "Organizational Skills",
+            "color": "rgba(250, 199, 82)"
+        },
+        {
+            "size": "53",
+            "id": "108",
+            "target": "English",
+            "source": "Analytical skills",
+            "color": "rgba(250, 199, 82)"
+        },
+        {
+            "size": "53",
+            "id": "107",
+            "target": "Management",
+            "source": "Open personality",
+            "color": "rgba(250, 199, 82)"
+        },
+        {
+            "size": "54",
+            "id": "106",
+            "target": "Electrical engineering",
+            "source": "Electronics",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "54",
+            "id": "105",
+            "target": "Independence",
+            "source": "French",
+            "color": "rgba(250, 199, 82)"
+        },
+        {
+            "size": "55",
+            "id": "104",
+            "target": "Electrical engineering",
+            "source": "Electrician apprenticeship",
+            "color": "rgba(103, 157, 243)"
+        },
+        {
+            "size": "55",
+            "id": "103",
+            "target": "Management",
+            "source": "Safety and security",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "55",
+            "id": "102",
+            "target": "Independence",
+            "source": "Automation",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "56",
+            "id": "101",
+            "target": "Management",
+            "source": "French",
+            "color": "rgba(250, 199, 82)"
+        },
+        {
+            "size": "57",
+            "id": "100",
+            "target": "Safety and security",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "57",
+            "id": "99",
+            "target": "Communication Skills",
+            "source": "Powerpoint",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "57",
+            "id": "98",
+            "target": "Electrician apprenticeship",
+            "source": "Automation",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "57",
+            "id": "97",
+            "target": "English",
+            "source": "Automation",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "57",
+            "id": "96",
+            "target": "Independence",
+            "source": "Accuracy",
+            "color": "rgba(250, 199, 82)"
+        },
+        {
+            "size": "58",
+            "id": "95",
+            "target": "Excel",
+            "source": "Communication Skills",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "58",
+            "id": "94",
+            "target": "Electrical engineering",
+            "source": "Team Skills",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "58",
+            "id": "93",
+            "target": "CNC (Computer Numeric Control)",
+            "source": "Reliability",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "59",
+            "id": "92",
+            "target": "Team Skills",
+            "source": "Powerpoint",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "60",
+            "id": "91",
+            "target": "SAP",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "60",
+            "id": "90",
+            "target": "CNC (Computer Numeric Control)",
+            "source": "Flexibility",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "61",
+            "id": "89",
+            "target": "Electrical engineering",
+            "source": "Management",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "61",
+            "id": "88",
+            "target": "English",
+            "source": "Open personality",
+            "color": "rgba(250, 199, 82)"
+        },
+        {
+            "size": "61",
+            "id": "87",
+            "target": "Communication Skills",
+            "source": "Word",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "61",
+            "id": "86",
+            "target": "Driving license",
+            "source": "German",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "61",
+            "id": "85",
+            "target": "Team Skills",
+            "source": "Word",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "61",
+            "id": "84",
+            "target": "Excel",
+            "source": "Team Skills",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "62",
+            "id": "83",
+            "target": "Electrical engineering",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(92, 150, 242)"
+        },
+        {
+            "size": "62",
+            "id": "82",
+            "target": "Leadership",
+            "source": "German",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "62",
+            "id": "81",
+            "target": "Computer skills",
+            "source": "Independence",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "64",
+            "id": "80",
+            "target": "Team Skills",
+            "source": "CNC (Computer Numeric Control)",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "64",
+            "id": "79",
+            "target": "Resilience",
+            "source": "Flexibility",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "64",
+            "id": "78",
+            "target": "Management",
+            "source": "Reliability",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "65",
+            "id": "77",
+            "target": "Independence",
+            "source": "Powerpoint",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "65",
+            "id": "76",
+            "target": "Team Skills",
+            "source": "Leadership",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "65",
+            "id": "75",
+            "target": "Self-motivation",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "65",
+            "id": "74",
+            "target": "Management",
+            "source": "Flexibility",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "66",
+            "id": "73",
+            "target": "Dynamism",
+            "source": "German",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "66",
+            "id": "72",
+            "target": "Independence",
+            "source": "Resilience",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "68",
+            "id": "71",
+            "target": "Team Skills",
+            "source": "Resilience",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "68",
+            "id": "70",
+            "target": "Management",
+            "source": "Leadership",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "68",
+            "id": "69",
+            "target": "Resilience",
+            "source": "German",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "68",
+            "id": "68",
+            "target": "Independence",
+            "source": "Word",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "69",
+            "id": "67",
+            "target": "CNC (Computer Numeric Control)",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "69",
+            "id": "66",
+            "target": "Excel",
+            "source": "Independence",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "70",
+            "id": "65",
+            "target": "Management",
+            "source": "Mechanical engineering",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "71",
+            "id": "64",
+            "target": "Automation",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "71",
+            "id": "63",
+            "target": "Self-motivation",
+            "source": "Flexibility",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "73",
+            "id": "62",
+            "target": "English",
+            "source": "French",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "74",
+            "id": "61",
+            "target": "Open personality",
+            "source": "German",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "75",
+            "id": "60",
+            "target": "Management",
+            "source": "Self-motivation",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "76",
+            "id": "59",
+            "target": "Communication Skills",
+            "source": "Independence",
+            "color": "rgba(249, 195, 70)"
+        },
+        {
+            "size": "77",
+            "id": "58",
+            "target": "English",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "79",
+            "id": "57",
+            "target": "English",
+            "source": "Self-motivation",
+            "color": "rgba(249, 191, 57)"
+        },
+        {
+            "size": "79",
+            "id": "56",
+            "target": "Electrical engineering",
+            "source": "Automation",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "82",
+            "id": "55",
+            "target": "Computer skills",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "84",
+            "id": "54",
+            "target": "English",
+            "source": "Reliability",
+            "color": "rgba(249, 191, 57)"
+        },
+        {
+            "size": "84",
+            "id": "53",
+            "target": "Project management",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "84",
+            "id": "52",
+            "target": "Mechanical engineering",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "86",
+            "id": "51",
+            "target": "Management",
+            "source": "Powerpoint",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "86",
+            "id": "50",
+            "target": "Team Skills",
+            "source": "Communication Skills",
+            "color": "rgba(249, 191, 57)"
+        },
+        {
+            "size": "86",
+            "id": "49",
+            "target": "Reliability",
+            "source": "Self-motivation",
+            "color": "rgba(249, 191, 57)"
+        },
+        {
+            "size": "87",
+            "id": "48",
+            "target": "Excel",
+            "source": "Management",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "88",
+            "id": "47",
+            "target": "Electrical engineering",
+            "source": "Independence",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "88",
+            "id": "46",
+            "target": "Management",
+            "source": "Word",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "89",
+            "id": "45",
+            "target": "English",
+            "source": "Flexibility",
+            "color": "rgba(249, 191, 57)"
+        },
+        {
+            "size": "90",
+            "id": "44",
+            "target": "English",
+            "source": "Mechanical engineering",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "90",
+            "id": "43",
+            "target": "Mechanic apprenticeship",
+            "source": "Flexibility",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "91",
+            "id": "42",
+            "target": "English",
+            "source": "Electrical engineering",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "92",
+            "id": "41",
+            "target": "Reliability",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "92",
+            "id": "40",
+            "target": "English",
+            "source": "Project management",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "93",
+            "id": "39",
+            "target": "Independence",
+            "source": "Management",
+            "color": "rgba(249, 191, 57)"
+        },
+        {
+            "size": "95",
+            "id": "38",
+            "target": "Independence",
+            "source": "CNC (Computer Numeric Control)",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "95",
+            "id": "37",
+            "target": "Electrical engineering",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "97",
+            "id": "36",
+            "target": "English",
+            "source": "Powerpoint",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "100",
+            "id": "35",
+            "target": "Team Skills",
+            "source": "Self-motivation",
+            "color": "rgba(249, 191, 57)"
+        },
+        {
+            "size": "101",
+            "id": "34",
+            "target": "Excel",
+            "source": "English",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "105",
+            "id": "33",
+            "target": "Team Skills",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "105",
+            "id": "32",
+            "target": "English",
+            "source": "Word",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "109",
+            "id": "31",
+            "target": "CNC (Computer Numeric Control)",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "110",
+            "id": "30",
+            "target": "Independence",
+            "source": "Self-motivation",
+            "color": "rgba(249, 191, 57)"
+        },
+        {
+            "size": "110",
+            "id": "29",
+            "target": "Team Skills",
+            "source": "Management",
+            "color": "rgba(249, 191, 57)"
+        },
+        {
+            "size": "116",
+            "id": "28",
+            "target": "Powerpoint",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "117",
+            "id": "27",
+            "target": "French",
+            "source": "German",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "117",
+            "id": "26",
+            "target": "Communication Skills",
+            "source": "Management",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "118",
+            "id": "25",
+            "target": "Reliability",
+            "source": "Flexibility",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "118",
+            "id": "24",
+            "target": "Excel",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "123",
+            "id": "23",
+            "target": "Word",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "130",
+            "id": "22",
+            "target": "Independence",
+            "source": "Mechanic apprenticeship",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "131",
+            "id": "21",
+            "target": "English",
+            "source": "Team Skills",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "132",
+            "id": "20",
+            "target": "English",
+            "source": "Communication Skills",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "133",
+            "id": "19",
+            "target": "Mechanic apprenticeship",
+            "source": "German",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "134",
+            "id": "18",
+            "target": "English",
+            "source": "Independence",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "134",
+            "id": "17",
+            "target": "Team Skills",
+            "source": "Flexibility",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "141",
+            "id": "16",
+            "target": "Self-motivation",
+            "source": "German",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "146",
+            "id": "15",
+            "target": "Communication Skills",
+            "source": "German",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "150",
+            "id": "14",
+            "target": "Team Skills",
+            "source": "Reliability",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "158",
+            "id": "13",
+            "target": "Independence",
+            "source": "Flexibility",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "161",
+            "id": "12",
+            "target": "Independence",
+            "source": "Reliability",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "163",
+            "id": "11",
+            "target": "Reliability",
+            "source": "German",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "164",
+            "id": "10",
+            "target": "Project management",
+            "source": "Management",
+            "color": "rgba(239, 240, 240)"
+        },
+        {
+            "size": "186",
+            "id": "9",
+            "target": "English",
+            "source": "Management",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "186",
+            "id": "8",
+            "target": "German",
+            "source": "Flexibility",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "189",
+            "id": "7",
+            "target": "Word",
+            "source": "Powerpoint",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "189",
+            "id": "6",
+            "target": "Excel",
+            "source": "Powerpoint",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "193",
+            "id": "5",
+            "target": "Excel",
+            "source": "Word",
+            "color": "rgba(232, 69, 60)"
+        },
+        {
+            "size": "203",
+            "id": "4",
+            "target": "Management",
+            "source": "German",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "204",
+            "id": "3",
+            "target": "Team Skills",
+            "source": "Independence",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "221",
+            "id": "2",
+            "target": "Team Skills",
+            "source": "German",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "243",
+            "id": "1",
+            "target": "Independence",
+            "source": "German",
+            "color": "rgba(249, 187, 45)"
+        },
+        {
+            "size": "325",
+            "id": "0",
+            "target": "English",
+            "source": "German",
+            "color": "rgba(249, 187, 45)"
+        }
+    ],
+    "nodes": [
+        {
+            "size": "58",
+            "id": "Assertiveness",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Assertiveness"
+        },
+        {
+            "size": "123",
+            "id": "Dynamism",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Dynamism"
+        },
+        {
+            "size": "424",
+            "id": "Team Skills",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Team Skills"
+        },
+        {
+            "size": "117",
+            "id": "Electrician apprenticeship",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Electrician apprenticeship"
+        },
+        {
+            "size": "340",
+            "id": "Mechanic apprenticeship",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Mechanic apprenticeship"
+        },
+        {
+            "size": "75",
+            "id": "Sales",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Sales"
+        },
+        {
+            "size": "716",
+            "id": "German",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "German"
+        },
+        {
+            "size": "164",
+            "id": "Project management",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Project management"
+        },
+        {
+            "size": "98",
+            "id": "Accuracy",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Accuracy"
+        },
+        {
+            "size": "189",
+            "id": "Powerpoint",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Powerpoint"
+        },
+        {
+            "size": "125",
+            "id": "Safety and security",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Safety and security"
+        },
+        {
+            "size": "103",
+            "id": "Organizational Skills",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Organizational Skills"
+        },
+        {
+            "size": "141",
+            "id": "French",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "French"
+        },
+        {
+            "size": "246",
+            "id": "Electrical engineering",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Electrical engineering"
+        },
+        {
+            "size": "100",
+            "id": "SAP",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "SAP"
+        },
+        {
+            "size": "205",
+            "id": "CNC (Computer Numeric Control)",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "CNC (Computer Numeric Control)"
+        },
+        {
+            "size": "238",
+            "id": "Communication Skills",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Communication Skills"
+        },
+        {
+            "size": "452",
+            "id": "English",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "English"
+        },
+        {
+            "size": "47",
+            "id": "Customer-oriented personality",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Customer-oriented personality"
+        },
+        {
+            "size": "340",
+            "id": "Reliability",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Reliability"
+        },
+        {
+            "size": "334",
+            "id": "Flexibility",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Flexibility"
+        },
+        {
+            "size": "266",
+            "id": "Self-motivation",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Self-motivation"
+        },
+        {
+            "size": "56",
+            "id": "PLC (Programmable logic controller)",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "PLC (Programmable logic controller)"
+        },
+        {
+            "size": "67",
+            "id": "Structured work",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Structured work"
+        },
+        {
+            "size": "124",
+            "id": "Open personality",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Open personality"
+        },
+        {
+            "size": "81",
+            "id": "3D CAD systems",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "3D CAD systems"
+        },
+        {
+            "size": "127",
+            "id": "Resilience",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Resilience"
+        },
+        {
+            "size": "52",
+            "id": "Willingness to travel",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Willingness to travel"
+        },
+        {
+            "size": "60",
+            "id": "Consulting",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Consulting"
+        },
+        {
+            "size": "523",
+            "id": "Independence",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Independence"
+        },
+        {
+            "size": "80",
+            "id": "Apprenticeship in mechatronics",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Apprenticeship in mechatronics"
+        },
+        {
+            "size": "169",
+            "id": "Automation",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Automation"
+        },
+        {
+            "size": "200",
+            "id": "Word",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Word"
+        },
+        {
+            "size": "135",
+            "id": "Computer skills",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Computer skills"
+        },
+        {
+            "size": "103",
+            "id": "Driving license",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Driving license"
+        },
+        {
+            "size": "141",
+            "id": "Leadership",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Leadership"
+        },
+        {
+            "size": "83",
+            "id": "Analytical skills",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Analytical skills"
+        },
+        {
+            "size": "145",
+            "id": "Mechanical engineering",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Mechanical engineering"
+        },
+        {
+            "size": "39",
+            "id": "Automation engineer",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Automation engineer"
+        },
+        {
+            "size": "408",
+            "id": "Management",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Management"
+        },
+        {
+            "size": "107",
+            "id": "Electronics",
+            "y": "0",
+            "color": "rgba(70, 136, 241)",
+            "x": "0",
+            "label": "Electronics"
+        },
+        {
+            "size": "50",
+            "id": "Entrepreneurial mindset",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Entrepreneurial mindset"
+        },
+        {
+            "size": "50",
+            "id": "Conscientious, meticulous",
+            "y": "0",
+            "color": "rgba(249, 187, 45)",
+            "x": "0",
+            "label": "Conscientious, meticulous"
+        },
+        {
+            "size": "200",
+            "id": "Excel",
+            "y": "0",
+            "color": "rgba(232, 69, 60)",
+            "x": "0",
+            "label": "Excel"
+        }
+    ],
+    "histogram": [
+        {
+            "size": "8",
+            "histogram_color": 2,
+            "label": "Loyalty"
+        },
+        {
+            "size": "5",
+            "histogram_color": 2,
+            "label": "Decision-making"
+        },
+        {
+            "size": "58",
+            "histogram_color": 2,
+            "label": "Assertiveness"
+        },
+        {
+            "size": "36",
+            "histogram_color": 3,
+            "label": "Pharmaceutical education"
+        },
+        {
+            "size": "6",
+            "histogram_color": 1,
+            "label": "Marketing"
+        },
+        {
+            "size": "33",
+            "histogram_color": 1,
+            "label": "Metallurgy"
+        },
+        {
+            "size": "3",
+            "histogram_color": 1,
+            "label": "SQL"
+        },
+        {
+            "size": "30",
+            "histogram_color": 1,
+            "label": "Quality assurance"
+        },
+        {
+            "size": "19",
+            "histogram_color": 3,
+            "label": "Computer science"
+        },
+        {
+            "size": "9",
+            "histogram_color": 3,
+            "label": "Cook"
+        },
+        {
+            "size": "23",
+            "histogram_color": 1,
+            "label": "CATIA"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Proxy servers"
+        },
+        {
+            "size": "12",
+            "histogram_color": 1,
+            "label": "Methodological skills"
+        },
+        {
+            "size": "5",
+            "histogram_color": 1,
+            "label": "C++"
+        },
+        {
+            "size": "11",
+            "histogram_color": 1,
+            "label": "Medical technology"
+        },
+        {
+            "size": "123",
+            "histogram_color": 2,
+            "label": "Dynamism"
+        },
+        {
+            "size": "424",
+            "histogram_color": 2,
+            "label": "Team Skills"
+        },
+        {
+            "size": "117",
+            "histogram_color": 3,
+            "label": "Electrician apprenticeship"
+        },
+        {
+            "size": "340",
+            "histogram_color": 3,
+            "label": "Mechanic apprenticeship"
+        },
+        {
+            "size": "9",
+            "histogram_color": 3,
+            "label": "Civil engineering"
+        },
+        {
+            "size": "8",
+            "histogram_color": 2,
+            "label": "Perseverance"
+        },
+        {
+            "size": "75",
+            "histogram_color": 1,
+            "label": "Sales"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "C#"
+        },
+        {
+            "size": "7",
+            "histogram_color": 3,
+            "label": "Carrossier"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Structural engineering"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Railway engineering"
+        },
+        {
+            "size": "12",
+            "histogram_color": 1,
+            "label": "R Graphics"
+        },
+        {
+            "size": "1",
+            "histogram_color": 2,
+            "label": "Self-responsibility"
+        },
+        {
+            "size": "17",
+            "histogram_color": 2,
+            "label": "Negotiation skills"
+        },
+        {
+            "size": "40",
+            "histogram_color": 1,
+            "label": "Customer service"
+        },
+        {
+            "size": "716",
+            "histogram_color": 2,
+            "label": "German"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Screen printer"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Technical direction degree"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Editorial skills"
+        },
+        {
+            "size": "164",
+            "histogram_color": 1,
+            "label": "Project management"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Fire security"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Product designer"
+        },
+        {
+            "size": "98",
+            "histogram_color": 2,
+            "label": "Accuracy"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Accounting"
+        },
+        {
+            "size": "12",
+            "histogram_color": 3,
+            "label": "Food technologist apprenticeship"
+        },
+        {
+            "size": "6",
+            "histogram_color": 3,
+            "label": "Confectioner"
+        },
+        {
+            "size": "23",
+            "histogram_color": 2,
+            "label": "Conceptual thinking"
+        },
+        {
+            "size": "189",
+            "histogram_color": 1,
+            "label": "Powerpoint"
+        },
+        {
+            "size": "7",
+            "histogram_color": 2,
+            "label": "Creativity"
+        },
+        {
+            "size": "18",
+            "histogram_color": 1,
+            "label": "Risk management"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Biology"
+        },
+        {
+            "size": "32",
+            "histogram_color": 2,
+            "label": "Networking skills"
+        },
+        {
+            "size": "4",
+            "histogram_color": 3,
+            "label": "Stylist"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Surgeon"
+        },
+        {
+            "size": "4",
+            "histogram_color": 1,
+            "label": "Law knowledge"
+        },
+        {
+            "size": "16",
+            "histogram_color": 3,
+            "label": "Carpenter"
+        },
+        {
+            "size": "8",
+            "histogram_color": 3,
+            "label": "Engineering degree"
+        },
+        {
+            "size": "7",
+            "histogram_color": 1,
+            "label": "Data management"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Python"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Social media"
+        },
+        {
+            "size": "44",
+            "histogram_color": 1,
+            "label": "Quality control"
+        },
+        {
+            "size": "15",
+            "histogram_color": 3,
+            "label": "Economics degree"
+        },
+        {
+            "size": "20",
+            "histogram_color": 1,
+            "label": "Autocad"
+        },
+        {
+            "size": "6",
+            "histogram_color": 2,
+            "label": "Punctuality"
+        },
+        {
+            "size": "22",
+            "histogram_color": 1,
+            "label": "Hygiene awareness"
+        },
+        {
+            "size": "125",
+            "histogram_color": 3,
+            "label": "Safety and security"
+        },
+        {
+            "size": "7",
+            "histogram_color": 2,
+            "label": "Pragmatic"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Intellectual property"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "CMS"
+        },
+        {
+            "size": "103",
+            "histogram_color": 2,
+            "label": "Organizational Skills"
+        },
+        {
+            "size": "141",
+            "histogram_color": 2,
+            "label": "French"
+        },
+        {
+            "size": "246",
+            "histogram_color": 3,
+            "label": "Electrical engineering"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Swift"
+        },
+        {
+            "size": "9",
+            "histogram_color": 1,
+            "label": "Agile development methods"
+        },
+        {
+            "size": "19",
+            "histogram_color": 3,
+            "label": "Business administration"
+        },
+        {
+            "size": "4",
+            "histogram_color": 1,
+            "label": "XML"
+        },
+        {
+            "size": "100",
+            "histogram_color": 1,
+            "label": "SAP"
+        },
+        {
+            "size": "10",
+            "histogram_color": 3,
+            "label": "Painter"
+        },
+        {
+            "size": "32",
+            "histogram_color": 3,
+            "label": "Draftsman"
+        },
+        {
+            "size": "2",
+            "histogram_color": 2,
+            "label": "Empathy"
+        },
+        {
+            "size": "11",
+            "histogram_color": 1,
+            "label": "Finances"
+        },
+        {
+            "size": "205",
+            "histogram_color": 1,
+            "label": "CNC (Computer Numeric Control)"
+        },
+        {
+            "size": "238",
+            "histogram_color": 2,
+            "label": "Communication Skills"
+        },
+        {
+            "size": "452",
+            "histogram_color": 2,
+            "label": "English"
+        },
+        {
+            "size": "6",
+            "histogram_color": 3,
+            "label": "System engineer"
+        },
+        {
+            "size": "47",
+            "histogram_color": 2,
+            "label": "Customer-oriented personality"
+        },
+        {
+            "size": "17",
+            "histogram_color": 1,
+            "label": "Human resources"
+        },
+        {
+            "size": "10",
+            "histogram_color": 2,
+            "label": "High quality standards"
+        },
+        {
+            "size": "340",
+            "histogram_color": 2,
+            "label": "Reliability"
+        },
+        {
+            "size": "15",
+            "histogram_color": 3,
+            "label": "Locksmith"
+        },
+        {
+            "size": "14",
+            "histogram_color": 3,
+            "label": "Plumber apprenticeship"
+        },
+        {
+            "size": "334",
+            "histogram_color": 2,
+            "label": "Flexibility"
+        },
+        {
+            "size": "266",
+            "histogram_color": 2,
+            "label": "Self-motivation"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Beautician"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Mathematics"
+        },
+        {
+            "size": "11",
+            "histogram_color": 2,
+            "label": "Willingness to learn"
+        },
+        {
+            "size": "56",
+            "histogram_color": 1,
+            "label": "PLC (Programmable logic controller)"
+        },
+        {
+            "size": "7",
+            "histogram_color": 1,
+            "label": "Database systems"
+        },
+        {
+            "size": "67",
+            "histogram_color": 2,
+            "label": "Structured work"
+        },
+        {
+            "size": "124",
+            "histogram_color": 2,
+            "label": "Open personality"
+        },
+        {
+            "size": "8",
+            "histogram_color": 2,
+            "label": "Italian"
+        },
+        {
+            "size": "11",
+            "histogram_color": 1,
+            "label": "Windows"
+        },
+        {
+            "size": "10",
+            "histogram_color": 1,
+            "label": "Software development"
+        },
+        {
+            "size": "81",
+            "histogram_color": 1,
+            "label": "3D CAD systems"
+        },
+        {
+            "size": "4",
+            "histogram_color": 1,
+            "label": "Assembly language"
+        },
+        {
+            "size": "36",
+            "histogram_color": 3,
+            "label": "Chemistry"
+        },
+        {
+            "size": "127",
+            "histogram_color": 2,
+            "label": "Resilience"
+        },
+        {
+            "size": "52",
+            "histogram_color": 2,
+            "label": "Willingness to travel"
+        },
+        {
+            "size": "60",
+            "histogram_color": 1,
+            "label": "Consulting"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Writing skills"
+        },
+        {
+            "size": "523",
+            "histogram_color": 2,
+            "label": "Independence"
+        },
+        {
+            "size": "4",
+            "histogram_color": 3,
+            "label": "Joiner"
+        },
+        {
+            "size": "80",
+            "histogram_color": 3,
+            "label": "Apprenticeship in mechatronics"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Translation"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Interior design"
+        },
+        {
+            "size": "8",
+            "histogram_color": 1,
+            "label": "Adobe Illustrator"
+        },
+        {
+            "size": "32",
+            "histogram_color": 1,
+            "label": "Social skills"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Software architecture"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "HPLC"
+        },
+        {
+            "size": "169",
+            "histogram_color": 1,
+            "label": "Automation"
+        },
+        {
+            "size": "200",
+            "histogram_color": 1,
+            "label": "Word"
+        },
+        {
+            "size": "5",
+            "histogram_color": 3,
+            "label": "Microtechnology engineer"
+        },
+        {
+            "size": "16",
+            "histogram_color": 2,
+            "label": "Quick learning"
+        },
+        {
+            "size": "135",
+            "histogram_color": 1,
+            "label": "Computer skills"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "VBA"
+        },
+        {
+            "size": "19",
+            "histogram_color": 1,
+            "label": "Acquisition business knowledge"
+        },
+        {
+            "size": "13",
+            "histogram_color": 2,
+            "label": "Enthusiasm"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Plasterer"
+        },
+        {
+            "size": "103",
+            "histogram_color": 2,
+            "label": "Driving license"
+        },
+        {
+            "size": "22",
+            "histogram_color": 3,
+            "label": "Graphic designer"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Advertising"
+        },
+        {
+            "size": "3",
+            "histogram_color": 1,
+            "label": "Matlab"
+        },
+        {
+            "size": "141",
+            "histogram_color": 2,
+            "label": "Leadership"
+        },
+        {
+            "size": "6",
+            "histogram_color": 1,
+            "label": "Outlook"
+        },
+        {
+            "size": "8",
+            "histogram_color": 2,
+            "label": "Presentation skills"
+        },
+        {
+            "size": "83",
+            "histogram_color": 2,
+            "label": "Analytical skills"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Nurse"
+        },
+        {
+            "size": "9",
+            "histogram_color": 3,
+            "label": "Business degree"
+        },
+        {
+            "size": "37",
+            "histogram_color": 3,
+            "label": "Technical education degree"
+        },
+        {
+            "size": "2",
+            "histogram_color": 2,
+            "label": "Diplomatic tact"
+        },
+        {
+            "size": "145",
+            "histogram_color": 3,
+            "label": "Mechanical engineering"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Object-oriented design"
+        },
+        {
+            "size": "1",
+            "histogram_color": 1,
+            "label": "Visual studio"
+        },
+        {
+            "size": "20",
+            "histogram_color": 3,
+            "label": "Heating engineer"
+        },
+        {
+            "size": "11",
+            "histogram_color": 3,
+            "label": "Commercial degree"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Architecture"
+        },
+        {
+            "size": "39",
+            "histogram_color": 3,
+            "label": "Automation engineer"
+        },
+        {
+            "size": "408",
+            "histogram_color": 2,
+            "label": "Management"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Traffic engineering"
+        },
+        {
+            "size": "7",
+            "histogram_color": 2,
+            "label": "Dedication"
+        },
+        {
+            "size": "31",
+            "histogram_color": 1,
+            "label": "Logistics"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Data manager"
+        },
+        {
+            "size": "3",
+            "histogram_color": 3,
+            "label": "Restoration apprenticeship"
+        },
+        {
+            "size": "1",
+            "histogram_color": 3,
+            "label": "Sanitary engineer"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Scrum"
+        },
+        {
+            "size": "2",
+            "histogram_color": 3,
+            "label": "Machinists"
+        },
+        {
+            "size": "107",
+            "histogram_color": 3,
+            "label": "Electronics"
+        },
+        {
+            "size": "50",
+            "histogram_color": 2,
+            "label": "Entrepreneurial mindset"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Visual basic"
+        },
+        {
+            "size": "50",
+            "histogram_color": 2,
+            "label": "Conscientious, meticulous"
+        },
+        {
+            "size": "39",
+            "histogram_color": 3,
+            "label": "Teacher"
+        },
+        {
+            "size": "7",
+            "histogram_color": 1,
+            "label": "Perl"
+        },
+        {
+            "size": "42",
+            "histogram_color": 1,
+            "label": "Sustainability"
+        },
+        {
+            "size": "200",
+            "histogram_color": 1,
+            "label": "Excel"
+        },
+        {
+            "size": "3",
+            "histogram_color": 1,
+            "label": "Succession planning"
+        },
+        {
+            "size": "7",
+            "histogram_color": 1,
+            "label": "Building codes"
+        },
+        {
+            "size": "4",
+            "histogram_color": 2,
+            "label": "Sociability"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Insurance business knowledge"
+        },
+        {
+            "size": "2",
+            "histogram_color": 1,
+            "label": "Shell"
+        }
+    ]
+}
